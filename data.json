@@ -1,239 +1,391 @@
 [
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn từ rào chắn đến phần có điện cao áp xoay chiều từ 15 kV đến 35 kV là bao nhiêu?",
-    "answer": "0,7 m"
+    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn từ rào chắn đến phần có điện cao áp xoay chiều từ 15kV đến 35 kV là.",
+    "answer": "0,6 m"
   },
   {
-    "question": "Đối với công trình lưới điện cấp điện áp đến 110kV, chiều cao hành lang được tính từ đáy móng cột đến điểm cao nhất của công trình cộng thêm khoảng cách an toàn theo chiều thẳng đứng là bao nhiêu?",
-    "answer": "2 m"
+    "question": "Đối với công trình lưới điện cấp điện áp đến 110kV, chiều cao hành lang được tính từ đáy móng cột đến điểm cao nhất của công trình cộng thêm khoảng cách an toàn theo chiều thẳng đứng là bao nhiêu:",
+    "answer": "3 m"
   },
   {
     "question": "Các mối nguy khi làm việc với thiết bị nâng?",
-    "answer": "Tất cả các ý còn lại đều đúng"
+    "answer": "Tất cả các Ý còn lại đều đúng"
   },
   {
-    "question": "Yêu cầu đối với chiều rộng chân thang là?",
+    "question": "Yêu cầu đối với chiều rộng chân thang là:",
     "answer": "Chiều rộng chân thang ít nhất là 50 cm"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 10kV là bao nhiêu?",
-    "answer": "0,7 m"
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 110kV là:",
+    "answer": "1,5 m"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 35kV là bao nhiêu?",
-    "answer": "1 m"
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 35kV là:",
+    "answer": "1m"
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn từ rào chắn đến phần mang điện từ 1 kV đến 15 kV là bao nhiêu?",
+    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn từ rào chắn đến phần có điện cao áp xoay chiều từ 1kV đến 15kV là:",
     "answer": "0,35 m"
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp trên 35 kV đến 110 kV là bao nhiêu?",
+    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp trên 35kV đến 110kV là:",
     "answer": "1,5 m"
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 22 kV là bao nhiêu?",
-    "answer": "0,7 m"
+    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 22kV là:",
+    "answer": "0,6 m"
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 35 kV là bao nhiêu?",
-    "answer": "1 m"
+    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 35kV là:",
+    "answer": "0,6 m"
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 110 kV là bao nhiêu?",
+    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất để đặt rào chắn đến phần có điện đối với cấp điện áp 110kV là:",
     "answer": "1,5 m"
   },
   {
-    "question": "Đối với đường dây cấp điện đi trên mặt đất hoặc trên không thì hành lang bảo vệ an toàn đường dây là bao nhiêu?",
+    "question": "Đối với đường cáp điện đi trên mặt đất hoặc trên không thì hành lang bảo vệ an toàn đường cáp được giới hạn về các phía được tính từ mặt ngoài của sợi cáp ngoài cùng trở ra là bao nhiêu.",
+    "answer": "0,5 m"
+  },
+  {
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp từ 1kV đến 15kV là:",
     "answer": "0,7 m"
+  },
+  {
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp trên 15kV đến 35kV là:",
+    "answer": "1,0 m"
+  },
+  {
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp trên 35kV đến 110kV là:",
+    "answer": "1,5 m"
+  },
+  {
+    "question": "Quy định về bậc an toàn điện tối thiểu của người giám sát an toàn điện:",
+    "answer": "4/5"
   },
   {
     "question": "Trách nhiệm của người giám sát an toàn điện trên lưới điện hạ áp phải như thế nào?",
-    "answer": "Tất cả các ý còn lại đều đúng"
+    "answer": "Tất cả các Ý còn lại đều đúng"
   },
   {
-    "question": "Khi làm việc theo lệnh công tác, người chỉ huy trực tiếp phải đáp ứng điều kiện nào?",
-    "answer": "Có bậc 4 an toàn điện trở lên, được công nhận chức danh 'Người chỉ huy trực tiếp' theo quy định. Nắm vững thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc."
+    "question": "Khi làm việc theo lệnh công tác, Người chỉ huy trực tiếp phải đáp ứng điều kiện nào?",
+    "answer": "Có bậc 3 an toàn điện trở lên, được công nhận chức danh “Người chỉ huy trực tiếp” theo quy định. Nắm vững thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc"
   },
   {
     "question": "Nếu phát hiện nhân viên có dấu hiệu vi phạm dẫn đến mất an toàn, người chỉ huy trực tiếp phải làm gì?",
-    "answer": "Có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc."
+    "answer": "Có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc"
   },
   {
     "question": "Khi thực hiện cho phép làm việc, người cho phép phải cùng với những người nào kiểm tra các biện pháp an toàn thuộc trách nhiệm của mình đã thực hiện đủ và đúng?",
-    "answer": "Người chỉ huy trực tiếp và người giám sát an toàn điện (nếu có)."
+    "answer": "Người chỉ huy trực tiếp và người giám sát an toàn điện (nếu có)"
   },
   {
     "question": "Trong khi tiến hành công việc theo Lệnh công tác, có được thay đổi nội dung công việc hoặc mở rộng phạm vi làm việc trong Lệnh công tác đã cấp không?",
-    "answer": "Không được phép trong bất kỳ trường hợp nào"
+    "answer": "Không được phép trong bất cứ trường hợp nào"
   },
   {
-    "question": "Đối với đường dây dẫn điện có điện áp đến 35 kV (dây trần) trong thành phố, thị xã, thị trấn thì khoảng cách từ điểm bất kỳ của cây đến dây dẫn điện ở trạng thái võng cực đại không nhỏ hơn bao nhiêu?",
+    "question": "Đối với đường dây dẫn điện có điện áp đến 35 kV (dây trần) trong thành phố, thị xã, thị trấn thì khoảng cách từ điểm bất kỳ của cây đến dây dẫn điện ở trạng thái võng cực đại không nhỏ hơn bao nhiêu.",
     "answer": "1,5 m"
   },
   {
-    "question": "Khi làm việc trên đường dây điện trên không hạ áp có điện hoặc tiếp xúc trực tiếp với phần có điện hạ áp phải thực hiện những quy định nào sau đây?",
+    "question": "Khi làm việc trên đường dây điện trên không hạ áp có điện hoặc tiếp xúc trực tiếp với phần có điện hạ áp phải thực hiện những quy định sau đây:",
     "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
-    "question": "Khi sử dụng thiết bị, dụng cụ, phương tiện (trừ phương tiện phục vụ sửa chữa nóng) làm việc trong hành lang bảo vệ an toàn lưới điện cao áp trên 1 đến 35 kV phải đảm bảo khoảng cách an toàn phóng điện là bao nhiêu mét?",
+    "question": "Khi sử dụng thiết bị, dụng cụ, phương tiện (trừ phương tiện phục vụ sửa chữa nóng) làm việc trong hành lang bảo vệ an toàn lưới điện cao áp trên 1 đến 35kV phải đảm bảo khoảng cách an toàn phóng điện là bao nhiêu mét ?",
     "answer": "4 mét"
   },
   {
     "question": "Biện pháp an toàn nào sau đây khi chặt, tỉa cây vi phạm hành lang bảo vệ an toàn đường dây đang có điện là đúng?",
-    "answer": "Phải cắt điện đường dây điện trên không khi chặt cây, chặt cành có khả năng đổ, rơi vào đường dây"
+    "answer": "Phải cắt điện đường dây điện trên không khi chặt cây, chặt cành có khả năng đổ, rơi vào đường dây điện trên không. Nếu không cắt điện thì phải có biện pháp để hạ cây, cành an toàn"
   },
   {
-    "question": "Khi phát hiện dây dẫn bị đứt hoặc có nguy cơ xảy ra tai nạn, người chỉ huy trực tiếp phải làm gì?",
-    "answer": "Phải cho Nhân viên đơn vị công tác ra khỏi khu vực nguy hiểm có thể xảy ra do đứt dây hoặc đổ, gãy cột, lũ quét, lở đất."
+    "question": "Làm việc với đường dây điện trên không khi có giông bão hoặc sắp có giông bão người chỉ huy trực tiếp phải:",
+    "answer": "Phải cho Nhân viên đơn vị công tác ra khỏi khu vực nguy hiểm có thể xảy ra do đứt dây hoặc đổ, gẫy cột, lũ quét, lở đất"
   },
   {
     "question": "Ai là người có trách nhiệm kiểm tra việc chất lượng các dụng cụ, trang bị an toàn của nhân viên đơn vị công tác trong khi làm việc?",
     "answer": "Người chỉ huy trực tiếp"
   },
   {
-    "question": "Trường khi sử dụng bút thử điện cần kiểm tra những nội dung nào sau đây?",
-    "answer": "Kiểm tra bên ngoài, kiểm tra nguồn pin, kiểm tra tính năng phát hiện dòng điện."
+    "question": "Người làm việc tại nơi cắt điện từng phần phải có bậc mấy an toàn điện tối thiểu là bao nhiêu",
+    "answer": "Bậc 3/5"
   },
   {
-    "question": "Không cho phép thao tác tại chỗ thiết bị đóng cắt ngoài trời khi nào?",
+    "question": "Trước khi sử dụng bút thử điện cần kiểm tra những nội dung nào sau đây?",
+    "answer": "Kiểm tra bên ngoài, kiểm tra nguồn pin, kiểm tra tính năng phát hiện dòng điện"
+  },
+  {
+    "question": "Trường hợp cây ở ngoài hành lang bảo vệ an toàn đường dây dẫn điện 22kV trên không và ngoài thành phố, thị xã, thị trấn thì khoảng cách từ bộ phận bất kỳ của cây khi cây bị đổ đến bộ phận bất kỳ của đường dây không nhỏ hơn khoảng cách bao nhiêu.",
+    "answer": "0,7 m"
+  },
+  {
+    "question": "Khi dùng bút thử điện để kiểm tra không còn điện yêu cầu thử như thế nào là đúng?",
+    "answer": "Thử ở tất cả các pha và các phía của thiết bị điện"
+  },
+  {
+    "question": "Bảo quản bút thử điện như thế nào?",
+    "answer": "Nên lấy pin ra khi không sử dụng bút trong thời gian dài và phải để nơi khô ráo, tránh khu vực ẩm ướt, nhiệt độ cao, hóa chất ăn mòn"
+  },
+  {
+    "question": "Người thao tác đứng trên cột để thao tác thiết bị đóng cắt với cấp điện áp đến 35kV, ngoài việc mang găng tay cách điện phải giữ khoảng cách tối thiểu từ người đến thiết bị là bao nhiêu?",
+    "answer": "3m"
+  },
+  {
+    "question": "Khi thực hiện thao tác thiết bị điện nhất thứ cần bao nhiêu người?",
+    "answer": "Đều phải có 02 (hai) người phối hợp thực hiện: 01 (một) người giám sát và 01 (một) người thao tác trực tiếp"
+  },
+  {
+    "question": "Không cho phép thao tác tại chỗ thiết bị đóng cắt ngoài trời khi:",
     "answer": "Ngoài trời có mưa tạo thành dòng chảy trên thiết bị điện, giông sét, ngập lụt, gió từ cấp 06 trở lên"
   },
   {
-    "question": "Trong khi tiến hành công việc, nếu mở rộng phạm vi làm việc thì phải làm gì?",
-    "answer": "Cấp phiếu công tác mới."
+    "question": "Trong khi tiến hành công việc, nếu mở rộng phạm vi làm việc thì phải:",
+    "answer": "Cấp phiếu công tác mới"
   },
   {
     "question": "Người giám sát an toàn điện phải đáp ứng điều kiện nào sau đây?",
-    "answer": "Tất cả các ý còn lại đều đúng."
+    "answer": "Tất cả các Ý còn lại đều đúng"
   },
   {
     "question": "Trách nhiệm của người giám sát an toàn điện khi làm việc theo lệnh công tác?",
-    "answer": "Tất cả các ý còn lại đều đúng."
+    "answer": "Tất cả các Ý còn lại đều đúng"
   },
   {
-    "question": "Những công việc nào sau đây được xem là công việc làm gần đường dây cao áp đang vận hành?",
-    "answer": "Tất cả các ý còn lại đều đúng."
+    "question": "Những công việc nào sau đây được xem là công việc làm gần đường dây cao áp đang vận hành:",
+    "answer": "Tất cả các Ý còn lại đều đúng"
   },
   {
-    "question": "Cho phép leo lên cột của đường dây 110kV đang vận hành để kiểm tra sứ, dây dẫn, dây chống sét, sơn xà... với điều kiện khoảng cách nằm ngang nhỏ nhất từ mép ngoài cùng của thân cột đến dây dẫn là bao nhiêu?",
+    "question": "Cho phép leo lên cột của đường dây 110kV đang vận hành để kiểm tra sứ, dây dẫn, dây chống sét, sơn xà… với điều kiện khoảng cách nằm ngang nhỏ nhất từ mép ngoài cùng của thân cột đến dây dẫn là bao nhiêu?",
     "answer": "1,5 mét"
   },
   {
-    "question": "Khi làm việc trên đường dây 22 kV đang vận hành, nhân viên công tác sử dụng các trang bị, dụng cụ cho làm việc có điện, thì khoảng cách cho phép nhỏ nhất đối với thân thể của nhân viên đơn vị công tác đến dây dẫn điện phải đảm bảo bao nhiêu?",
-    "answer": "0,6 m"
+    "question": "Khi làm việc trên đường dây 22 kV đang vận hành, nhân viên đơn vị công tác sử dụng các trang bị, dụng cụ cho làm việc có điện, thì khoảng cách cho phép nhỏ nhất đối với thân thể của nhân viên đơn vị công tác đến dây dẫn điện phải đảm bảo:",
+    "answer": "0,6 (m)"
   },
   {
-    "question": "Phối hợp an toàn nhiều đơn vị công tác khi làm việc trên đường dây dẫn điện đã cắt điện hoặc có điện?",
-    "answer": "Tất cả các ý còn lại đều đúng."
+    "question": "Phối hợp an toàn nhiều đơn vị công tác khi làm việc trên đường dây dẫn điện đã cắt điện hoặc có điện",
+    "answer": "Tất cả các Ý còn lại đều đúng"
   },
   {
     "question": "Khi thực hành di chuyển trong khu vực trạm điện, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp 22 kV là bao nhiêu?",
     "answer": "1,0 m"
   },
   {
-    "question": "Khi di chuyển, vận hành trong khu vực trạm, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp trên 35 kV đến 110 kV là bao nhiêu?",
-    "answer": "1,5 m"
+    "question": "Khi di chuyển, vận hành trong khu vực trạm, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp trên 35 kV đến 110kV là bao nhiêu?",
+    "answer": "1,5m"
   },
   {
     "question": "Khi thực hành sử dụng thang di động để làm việc trên cao, thực hiện như thế nào là đúng?",
-    "answer": "Khi lên, xuống thang quay mặt vào thang, nắm hai tay vào thanh dọc khi leo."
+    "answer": "Khi lên, xuống thang quay mặt vào thang, nắm hai tay vào thanh dọc khi leo"
   },
   {
-    "question": "Để đảm bảo an toàn khi thực hành sử dụng thang di động trong điều kiện bình thường, phải dựng thang so với mặt phẳng thẳng đứng như thế nào?",
-    "answer": "Dựng thang đúng quy cách theo tỷ lệ 1 - 4 (có nghĩa là chiều rộng ra so với mặt thẳng đứng của thang là 1 thì chiều cao lên của thang là 4)."
+    "question": "Để bảo đảm an toàn khi thực hành sử dụng thang di động trong điều kiện bình thường, phải dựng thang so với mặt phẳng thẳng đứng như thế nào?",
+    "answer": "Dựng thang đúng quy cách theo tỷ lệ 1 – 4 (có nghĩa là chiều rộng ra so với mặt thẳng đứng của thang là 1 thì chiều cao lên của thang là 4)"
   },
   {
     "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện hạ áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
     "answer": "Tất cả các đáp án còn lại đều đúng"
   },
   {
-    "question": "Người trực tiếp làm công tác quản lý vận hành, kinh doanh, thí nghiệm, sửa chữa, xây dựng điện phải đảm bảo các yêu cầu chung nào sau đây?",
-    "answer": "Có sức khỏe đủ tiêu chuẩn theo quy định của pháp luật về lao động."
+    "question": "Người trực tiếp làm công tác quản lý vận hành, kinh doanh, thí nghiệm, sửa chữa, xây dựng điện phải đảm bảo các yêu cầu chung nào sau đây.",
+    "answer": "Có sức khỏe đủ tiêu chuẩn theo quy định của pháp luật về lao động"
   },
   {
-    "question": "Cứu chữa nạn nhân như thế nào sau khi đã tách ra khỏi mạch điện mà nạn nhân chưa mất trí giác (chỉ bị hôn mê trong giây lát, tim còn đập, thở yếu)?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "question": "Cứu chữa nạn nhân như thế nào sau khi đã tách ra khỏi mạch điện mà nạn nhân chưa mất tri giác (chỉ bị hôn mê trong giây lát, tim còn đập, thở yếu)?",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
   },
   {
     "question": "Cứu chữa nạn nhân như thế nào khi tách nạn nhân khỏi mạch điện mà nạn nhân đã tắt thở (tim ngừng đập, toàn thân co giật giống như chết)?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
-    "question": "Phương pháp cứu chữa có hiệu quả phổ biến nhất hiện nay ngay sau khi nạn nhân được tách khỏi mạch điện, đó là?",
+    "question": "Phương pháp cứu chữa có hiệu quả phổ biến nhất hiện nay ngay sau khi nạn nhân được tách khỏi mạch điện, đó là:",
     "answer": "Phương pháp hồi sinh tổng hợp"
   },
   {
-    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân mất trí giác, tim còn đập, còn thở)?",
-    "answer": "Đưa nạn nhân ra chỗ thoáng khí, nơi rộng quần, áo, thắt lưng, mỏi rớt rãi trong miệng; đặt nạn nhân nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc."
+    "question": "Các biện pháp cần áp dụng để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân chưa mất tri giác):",
+    "answer": "Đưa nạn nhân ra chỗ thoáng khí, yên tĩnh chăm sóc cho hồi tỉnh, sau đó mời y bác sỹ hoặc nhẹ nhàng đưa nạn nhân đến cơ sở y tế gần nhất để theo dõi chăm sóc"
   },
   {
-    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân đã tắt thở, tim ngừng đập)?",
-    "answer": "Tất cả các phương pháp hồi sinh tổng hợp liên tục đến khi nạn nhân tỉnh hoặc có ý kiến của y, bác sĩ."
+    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân mất tri giác, tim còn đập, còn thở):",
+    "answer": "Đưa nạn nhân ra chỗ thoáng khí, nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm; đặt nạn nhân nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc"
   },
   {
-    "question": "Những biện pháp kỹ thuật chuẩn bị nơi làm việc phải cắt điện bao gồm?",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng."
+    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân đã tắt thở, tim ngừng đập):",
+    "answer": "Tất cả các đáp án còn lại đều đúng"
   },
   {
-    "question": "Khi đã cắt điện nhưng tín hiệu đèn, rơ le, đồng hồ báo tín hiệu có điện thì nhân viên đơn vị công tác phải làm gì?",
-    "answer": "Xem như thiết bị vẫn có điện."
+    "question": "Những biện pháp kỹ thuật chuẩn bị nơi làm việc phải cắt điện bao gồm:",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
   },
   {
-    "question": "Khi làm việc ở nhiều vị trí trên một đoạn đường dây điện trên không (không giao chéo hoặc đi song song với đường dây khác) không có nhánh rẽ, khoảng cách xa nhất giữa hai bộ nối đất không lớn hơn bao nhiêu?",
+    "question": "Khi đã cắt điện nhưng tín hiệu đèn, rơ le, đồng hồ báo tín hiệu có điện thì nhân viên đơn vị công tác phải:",
+    "answer": "Xem như thiết bị vẫn có điện"
+  },
+  {
+    "question": "Khi làm việc ở nhiều vị trí trên một đoạn đường dây điện trên không (không giao chéo hoặc đi song song với đường dây khác) không có nhánh rẽ, khoảng cách xa nhất giữa hai bộ nối đất không lớn hơn",
     "answer": "2 km"
   },
   {
-    "question": "Công nhân A công tác xong, đã khóa phiếu, sau đó tự ý leo lên đấu lại một dây lèo còn sót trong phạm vi vừa công tác. Công nhân A đã vi phạm gì?",
-    "answer": "Tất cả các vi phạm"
+    "question": "Công nhân A công tác xong, đã khóa phiếu, sau đó tự ý leo lên đấu lại một dây lèo còn sót trong phạm vi vừa công tác. Công nhân A đã vi phạm:",
+    "answer": "Tất cả các đáp án đều đúng"
   },
   {
     "question": "Theo quy trình an toàn điện, phiếu công tác do ai cấp?",
     "answer": "Người được cấp có thẩm quyền có quyết định công nhận chức danh Người cấp phiếu công tác"
   },
   {
-    "question": "Người nào phải chịu trách nhiệm chỉ dẫn cho Đơn vị công tác nơi làm việc, phạm vi được phép làm việc, những nơi (phần, thiết bị) có điện gần nơi làm việc?",
-    "answer": "Người cho phép."
+    "question": "Người nào phải chịu trách nhiệm chỉ dẫn cho Đơn vị công tác nơi làm việc, phạm vi được phép làm việc, những nơi (phần, thiết bị) có điện gần nơi làm việc",
+    "answer": "Người cho phép"
   },
   {
     "question": "Việc tiếp nhận nơi làm việc do Người chỉ huy trực tiếp bàn giao khi Đơn vị công tác kết thúc công việc; kiểm tra nội dung công việc, nơi làm việc, ký khóa phiếu công tác và thông báo cho các đơn vị liên quan là trách nhiệm của ai?",
-    "answer": "Người cho phép."
+    "answer": "Người cho phép"
   },
   {
     "question": "Người chỉ đạo chung khi công việc do nhiều đơn vị công tác của cùng một tổ chức hoạt động điện lực thực hiện được gọi là gì?",
-    "answer": "Người lãnh đạo công việc."
+    "answer": "Người lãnh đạo công việc"
   },
   {
-    "question": "Khi làm việc tại một công trình điện lực có nhiều Đơn vị công tác khác nhau thì việc thực hiện biện pháp kỹ thuật an toàn tại nơi làm việc của các đơn vị công tác được thực hiện như thế nào?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "question": "Khi làm việc tại một công trình điện lực có nhiều Đơn vị công tác khác nhau thì việc thực hiện biện pháp kỹ thuật an toàn tại nơi làm việc của các đơn vị công tác được thực hiện như thế nào ?",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp trên 15 kV đến 35 kV là bao nhiêu?",
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp trên 15kV đến 35kV là.",
     "answer": "1,0 m"
   },
   {
-    "question": "Để đảm bảo an toàn trong khi tiến hành công việc theo Lệnh công tác, đơn vị công tác có được phép thay đổi nội dung hoặc mở rộng phạm vi làm việc không?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "question": "Để đảm bảo an toàn trong khi tiến hành công việc theo Lệnh công tác, đơn vị công tác có được phép thay đổi nội dung hoặc mở rộng phạm vi làm việc.",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
     "question": "Có được sử dụng cưa máy và sào cách điện để cưa cây gần đường dây trên không không?",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng."
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
   },
   {
-    "question": "Những việc nào sau đây cho phép nhân viên vận hành không cần lập phiếu thao tác nhưng phải làm gì?",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng."
+    "question": "Những việc nào sau đây cho phép nhân viên vận hành không cần lập phiếu thao tác nhưng phải ghi chép đầy đủ các bước thao tác vào sổ nhật ký vận hành trước khi thực hiện thao tác?",
+    "answer": "Ý 1"
   },
   {
-    "question": "Khi công tác trên đường cáp cao áp thì phải làm gì?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "question": "Khi công tác trên đường cáp cao áp thì :",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
-    "question": "Nối đất khi làm việc trên đường dây điện hạ áp cho phép làm gì?",
-    "answer": "Chập 3 pha với dây trung tính và nối với đất."
+    "question": "Nối đất khi làm việc trên đường dây điện hạ áp cho phép:",
+    "answer": "Chập 3 pha với dây trung tính và nối với đất"
   },
   {
     "question": "Nếu thấy các điều kiện đảm bảo an toàn khi làm việc chưa đủ và đúng, Nhân viên đơn vị công tác phải làm gì?",
-    "answer": "Phải báo cáo ngay với người chỉ huy trực tiếp để xem xét giải quyết."
+    "answer": "Phải báo cáo ngay với người chỉ huy trực tiếp để xem xét giải quyết"
+  },
+  {
+    "question": "Khi trèo lên cột phải kiểm tra sơ bộ tình trạng của móng cột và cột, thực hiện như thế nào là sai?",
+    "answer": "Trèo cột phía đặt tay xà có sứ đỡ dây dẫn"
+  },
+  {
+    "question": "Thời gian kiểm tra định kỳ của thang?",
+    "answer": "6 tháng"
+  },
+  {
+    "question": "Quy định về kiểm tra, bảo quản dây đeo an toàn trong các trường hợp nào sau đây là đúng?",
+    "answer": "Tất cả các đáp án đều đúng"
+  },
+  {
+    "question": "Khi tiến hành thử nghiệm dây đeo an toàn thì trọng lượng thử và thời gian thử nghiệm đối với dây mới là bao nhiêu?",
+    "answer": "300 kg, 5 phút"
+  },
+  {
+    "question": "Khi thi công kéo dây gần đường dây 35kV đang vận hành, khoảng cách nhỏ nhất cho phép giữa dây cáp thép (cáp hãm, kép) và dây chằng thép tới dây dẫn của đường dây đang có điện là bao nhiêu:",
+    "answer": "2,5 m"
+  },
+  {
+    "question": "Khi làm việc trên đường dây đã cắt điện nhưng đi chung cột với đường dây đang vận hành, khoảng cách nhỏ nhất cho phép giữa các dây dẫn của hai mạch đường dây cấp điện áp 35kV là bao nhiêu:",
+    "answer": "3 mét"
+  },
+  {
+    "question": "Trước và trong khi làm việc, nếu nghi ngờ hoặc phát hiện có sự không bảo đảm an toàn, người phụ trách công tác phải xử lý:",
+    "answer": "Lập tức cho ngừng công việc và ra lệnh mọi người rút khỏi vị trí, khu vực không đảm bảo an toàn"
+  },
+  {
+    "question": "Khi làm việc trên cột điện, hành vi nào nào sau đây là đúng?",
+    "answer": "Cả Ý 2 và Ý 3 đều đúng"
+  },
+  {
+    "question": "Khi làm việc ở vị trí có độ cao hoặc độ sâu bao nhiêu so với mặt đất, nhân viên đơn vị công tác phải dùng các phương tiện lên xuống phù hợp:",
+    "answer": "Trên 2 mét"
+  },
+  {
+    "question": "Kết thúc công việc, nếu đã có lệnh tháo nối đất thì?",
+    "answer": "Cấm người tham gia thực hiện công việc tự ý vào nơi làm việc và tiếp xúc với thiết bị để làm bất cứ việc gì"
+  },
+  {
+    "question": "Bắt buộc người công nhân phải sử dụng dây đeo an toàn khi leo cột điện các loại đến độ cao nào?",
+    "answer": "Ngay khi bắt đầu leo"
+  },
+  {
+    "question": "Khi tiến hành thử nghiệm dây đeo an toàn thì trọng lượng thử và thời gian thử nghiệm đối với dây cũ là bao nhiêu?",
+    "answer": "225 kg, 5 phút"
+  },
+  {
+    "question": "Khi đấu nối công tơ lên đường dây hạ áp đang mang điện, phải thực hiện quy định nào sau đây:",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+  },
+  {
+    "question": "Khi di chuyển, vận hành trong khu vực trạm, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp 22 kV là bao nhiêu?",
+    "answer": "1,0 m"
+  },
+  {
+    "question": "Khi kiểm tra thiết bị còn điện áp hay không, cần:",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+  },
+  {
+    "question": "Trình tự khi đặt nối đất?",
+    "answer": "Lắp đầu dây nối đất với đất trước sau đó lắp đầu còn lại vào đường dây/thiết bị điện"
+  },
+  {
+    "question": "Khi thực hiện thao tác đặt nối đất lưu động lưu động có được để dây nối đất chạm vào người không?",
+    "answer": "Không được để dây nối đất va chạm vào người"
+  },
+  {
+    "question": "Những vật liệu nào sau đây có thể làm rào chắn tạm thời ngăn cách giữa phần thiết bị có điện với nơi làm việc",
+    "answer": "Cả Ý 2 và Ý 3 đều đúng"
+  },
+  {
+    "question": "Sau khi làm việc xong, muốn đóng điện lại vào thiết bị đã cắt điện thì phải thỏa mãn các điều kiện nào sau đây?",
+    "answer": "Tất cả các đáp án đều đúng"
+  },
+  {
+    "question": "Khi được giao thực hiện công việc mà thấy nguy hiểm, thiếu an toàn, nhân viên đơn vị công tác:",
+    "answer": "Được phép ngừng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết"
+  },
+  {
+    "question": "Quy định về quản lý dây đeo an toàn trong trường hợp nào sau đây là sai?",
+    "answer": "Trọng lượng thử đối với dây đeo an toàn cũ là 300kg, đối với dây đeo an toàn mới là 225kg"
+  },
+  {
+    "question": "Khi nghỉ giải lao, các nhân viên của đơn vị công tác vẫn phải chịu sự giám sát của ai?",
+    "answer": "Người chỉ huy trực tiếp"
+  },
+  {
+    "question": "Khi dây dẫn điện đứt, rơi xuống đất hoặc còn lơ lửng, phải có biện pháp để không cho mọi người đến gần trong phạm vi:",
+    "answer": "Dưới 10m"
+  },
+  {
+    "question": "Khi nghỉ giải lao xong (trong trường hợp phải ra khỏi phạm vi công tác), nhân viên đơn vị công tác phải làm gì?",
+    "answer": "Không được tự ý trở lại làm việc khi chưa có lệnh của người chỉ huy trực tiếp"
+  },
+  {
+    "question": "Khi sử dụng thang di động để làm việc trên cao, trường hợp nào sau đây là sai?",
+    "answer": "Đứng trên thang để dịch chuyển từ vị trí này sang vị trí khác"
+  },
+  {
+    "question": "Kết cấu và chất lượng thang di động trong trường hợp nào là sai quy định?",
+    "answer": "Bậc thang được phép đóng bằng đinh; không dùng dây thép buộc"
+  },
+  {
+    "question": "Khi làm việc trên cao, những hành vi nào sau đây bị cấm?",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
   },
   {
     "question": "Nghiêm cấm làm việc trên cao đối với những trường hợp nào sau đây?",
@@ -241,151 +393,159 @@
   },
   {
     "question": "Khi làm việc trên cao, thực hiện việc nào là đúng?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
     "question": "Khi làm việc ở trên cao, người công nhân cần phải làm gì?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "answer": "Tất cả các đáp án đều đúng"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 22 kV là bao nhiêu?",
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 22kV là:",
     "answer": "1 m"
   },
   {
-    "question": "Biện pháp an toàn khi trèo lên cột điện để ghi chỉ số công tơ?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "question": "Biện pháp an toàn khi trèo lên cột điện để ghi chỉ số công tơ:",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
   },
   {
     "question": "Khi phát hiện tổ chức, đơn vị, cá nhân vi phạm Quy trình an toàn điện và các quy trình có liên quan khác, có nguy cơ gây mất an toàn đối với người hoặc thiết bị điện, người phát hiện phải làm gì?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp trên 15 kV đến 35 kV là bao nhiêu?",
+    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp trên 15kV đến 35kV là?",
     "answer": "0,6 m"
   },
   {
-    "question": "Khoảng cách an toàn phóng điện từ cấp điện áp 1 kV đến 35 kV đối với thiết bị, dụng cụ, phương tiện (trừ xe chuyên dùng cho công tác sửa chữa điện) nhỏ nhất là bao nhiêu?",
+    "question": "Khoảng cách an toàn phóng điện từ cấp điện áp 1kV đến 35kV đối với thiết bị, dụng cụ, phương tiện (trừ xe chuyên dùng cho công tác sửa chữa điện) nhỏ nhất là báo nhiêu?",
     "answer": "4,0 m"
   },
   {
-    "question": "Theo Quy trình An toàn điện, điện hạ áp được quy ước như thế nào?",
-    "answer": "<1000 V"
+    "question": "Theo Quy trình An toàn điện, điện hạ áp được quy ước:",
+    "answer": "< 1000V"
   },
   {
-    "question": "Trường hợp nào sau đây cấm làm việc trên đường dây đã cắt điện?",
-    "answer": "Tất cả các đáp án còn lại đều đúng."
-  },
-  {
-    "question": "Trước khi trèo lên bệ đỡ, cột; nhân viên đơn vị công tác phải kiểm tra sơ bộ nội dung nào?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "question": "Trước khi trèo lên giá đỡ, cột; nhân viên đơn vị công tác phải kiểm tra sơ bộ nội dung nào?",
+    "answer": "Tất cả các đáp án đều đúng"
   },
   {
     "question": "Khi nối thang di động phải thực hiện như thế nào cho đúng?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
-    "question": "Theo Quy trình An toàn điện, điện cao áp được quy ước như thế nào?",
-    "answer": "Từ 1000V trở lên."
+    "question": "Các bước cơ bản để cứu người bị tai nạn điện, bao gồm.",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
   },
   {
-    "question": "Khi không thể thực hiện được công việc theo lệnh của Người chỉ huy trực tiếp hoặc nhận thấy thế nào là nguy hiểm?",
-    "answer": "Được phép ngưng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết."
+    "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện cao áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
+    "answer": "Mang ủng, găng tay cách điện và dùng sào cách điện để gạt hoặc đẩy nạn nhân ra khỏi mạch điện"
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, điện cao áp được quy ước:",
+    "answer": "Từ 1000V trở lên"
+  },
+  {
+    "question": "Khi không thể thực hiện được công việc theo lệnh của Người chỉ huy trực tiếp hoặc nhận thấy nguy hiểm, thiếu an toàn nếu thực hiện công việc đó theo lệnh thì Nhân viên đơn vị công tác xử lý như thế nào?",
+    "answer": "Được phép ngừng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết"
   },
   {
     "question": "Trách nhiệm Nhân viên đơn vị công tác như thế nào đúng?",
-    "answer": "Tất cả các đáp án còn lại đều đúng."
+    "answer": "Tất cả các đáp án còn lại đều đúng"
   },
   {
-    "question": "Khi thấy các điều kiện đảm bảo an toàn khi làm việc chưa đủ và đúng thì Nhân viên đơn vị công tác có trách nhiệm nào sau đây đúng?",
-    "answer": "Cả Ý 2 và Ý 3 đều đúng."
+    "question": "Khi thấy các điều kiện đảm bảo an toàn để làm việc chưa đủ và đúng thì Nhân viên đơn vị công tác có trách nhiệm nào sau đây đúng?",
+    "answer": "Cả Ý 2 và Ý 3 đều đúng"
   },
   {
-    "question": "Để đảm bảo an toàn trong công việc thực hiện theo Lệnh công tác, đơn vị công tác thực hiện các việc nào dưới đây là không đúng?",
-    "answer": "Được tự ý mở rộng phạm vi làm việc khi thấy đảm bảo an toàn."
+    "question": "Để đảm bảo an toàn trong công việc thực hiện theo Lệnh công tác, Nhân viên đơn vị công tác thực hiện các việc nào dưới đây là không đúng?",
+    "answer": "Được tự ý mở rộng phạm vi làm việc khi thấy đảm bảo an toàn"
   },
   {
-    "question": "Yêu cầu đảm bảo về an toàn khi làm việc gần nơi có điện là công việc nào?",
-    "answer": "Cả Ý 1 hoặc Ý 3."
+    "question": "Yêu cầu đảm bảo về an toàn khi làm việc gần nơi có điện là công việc:",
+    "answer": "Cả Ý 1 hoặc Ý 3"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 22 kV là bao nhiêu?",
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 22kV là:",
     "answer": "1 m"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 110 kV là bao nhiêu?",
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 110kV là:",
     "answer": "1,5 m"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 35 kV là bao nhiêu?",
-    "answer": "1 m"
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều toàn tối thiểu đến phần mang điện đối với cấp điện áp 35kV là:",
+    "answer": "1m"
   },
   {
-    "question": "Để tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện như thế nào?",
-    "answer": "Có thể dùng kìm cách điện, búa, rìu cán bằng gỗ để cắt, chặt đứt dây điện đang gây ra tai nạn..."
+    "question": "Để tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện:",
+    "answer": "Có thể dùng kìm cách điện, búa, rìu cán bằng gỗ để cắt, chặt đứt dây điện đang gây ra tai nạn…"
   },
   {
-    "question": "Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện như thế nào?",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng."
+    "question": "Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện:",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng"
   },
   {
     "question": "Khi làm việc trên cao, được phép thực hiện những việc gì sau đây?",
-    "answer": "Mang theo người những dụng cụ nhẹ như, tuốc-nơ-vít, cờ-lê, mỏ-lết, búa con... nhưng phải đựng trong túi dụng cụ chuyên dùng."
+    "answer": "Mang theo người những dụng cụ nhẹ như kìm, tuốc-nơ-vít, cờ-lê, mỏ-lết, búa con... nhưng phải đựng trong túi đựng đồ chuyên dùng"
   },
   {
     "question": "Khi công tác trên đường dây đã cắt điện phải tuân thủ điều nào?",
-    "answer": "Tất cả các đáp án còn lại đều đúng."
+    "answer": "Tất cả các đáp án còn lại đều đúng"
   },
   {
     "question": "Trường hợp nào sau đây cấm làm việc trên đường dây đã cắt điện?",
-    "answer": "Tất cả các đáp án còn lại đều đúng."
+    "answer": "Tất cả các đáp án còn lại đều đúng"
+  },
+  {
+    "question": "Khi chặt cây ở gần đường dây, phải thực hiện như thế nào là đúng quy định?",
+    "answer": "Dùng dây để buộc chuôi dụng cụ (dao, cưa,…) với cổ tay"
   },
   {
     "question": "Sử dụng dây đeo an toàn trong trường hợp nào sau đây là sai?",
-    "answer": "Khi leo từ cột xuống: cho phép tháo quàng dây choàng vào cột."
+    "answer": "Khi leo từ cột xuống: cho phép không quàng dây choàng vào cột"
   },
   {
-    "question": "Cấm làm việc trên đường dây điện trên không khi nào?",
-    "answer": "Bất đầu có gió cấp 5 trở lên hoặc có mưa nặng hạt, nước chảy thành dòng trên người và thiết bị điện."
+    "question": "Cấm làm việc trên đường dây điện trên không khi:",
+    "answer": "Bắt đầu có gió cấp 6 trở lên hoặc có mưa nặng hạt, nước chảy thành dòng trên người và thiết bị điện"
   },
   {
-    "question": "Cấm chặt (cưa) cây ở gần đường dây điện trên không khi có gió nào?",
+    "question": "Cấm chặt (cưa) cây ở gần đường dây điện trên không khi có gió:",
     "answer": "Gió cấp 4 trở lên"
   },
   {
-    "question": "Dây nối đất khi làm việc trên đường dây điện hạ áp phải như thế nào?",
-    "answer": "Làm bằng đồng hoặc hợp kim mềm, có tiết diện phải chịu được tác dụng của dòng điện và nhiệt và tiết diện không được nhỏ hơn 16mm2."
+    "question": "Yêu cầu kỹ thuật của dây nối đất di động đối với lưới điện cấp điện áp đến 35 kV:",
+    "answer": "Làm bằng đồng hoặc hợp kim mềm nhiều sợi, (mềm,) có tiết diện phải chịu được tác dụng lực điện động và nhiệt và tiết diện không được nhỏ hơn 16mm2"
   },
   {
     "question": "Trong thời gian làm việc có cho phép chạm hoặc vượt qua vùng được tạo bởi các rào chắn không?",
-    "answer": "Nghiêm cấm."
+    "answer": "Nghiêm cấm"
   },
   {
-    "question": "Trong thời gian làm việc, đơn vị công tác được phép làm gì?",
-    "answer": "Nghỉ giải lao."
+    "question": "Trong thời gian làm việc theo phiếu công tác hoặc lệnh công tác, được phép:",
+    "answer": "Nghỉ giải lao"
   },
   {
-    "question": "Khi được giao thực hiện công việc mà thấy nguy hiểm, thiếu an toàn, nhân viên đơn vị công tác phải làm gì?",
-    "answer": "Được phép ngưng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết."
+    "question": "Khi được giao thực hiện công việc mà thấy nguy hiểm, thiếu an toàn, nhân viên đơn vị công tác:",
+    "answer": "Được phép ngừng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết"
   },
   {
-    "question": "Trên đường về nhà sau khi kết thúc công việc, công nhân A phát hiện có sự cố do tiếp xúc xấu, gây phóng điện chập chờn trên lưới trung thế của một trạm biến áp nằm trong khu vực của mình quản lý, công nhân A phải xử lý như thế nào?",
-    "answer": "Thông báo tình hình sự cố với trực ban Điện lực. Chỉ được tham gia xử lý sự cố nếu được lãnh đạo đơn vị giao nhiệm vụ và có Phiếu công tác/Lệnh công tác."
+    "question": "Trên đường về nhà sau khi kết thúc công việc, công nhân A phát hiện có sự cố do tiếp xúc xấu, gây phóng điện chập chờn trên lưới điện hạ thế của một trạm biến áp nằm trong khu vực của mình quản lý, công nhân A phải xử lý như thế nào?",
+    "answer": "Thông báo tình hình sự cố với trực ban Điện lực. Chỉ được tham gia xử lý sự cố nếu được lãnh đạo đơn vị giao nhiệm vụ và có Phiếu công tác/Lệnh công tác"
   },
   {
     "question": "Khi đứng trên cột để thao tác tiếp địa lưu động với điện áp cao, người thực hiện phải sử dụng dụng cụ an toàn gì để thực hiện?",
     "answer": "Găng tay cách điện và Sào cách điện đúng cấp điện áp"
   },
   {
-    "question": "Trong quá trình đang làm việc trên thiết bị điện đã được cắt điện và nối đất, nếu người chỉ huy trực tiếp phát hiện một dây nối đất bị đứt thì phải làm gì?",
-    "answer": "Ngưng ngay công việc và yêu cầu công nhân đang làm việc trên đường dây xuống, tìm hiểu và xác định nguyên nhân rõ ràng."
+    "question": "Trong quá trình đang làm việc trên thiết bị điện đã được cắt điện và nối đất, nếu người chỉ huy trực tiếp phát hiện một dây nối đất bị đứt thì phải làm gì:",
+    "answer": "Ngừng ngay công việc và yêu cầu công nhân đang làm việc trên đường dây xuống, tìm hiểu và xác định nguyên nhân rõ ràng"
   },
   {
     "question": "Công nhân A khi trèo lên cột điện bị vướng nhiều dây cáp viễn thông đi chung cột, công nhân A đã tháo dây choàng để xoay người thì bị trượt chân ngã cao. Qua tình huống này vi phạm nào là nguyên nhân trực tiếp dẫn đến tai nạn?",
-    "answer": "Sử dụng dây đeo an toàn không đúng cách"
+    "answer": "Sử dụng dây đeo an toàn không đúng quy định"
   },
   {
-    "question": "Đơn vị công tác đang vệ sinh bảo dưỡng đường dây đoạn từ cột 10 đến cột 30. Người chỉ huy trực tiếp phát hiện dây lèo tại cột 34 bị đứt nên yêu cầu 01 công nhân của Đơn vị công tác trèo lên nối lại lèo. Trong tình huống này người công nhân phải làm gì?",
-    "answer": "Từ chối thực hiện công việc trên vì không đảm bảo an toàn, nếu người chỉ huy trực tiếp không chấp thuận thì vẫn thực hiện nhưng sau đó báo cáo cấp trên để giải quyết."
+    "question": "Đơn vị công tác đang vệ sinh bảo dưỡng đường dây đoạn từ cột 10 đến cột 30. Người chỉ huy trực tiếp phát hiện dây lèo tại cột 34 bị đứt nên yêu cầu 01 công nhân của Đơn vị công tác trèo lên nối lại lèo. Trong tình huống này người công nhân phải:",
+    "answer": "Từ chối thực hiện công việc trên vì không đảm bảo an toàn, nếu người chỉ huy trực tiếp không chấp thuận thì vẫn thực hiện nhưng sau đó báo cáo cấp trên để giải quyết"
   },
   {
     "question": "Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động bao nhiêu lần trong 01 năm?",
@@ -393,18 +553,18 @@
   },
   {
     "question": "Người sử dụng lao động có trách nhiệm gì đối với người bị tai nạn lao động, bệnh nghề nghiệp?",
-    "answer": "Cả 03 mục còn lại."
+    "answer": "Cả 03 mục còn lại"
   },
   {
     "question": "Khi vết thương đứt động mạch ở các chi bắt buộc phải làm gì đầu tiên?",
-    "answer": "Ga rô cầm máu trước, sau đó mới xử lý bằng bó vết thương."
+    "answer": "Ga rô cầm máu trước, sau đó mới xử lý băng bó vết thương"
   },
   {
-    "question": "Khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, người lao động có nghĩa vụ gì?",
-    "answer": "Báo cáo kịp thời với người có trách nhiệm."
+    "question": "Khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, người lao động có nghĩa vụ:",
+    "answer": "Báo cáo kịp thời với người có trách nhiệm"
   },
   {
-    "question": "Tỷ lệ phần trăm nạn nhân được cứu sống khi bị ngưng tim, phổi nếu thực hiện theo Quy trình hồi sinh tổng hợp ở phút đầu tiên là bao nhiêu?",
+    "question": "Tỉ lệ phần trăm nạn nhân được cứu sống khi bị ngừng tim, phổi nếu thực hiện theo Quy trình hồi sinh tổng hợp ở phút đầu tiên là bao nhiêu?",
     "answer": "98%"
   },
   {
@@ -412,147 +572,151 @@
     "answer": "30"
   },
   {
-    "question": "Quyền của người lao động được yêu cầu của người sử dụng lao động?",
-    "answer": "Cả ba đáp án đều đúng."
+    "question": "Quyền của người lao động được yêu cầu của người sử dụng lao động:",
+    "answer": "Cả ba đáp án đều đúng"
   },
   {
-    "question": "Nguyên tắc Ga rô cầm máu?",
-    "answer": "Tất cả các đáp án còn lại."
+    "question": "Nguyên tắc Ga rô cầm máu ?",
+    "answer": "Tất cả các đáp án còn lại"
   },
   {
-    "question": "Quy trình cấp cứu hồi sinh tổng hợp khi ép tim thì biên độ (độ ấn sâu) là bao nhiêu đối với người bình thường?",
+    "question": "Quy trình cấp cứu hồi sinh tổng hợp khi ép tim thì biên độ (độ ấn sâu ) là bao nhiêu đối với người bình thường?",
     "answer": "5 ÷ 6 cm"
   },
   {
-    "question": "Khi một công nhân bị tai nạn lao động cẳng chân bị biến dạng nghi ngờ gãy xương, người cấp cứu viên cần làm gì?",
-    "answer": "Không nên kéo đầu chi gãy, để nguyên hiện trạng xương, dùng nẹp cứng cố định xương gãy sau đó chuyển nạn nhân đến cơ sở Y tế gần nhất"
+    "question": "Khi một công nhân bị tai nạn lao động cẳng chân T bị biến dạng nghi ngờ gãy xương, người cấp cứu viên cần:",
+    "answer": "Không nắn kéo đầu chi gãy, để nguyên hiện trạng xương, dùng nẹp cứng cố định xương gãy sau đó chuyển nạn nhân đến cơ sở Ytế gần nhất"
   },
   {
     "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút thứ 2 thì khả năng cứu sống đạt bao nhiêu %?",
     "answer": "90%"
   },
   {
-    "question": "Người tham gia giao thông đi bộ phải tuân thủ quy tắc chung như thế nào?",
-    "answer": "Đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ."
+    "question": "Người tham gia giao thông đường bộ phải tuân thủ quy tắc chung như thế nào?",
+    "answer": "Đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ"
   },
   {
     "question": "Sử dụng rượu bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?",
-    "answer": "Bị xử phạt hành chính hoặc có thể bị xử lý hình sự tùy theo mức độ vi phạm."
+    "answer": "Bị xử phạt hành chính hoặc có thể bị xử lý hình sự tùy theo mức độ vi phạm"
   },
   {
-    "question": "Các biện pháp bảo đảm an toàn điện?",
-    "answer": "Tất cả các đáp án còn lại."
+    "question": "Các biện pháp bảo đảm an toàn điện.",
+    "answer": "Tất cả các đáp án còn lại"
   },
   {
-    "question": "Khi lắp đặt và sửa chữa công tơ để không bị phóng hồ quang điện, tia lửa điện phát sinh do va quẹt giữa đầu dây pha và dây trung tính ta phải làm gì?",
-    "answer": "Sử dụng ống gen bọc cách điện đầu dây dẫn để khi thao tác không bị va quẹt."
+    "question": "Khi lắp đặt và sửa chữa công tơ để không bị phỏng hồ quang điện, tia lửa điện phát sinh do va quẹt giữa đầu dây pha và dây trung tính ta phải làm gì?",
+    "answer": "Sử dụng ống gen bọc cách điện đầu dây dẫn để khi thao tác không bị va quẹt"
   },
   {
-    "question": "Khi lắp đặt và sửa chữa công tơ để không bị phóng hồ quang điện, tia lửa điện phát sinh do va quẹt giữa dây pha còn điện, vỏ kim loại của dụng cụ thi công và vỏ kim loại của tủ, thùng công tơ ta phải làm gì?",
-    "answer": "Tập trung, cẩn thận khi thao tác; bọc cách điện phần kim loại các dụng cụ thi công."
+    "question": "Khi lắp đặt và sửa chữa công tơ để không bị phỏng hồ quang điện, tia lửa điện phát sinh do va quẹt giữa dây pha còn điện, vỏ kim loại của dụng cụ thi công và vỏ kim loại của tủ, thùng công tơ ta phải làm gì?",
+    "answer": "Tập trung, cẩn thận khi thao tác; bọc cách điện phần kim loại các dụng cụ thi công"
   },
   {
-    "question": "Khi lắp đặt công tơ và sửa chữa để không bị phóng hồ quang điện, tia lửa điện phát sinh do dụng cụ rơi rớt, chạm vào dây pha còn điện gây ngắn mạch ta phải làm gì?",
-    "answer": "Bọc cách điện phần kim loại các dụng cụ thi công; che chắn vị trí mạng điện có khả năng tiếp xúc đến; để dụng cụ nơi chắc chắn, không đặt trên cao."
+    "question": "Khi lắp đặt công tơ và sửa chữa để không bị phỏng hồ quang điện, tia lửa điện phát sinh do dụng cụ rơi rớt, chạm vào dây pha còn điện gây ngắn mạch ta phải làm gì?",
+    "answer": "Bọc cách điện phần kim loại các dụng cụ thi công; che chắn vị trí mang điện có khả năng tiếp xúc đến; để dụng cụ nơi chắc chắn, không đặt trên cao"
   },
   {
     "question": "Khi lắp đặt và sửa chữa công tơ để không bị điện giật do chủ quan chạm trực tiếp vào dây dẫn còn điện ta phải làm gì?",
-    "answer": "Tập trung chú ý làm việc và trang bị, sử dụng găng tay cách điện khi làm việc trực tiếp với điện hạ áp đang mang điện."
+    "answer": "Tập trung chú ý làm việc và trang bị, sử dụng găng tay cách điện khi làm việc trực tiếp với điện hạ áp đang mang điện"
   },
   {
     "question": "Khi lắp đặt và sửa chữa công tơ để không bị điện giật do rò điện khi làm việc tại khu vực ngập nước, ẩm ướt ta phải làm gì?",
-    "answer": "Cắt điện để làm việc."
+    "answer": "Cắt điện để làm việc"
   },
   {
-    "question": "Giải thoát nạn nhân bị điện giật khỏi nguồn điện hạ áp bằng cách nào?",
-    "answer": "Cắt cầu dao hoặc gỡ cầu chì rồi lót tay khô ráo để kéo nạn nhân khỏi nguồn điện."
+    "question": "Giải thoát nạn nhân bị điện giật khỏi nguồn điện hạ áp bằng cách:",
+    "answer": "Cắt cầu dao hoặc gỡ cầu chì rồi lót tay khô ráo để kéo nạn nhân khỏi nguồn điện"
   },
   {
-    "question": "Khi thiết bị điện bị rò điện ra vỏ thì có tác hại là gì?",
-    "answer": "Nguy hiểm cho người sử dụng khi chạm vào vỏ thiết bị."
+    "question": "Khi thiết bị điện bị rò điện ra vỏ thì có tác hại là:",
+    "answer": "Nguy hiểm cho người sử dụng khi chạm vào vỏ thiết bị"
   },
   {
-    "question": "Tai nạn điện do chạm trực tiếp vào vật mang điện đó là gì?",
-    "answer": "Cả 3 đáp án đều đúng."
+    "question": "Tai nạn điện do chạm trực tiếp vào vật mang điện đó là:",
+    "answer": "Cả 3 đáp án đều đúng"
   },
   {
-    "question": "Khi làm việc từ độ cao 2 m trở lên hoặc chưa đến độ cao đó nhưng dưới chỗ làm việc có các vật chướng ngại nguy hiểm, nếu không làm được sàn thao tác có lan can an toàn thì người sử dụng lao động phải làm gì?",
-    "answer": "Phải trang bị dây an toàn cho người lao động. Không cho phép người lao động làm việc khi chưa đeo dây an toàn."
+    "question": "Khi làm việc từ độ cao 2m trở lên hoặc chưa đến độ cao đó nhưng dưới chỗ làm việc có các vật chướng ngại nguy hiểm, nếu không làm được sàn thao tác có lan can an toàn thì người sử dụng lao động phải làm gì:",
+    "answer": "Phải trang bị dây an toàn cho người lao động. Không cho phép người lao động làm việc khi chưa đeo dây an toàn"
   },
   {
     "question": "Khi di chuyển trên mái nhà, mái tôn cũ mục, trơn trượt, thiếu chắc chắn người công nhân phải làm gì để tránh ngã cao?",
-    "answer": "Kiểm tra độ vững chắc của mái nhà và khi di chuyển đi khom người trên các đà, kèo; không đi thẳng lưng."
+    "answer": "Kiểm tra độ vững chắc của mái nhà và khi di chuyển đi khom người trên các đà, kèo; không đi thẳng lưng"
   },
   {
     "question": "Khi làm việc ở vị trí trơn trượt, để tránh ngã cao người công nhân phải làm gì?",
-    "answer": "Quan sát vị trí làm việc, không leo, bương lên các vị trí trơn trượt, rong rêu...,; sử dụng các tấm ván, vải chống trượt để đứng."
+    "answer": "Quan sát vị trí làm việc, không leo, bước lên các vị trí trơn trợt, rong rêu…; sử dụng các tấm ván, vải chống trượt để đứng"
   },
   {
-    "question": "Cách phòng ngừa chấn thương đầu do vật rơi từ trên cao khi đang làm việc là gì?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "question": "Cách phòng ngừa chấn thương đầu do vật rơi từ trên cao khi đang làm việc là?",
+    "answer": "Tất cả các đáp án đều đúng"
+  },
+  {
+    "question": "Biện pháp phòng ngừa điện cao áp phóng do không đảm bảo khoảng cách an toàn đối với phần còn điện cao áp khi thay cầu dao, MCCB hạ thế?",
+    "answer": "Ý 1 và Ý 2 đều đúng"
   },
   {
     "question": "Để đảm bảo an toàn trong sử dụng, sửa chữa điện người lao động phải làm gì?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "answer": "Tất cả đáp án đều đúng"
   },
   {
     "question": "Biện pháp phòng ngừa phóng điện cao áp làm phát sinh hồ quang điện, tia lửa điện gây sự cố, tai nạn cho người làm việc khi lắp đặt tụ bù trung thế?",
-    "answer": "Quan sát giữ khoảng cách an toàn điện từ ngàm trên của thiết bị đóng cắt, đường dây đến đơn vị thi công, dụng cụ thi công và đến vị trí người đứng làm việc theo đúng quy định."
+    "answer": "Quan sát giữ khoảng cách an toàn điện từ ngàm trên của thiết bị đóng cắt, đường dây đến đơn vị thi công, dụng cụ thi công và đến vị trí người đứng làm việc theo đúng quy định"
   },
   {
     "question": "Để phòng ngừa tai nạn điện người lao động cần phải làm gì?",
-    "answer": "Cả 3 đáp án đều đúng."
+    "answer": "Cả 3 đáp án đều đúng"
   },
   {
-    "question": "Biện pháp phòng ngừa điện hạ áp giật khi tiếp xúc với các dòng điện rò từ các dây cầu tạp (đèn đường, biển hiệu, dây thông tin) là gì?",
-    "answer": "Quan sát kỹ hiện trường, tiến hành kiểm tra rò điện tại các kết cấu kim loại, các giả đỡ của dây thông tin, dây đèn đường, chiếu sáng."
+    "question": "Biện pháp phòng ngừa điện hạ áp giật khi tiếp xúc với các dòng điện rò từ các dây câu tạp (đền đường, biển hiệu, dây thông tin) là?",
+    "answer": "Quan sát kỹ hiện trường, tiến hành kiểm tra rò điện tại các kết cấu kim loại, các giá đỡ của dây thông tin, dây đèn đường, chiếu sáng"
   },
   {
-    "question": "Biện pháp phòng tránh điện cảm ứng giật khi làm việc gần đường dây cao thế?",
-    "answer": "Nối đất an toàn nơi làm việc để phòng điện cảm ứng."
+    "question": "Biện pháp phòng tránh điện cảm ứng giật khi làm việc dưới (gần) đường dây cao thế?",
+    "answer": "Nối đất an toàn nơi làm việc để phòng điện cảm ứng"
   },
   {
     "question": "Để phòng tránh điện cảm ứng giật do sét đánh lan truyền người lao động phải làm gì?",
-    "answer": "Không làm việc khi trời mưa to, có giông sét."
+    "answer": "Không làm việc khi trời mưa to, có giông sét"
   },
   {
     "question": "Biện pháp phòng ngừa ngã cao khi lên trụ trạm làm việc?",
-    "answer": "Sử dụng thang, dây an toàn có hai dây quàng khi làm việc trên cao hoặc sử dụng xe gàu hỗ trợ."
+    "answer": "Sử dụng thang, dây an toàn có hai dây quàng khi làm việc trên cao hoặc sử dụng xe gầu hỗ trợ"
   },
   {
-    "question": "Biện pháp phòng ngừa ngã cao, điện giật, phóng điện do chế độ giám sát không tốt?",
-    "answer": "Ý 1 và Ý 2 đều đúng."
+    "question": "Biện pháp phòng ngừa ngã cao, điện giật, phỏng điện do chế độ giám sát không tốt?",
+    "answer": "Ý1 và Ý2 và đều đúng"
   },
   {
     "question": "Biện pháp phòng ngừa chấn thương đầu, thân thể do vật rơi từ trên cao?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "answer": "Tất cả các đáp án đều đúng"
   },
   {
     "question": "Biện pháp phòng ngừa điện giật do điện hạ thế rò lên cây xanh?",
-    "answer": "Kiểm tra xem có dây điện hạ thế, thông tin chui tạp trên cây xanh, dùng bút thử điện để thử điện rò trên cây xanh."
+    "answer": "Kiểm tra xem có dây điện hạ thế, thông tin câu tạp trên cây xanh, dùng bút thử điện để thử điện rò trên cây xanh"
   },
   {
     "question": "Đường đi của dòng điện qua cơ thể con người nguy hiểm nhất trong trường hợp nào?",
-    "answer": "Dòng điện đi từ đầu qua tay."
+    "answer": "Dòng điện đi từ đầu qua tay"
   },
   {
     "question": "Biện pháp phòng tránh va chạm thân người, cánh tay vào những điểm hở của thiết bị đường dây xung quanh?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "answer": "Tất cả các đáp án đều đúng"
   },
   {
     "question": "Biện pháp an toàn khi leo lên trụ quan sát hành lang tuyến?",
-    "answer": "Khi leo lên trụ quan sát phải sử dụng dây an toàn có hai dây quàng, kiểm tra dây an toàn trước khi sử dụng."
+    "answer": "Khi leo lên trụ quan sát phải sử dụng dây an toàn có hai dây quàng, kiểm tra dây an toàn trước khi sử dụng"
   },
   {
     "question": "Biện pháp an toàn khi đứng dưới phạm vi làm việc?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "answer": "Tất cả các đáp án đều đúng"
   },
   {
     "question": "Biện pháp phòng tránh điện trung thế phóng khi làm việc với máy biến áp trung thế?",
-    "answer": "Ý 1 và Ý 2 đều đúng."
+    "answer": "Ý 1 và Ý 2 đều đúng"
   },
   {
     "question": "Biện pháp phòng tránh điện trung thế phóng khi làm việc ở lưới điện trung thế?",
-    "answer": "Tất cả các đáp án đều đúng."
+    "answer": "Tất cả các đáp án đều đúng"
   }
 ]

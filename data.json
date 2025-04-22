@@ -233,7 +233,7 @@
   },
   {
     "question": "Theo quy trình an toàn điện, phiếu công tác do ai cấp?",
-    "answer": "Người được cấp có thẩm quyền có quyết định công nhận chức danh Người cấp phiếu công tác"
+    "answer": "Ý 2: Người được cấp có thẩm quyền có quyết định công nhận chức danh Người cấp phiếu công tác"
   },
   {
     "question": "Người nào phải chịu trách nhiệm chỉ dẫn cho Đơn vị công tác nơi làm việc, phạm vi được phép làm việc, những nơi (phần, thiết bị) có điện gần nơi làm việc",
@@ -260,8 +260,8 @@
     "answer": "Cả Ý 1 và Ý 2 đều đúng"
   },
   {
-    "question": "Có được sử dụng cưa máy và sào cách điện để cưa cây gần đường dây trên không không?",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "<b> Có được sử dụng cưa máy và sào cách điện để cưa cây gần đường dây trên không không?</b>",
+    "answer": "Ý 2: Được phép, người thực hiện phải được huấn luyện thành thạo quy trình sử dụng cưa máy, sào cắt cây. Khi cưa cây phải có biện pháp tránh cưa rơi xuống đất gây nguy hiểm cho người bên dưới."
   },
   {
     "question": "Những việc nào sau đây cho phép nhân viên vận hành không cần lập phiếu thao tác nhưng phải ghi chép đầy đủ các bước thao tác vào sổ nhật ký vận hành trước khi thực hiện thao tác?",
@@ -361,7 +361,7 @@
   },
   {
     "question": "Quy định về quản lý dây đeo an toàn trong trường hợp nào sau đây là sai?",
-    "answer": "Trọng lượng thử đối với dây đeo an toàn cũ là 300kg, đối với dây đeo an toàn mới là 225kg"
+    "answer": "Trọng lượng thử đối với dây đeo an toàn cũ là 300kg, đối với dây đeo an toàn mới là 225kg."
   },
   {
     "question": "Khi nghỉ giải lao, các nhân viên của đơn vị công tác vẫn phải chịu sự giám sát của ai?",
@@ -457,7 +457,7 @@
   },
   {
     "question": "Để đảm bảo an toàn trong công việc thực hiện theo Lệnh công tác, Nhân viên đơn vị công tác thực hiện các việc nào dưới đây là không đúng?",
-    "answer": "Được tự ý mở rộng phạm vi làm việc khi thấy đảm bảo an toàn"
+    "answer": "Ý 2: Được tự ý mở rộng phạm vi làm việc khi thấy đảm bảo an toàn."
   },
   {
     "question": "Yêu cầu đảm bảo về an toàn khi làm việc gần nơi có điện là công việc:",
@@ -476,8 +476,8 @@
     "answer": "1m"
   },
   {
-    "question": "Để tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện:",
-    "answer": "Có thể dùng kìm cách điện, búa, rìu cán bằng gỗ để cắt, chặt đứt dây điện đang gây ra tai nạn…"
+    "question": "<b> Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện: </b>",
+    "answer": "Cả Ý 2 và Ý 3 đều đúng."
   },
   {
     "question": "Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện:",
@@ -544,8 +544,8 @@
     "answer": "Sử dụng dây đeo an toàn không đúng quy định"
   },
   {
-    "question": "Đơn vị công tác đang vệ sinh bảo dưỡng đường dây đoạn từ cột 10 đến cột 30. Người chỉ huy trực tiếp phát hiện dây lèo tại cột 34 bị đứt nên yêu cầu 01 công nhân của Đơn vị công tác trèo lên nối lại lèo. Trong tình huống này người công nhân phải:",
-    "answer": "Từ chối thực hiện công việc trên vì không đảm bảo an toàn, nếu người chỉ huy trực tiếp không chấp thuận thì vẫn thực hiện nhưng sau đó báo cáo cấp trên để giải quyết"
+    "question": "Đơn vị công tác đang vệ sinh bảo dưỡng đường dây đoạn từ cột 10 đến cột 30. Người chỉ huy trực tiếp phát hiện dây lèo tại cột 34 bị đứt nên yêu cầu 01 công nhân của Đơn vị công tác trèo lên nối lại lèo. Trong tình huống này người công nhân phải:",
+    "answer": "Từ chối thực hiện công việc trên vì không đảm bảo an toàn, nếu người chỉ huy trực tiếp không chấp thuận thì vẫn thực hiện nhưng sau đó báo cáo cấp trên để giải quyết."
   },
   {
     "question": "Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động bao nhiêu lần trong 01 năm?",
@@ -593,7 +593,7 @@
   },
   {
     "question": "Người tham gia giao thông đường bộ phải tuân thủ quy tắc chung như thế nào?",
-    "answer": "Đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ"
+    "answer": "Đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ."
   },
   {
     "question": "Sử dụng rượu bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?",

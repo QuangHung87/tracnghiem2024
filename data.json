@@ -137,7 +137,7 @@
   },
   {
     "question": "Không cho phép thao tác tại chỗ thiết bị đóng cắt ngoài trời khi:",
-    "answer": "Ngoài trời có mưa tạo thành dòng chảy trên thiết bị điện, giông sét, ngập lụt, gió từ cấp 06 trở lên"
+    "answer": "Ý 2: Ngoài trời có mưa tạo thành dòng chảy trên thiết bị điện, giông sét, ngập lụt, gió từ cấp 06 trở lên"
   },
   {
     "question": "Trong khi tiến hành công việc, nếu mở rộng phạm vi làm việc thì phải:",
@@ -165,7 +165,7 @@
   },
   {
     "question": "Phối hợp an toàn nhiều đơn vị công tác khi làm việc trên đường dây dẫn điện đã cắt điện hoặc có điện",
-    "answer": "Tất cả các Ý còn lại đều đúng"
+    "answer": "Tất cả các Ý còn lại đều đúng."
   },
   {
     "question": "Khi thực hành di chuyển trong khu vực trạm điện, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp 22 kV là bao nhiêu?",
@@ -181,7 +181,7 @@
   },
   {
     "question": "Để bảo đảm an toàn khi thực hành sử dụng thang di động trong điều kiện bình thường, phải dựng thang so với mặt phẳng thẳng đứng như thế nào?",
-    "answer": "Dựng thang đúng quy cách theo tỷ lệ 1 – 4 (có nghĩa là chiều rộng ra so với mặt thẳng đứng của thang là 1 thì chiều cao lên của thang là 4)"
+    "answer": "Dựng thang đúng quy cách theo tỷ lệ 1 – 4 (có nghĩa là chiều rộng ra so với mặt thẳng đứng của thang là 1 thì chiều cao lên của thang là 4)."
   },
   {
     "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện hạ áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
@@ -237,7 +237,7 @@
   },
   {
     "question": "Người nào phải chịu trách nhiệm chỉ dẫn cho Đơn vị công tác nơi làm việc, phạm vi được phép làm việc, những nơi (phần, thiết bị) có điện gần nơi làm việc",
-    "answer": "Người cho phép"
+    "answer": "Ý 3: Người cho phép."
   },
   {
     "question": "Việc tiếp nhận nơi làm việc do Người chỉ huy trực tiếp bàn giao khi Đơn vị công tác kết thúc công việc; kiểm tra nội dung công việc, nơi làm việc, ký khóa phiếu công tác và thông báo cho các đơn vị liên quan là trách nhiệm của ai?",
@@ -281,7 +281,7 @@
   },
   {
     "question": "Khi trèo lên cột phải kiểm tra sơ bộ tình trạng của móng cột và cột, thực hiện như thế nào là sai?",
-    "answer": "Trèo cột phía đặt tay xà có sứ đỡ dây dẫn"
+    "answer": "Trèo cột phía đặt tay xà có sứ đỡ dây dẫn;"
   },
   {
     "question": "Thời gian kiểm tra định kỳ của thang?",
@@ -373,7 +373,7 @@
   },
   {
     "question": "Khi nghỉ giải lao xong (trong trường hợp phải ra khỏi phạm vi công tác), nhân viên đơn vị công tác phải làm gì?",
-    "answer": "Không được tự ý trở lại làm việc khi chưa có lệnh của người chỉ huy trực tiếp"
+    "answer": "Ý 1: Không được tự ý trở lại làm việc khi chưa có lệnh của người chỉ huy trực tiếp"
   },
   {
     "question": "Khi sử dụng thang di động để làm việc trên cao, trường hợp nào sau đây là sai?",
@@ -381,7 +381,7 @@
   },
   {
     "question": "Kết cấu và chất lượng thang di động trong trường hợp nào là sai quy định?",
-    "answer": "Bậc thang được phép đóng bằng đinh; không dùng dây thép buộc"
+    "answer": "Ý 3: Bậc thang được phép đóng bằng đinh; không dùng dây thép buộc."
   },
   {
     "question": "Khi làm việc trên cao, những hành vi nào sau đây bị cấm?",
@@ -437,7 +437,7 @@
   },
   {
     "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện cao áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
-    "answer": "Mang ủng, găng tay cách điện và dùng sào cách điện để gạt hoặc đẩy nạn nhân ra khỏi mạch điện"
+    "answer": "Ý 1: Mang ủng, găng tay cách điện và dùng sào cách điện để gạt hoặc đẩy nạn nhân ra khỏi mạch điện."
   },
   {
     "question": "Theo Quy trình An toàn điện, điện cao áp được quy ước:",
@@ -529,7 +529,7 @@
   },
   {
     "question": "Trên đường về nhà sau khi kết thúc công việc, công nhân A phát hiện có sự cố do tiếp xúc xấu, gây phóng điện chập chờn trên lưới điện hạ thế của một trạm biến áp nằm trong khu vực của mình quản lý, công nhân A phải xử lý như thế nào?",
-    "answer": "Thông báo tình hình sự cố với trực ban Điện lực. Chỉ được tham gia xử lý sự cố nếu được lãnh đạo đơn vị giao nhiệm vụ và có Phiếu công tác/Lệnh công tác"
+    "answer": "Ý 2: Thông báo tình hình sự cố với trực ban Điện lực. Chỉ được tham gia xử lý sự cố nếu được lãnh đạo đơn vị giao nhiệm vụ và có Phiếu công tác/Lệnh công tác."
   },
   {
     "question": "Khi đứng trên cột để thao tác tiếp địa lưu động với điện áp cao, người thực hiện phải sử dụng dụng cụ an toàn gì để thực hiện?",
@@ -573,7 +573,7 @@
   },
   {
     "question": "Quyền của người lao động được yêu cầu của người sử dụng lao động:",
-    "answer": "Cả ba đáp án đều đúng"
+    "answer": "Cả ba đáp án đều đúng."
   },
   {
     "question": "Nguyên tắc Ga rô cầm máu ?",
@@ -601,7 +601,7 @@
   },
   {
     "question": "Các biện pháp bảo đảm an toàn điện.",
-    "answer": "Tất cả các đáp án còn lại"
+    "answer": "Tất cả các đáp án còn lại."
   },
   {
     "question": "Khi lắp đặt và sửa chữa công tơ để không bị phỏng hồ quang điện, tia lửa điện phát sinh do va quẹt giữa đầu dây pha và dây trung tính ta phải làm gì?",
@@ -693,7 +693,7 @@
   },
   {
     "question": "Biện pháp phòng ngừa điện giật do điện hạ thế rò lên cây xanh?",
-    "answer": "Kiểm tra xem có dây điện hạ thế, thông tin câu tạp trên cây xanh, dùng bút thử điện để thử điện rò trên cây xanh"
+    "answer": "Kiểm tra xem có dây điện hạ thế, thông tin câu tạp trên cây xanh, dùng bút thử điện để thử điện rò trên cây xanh."
   },
   {
     "question": "Đường đi của dòng điện qua cơ thể con người nguy hiểm nhất trong trường hợp nào?",

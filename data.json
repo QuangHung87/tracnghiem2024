@@ -1,722 +1,2087 @@
 [
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn từ rào chắn đến phần có điện cao áp xoay chiều từ 15kV đến 35 kV là.",
-    "answer": "0,6 m"
+    "question": "Theo Quy trình An toàn, người chỉ đạo chung khi công việc do nhiều đơn vị công tác của cùng một tổ chức hoạt động điện lực thực hiện là ?",
+    "answer": "Người lãnh đạo công việc."
   },
   {
-    "question": "Đối với công trình lưới điện cấp điện áp đến 110kV, chiều cao hành lang được tính từ đáy móng cột đến điểm cao nhất của công trình cộng thêm khoảng cách an toàn theo chiều thẳng đứng là bao nhiêu:",
-    "answer": "3 m"
+    "question": "Theo Quy trình An toàn, người có trách nhiệm phân công công việc, chỉ huy và giám sát nhân viên đơn vị công tác trong suốt quá trình thực hiện công việc là ?",
+    "answer": "Người chỉ huy trực tiếp."
   },
   {
-    "question": "Các mối nguy khi làm việc với thiết bị nâng?",
-    "answer": "Tất cả các Ý còn lại đều đúng"
+    "question": "Theo Quy trình An toàn, người thực hiện thủ tục cho phép đơn vị công tác vào làm việc khi hiện trường công tác đã đảm bảo an toàn về điện là ?",
+    "answer": "Người cho phép."
   },
   {
-    "question": "Yêu cầu đối với chiều rộng chân thang là:",
-    "answer": "Chiều rộng chân thang ít nhất là 50 cm"
+    "question": "Theo Quy trình An toàn, người có kiến thức về an toàn điện, được huấn luyện, chỉ định và thực hiện việc giám sát an toàn điện cho đơn vị công tác là ?",
+    "answer": "Người giám sát an toàn điện"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 110kV là:",
-    "answer": "1,5 m"
+    "question": "Theo Quy trình An toàn, đơn vị công tác được quy định như thế nào ?",
+    "answer": "Tất cả các đáp án trên (dưới)"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 35kV là:",
-    "answer": "1m"
+    "question": "Theo Quy trình An toàn, nhân viên đơn vị công tác được quy định như thế nào là đúng ?",
+    "answer": "Là người của đơn vị công tác trực tiếp thực hiện công việc do người chỉ huy trực tiếp phân công."
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn từ rào chắn đến phần có điện cao áp xoay chiều từ 1kV đến 15kV là:",
-    "answer": "0,35 m"
+    "question": "Theo Quy trình An toàn, công việc làm ở thiết bị đang mang điện, có sử dụng các trang bị, dụng cụ chuyên dùng là ?",
+    "answer": "Làm việc có điện."
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp trên 35kV đến 110kV là:",
-    "answer": "1,5 m"
+    "question": "Theo Quy trình An toàn, phương tiện bảo vệ cá nhân là gì ?",
+    "answer": "Là những dụng cụ, phương tiện mà người lao động được trang bị để sử dụng khi thực hiện nhiệm vụ để bảo vệ cơ thể khỏi tác động của các yếu tố nguy hiểm, độc hại."
   },
   {
-    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 22kV là:",
-    "answer": "0,6 m"
+    "question": "Theo Quy trình An toàn, các công việc khi tiến hành trên đường dây, thiết bị điện, ở gần hoặc liên quan đến đường dây, thiết bị điện đang mang điện, bao gồm cả vùng ảnh hưởng nguy hiểm bởi cảm ứng điện, đều phải thực hiện theo ?",
+    "answer": "Thực hiện theo phiếu công tác hoặc lệnh công tác"
   },
   {
-    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 35kV là:",
-    "answer": "0,6 m"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định đúng và được áp dụng để thực hiện nối đất tạo vùng an toàn khi làm việc ?",
+    "answer": "ĐVCT chịu trách nhiệm thực hiện nối đất di động tại nơi làm việc sao cho ĐVCT nằm trọn trong vùng bảo vệ của nối đất."
   },
   {
-    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất để đặt rào chắn đến phần có điện đối với cấp điện áp 110kV là:",
-    "answer": "1,5 m"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn điện, cấm ra mệnh lệnh hoặc giao công việc cho những người ?",
+    "answer": "Chưa được huấn luyện, kiểm tra đạt yêu cầu Quy trình an toàn và các quy trình có liên quan."
   },
   {
-    "question": "Đối với đường cáp điện đi trên mặt đất hoặc trên không thì hành lang bảo vệ an toàn đường cáp được giới hạn về các phía được tính từ mặt ngoài của sợi cáp ngoài cùng trở ra là bao nhiêu.",
-    "answer": "0,5 m"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn điện, những mệnh lệnh không đúng Quy trình an toàn và các quy trình có liên quan khác, có nguy cơ mất an toàn cho người hoặc thiết bị thì người nhận lệnh có quyền ?",
+    "answer": "Không chấp hành, nếu người ra lệnh không chấp thuận thì người nhận lệnh được quyền báo cáo với cấp trên trực tiếp của người ra lệnh và/hoặc cấp có thẩm quyền"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp từ 1kV đến 15kV là:",
-    "answer": "0,7 m"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn điện, khi phát hiện cán bộ, công nhân vi phạm Quy trình an toàn điện và các quy trình có liên quan khác, có nguy cơ đe dọa đến tính mạng con người và an toàn thiết bị, người phát hiện phải ?",
+    "answer": "Ý 1 và Ý 2 đúng."
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp trên 15kV đến 35kV là:",
-    "answer": "1,0 m"
-  },
-  {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp trên 35kV đến 110kV là:",
-    "answer": "1,5 m"
-  },
-  {
-    "question": "Quy định về bậc an toàn điện tối thiểu của người giám sát an toàn điện:",
-    "answer": "4/5"
-  },
-  {
-    "question": "Trách nhiệm của người giám sát an toàn điện trên lưới điện hạ áp phải như thế nào?",
-    "answer": "Tất cả các Ý còn lại đều đúng"
-  },
-  {
-    "question": "Khi làm việc theo lệnh công tác, Người chỉ huy trực tiếp phải đáp ứng điều kiện nào?",
-    "answer": "Có bậc 3 an toàn điện trở lên, được công nhận chức danh “Người chỉ huy trực tiếp” theo quy định. Nắm vững thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc"
-  },
-  {
-    "question": "Nếu phát hiện nhân viên có dấu hiệu vi phạm dẫn đến mất an toàn, người chỉ huy trực tiếp phải làm gì?",
-    "answer": "Có biện pháp để nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc"
-  },
-  {
-    "question": "Khi thực hiện cho phép làm việc, người cho phép phải cùng với những người nào kiểm tra các biện pháp an toàn thuộc trách nhiệm của mình đã thực hiện đủ và đúng?",
-    "answer": "Người chỉ huy trực tiếp và người giám sát an toàn điện (nếu có)"
-  },
-  {
-    "question": "Trong khi tiến hành công việc theo Lệnh công tác, có được thay đổi nội dung công việc hoặc mở rộng phạm vi làm việc trong Lệnh công tác đã cấp không?",
-    "answer": "Không được phép trong bất cứ trường hợp nào"
-  },
-  {
-    "question": "Đối với đường dây dẫn điện có điện áp đến 35 kV (dây trần) trong thành phố, thị xã, thị trấn thì khoảng cách từ điểm bất kỳ của cây đến dây dẫn điện ở trạng thái võng cực đại không nhỏ hơn bao nhiêu.",
-    "answer": "1,5 m"
-  },
-  {
-    "question": "Khi làm việc trên đường dây điện trên không hạ áp có điện hoặc tiếp xúc trực tiếp với phần có điện hạ áp phải thực hiện những quy định sau đây:",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
-  },
-  {
-    "question": "Khi sử dụng thiết bị, dụng cụ, phương tiện (trừ phương tiện phục vụ sửa chữa nóng) làm việc trong hành lang bảo vệ an toàn lưới điện cao áp trên 1 đến 35kV phải đảm bảo khoảng cách an toàn phóng điện là bao nhiêu mét ?",
-    "answer": "4 mét"
-  },
-  {
-    "question": "Biện pháp an toàn nào sau đây khi chặt, tỉa cây vi phạm hành lang bảo vệ an toàn đường dây đang có điện là đúng?",
-    "answer": "Phải cắt điện đường dây điện trên không khi chặt cây, chặt cành có khả năng đổ, rơi vào đường dây điện trên không. Nếu không cắt điện thì phải có biện pháp để hạ cây, cành an toàn"
-  },
-  {
-    "question": "Làm việc với đường dây điện trên không khi có giông bão hoặc sắp có giông bão người chỉ huy trực tiếp phải:",
-    "answer": "Phải cho Nhân viên đơn vị công tác ra khỏi khu vực nguy hiểm có thể xảy ra do đứt dây hoặc đổ, gẫy cột, lũ quét, lở đất"
-  },
-  {
-    "question": "Ai là người có trách nhiệm kiểm tra việc chất lượng các dụng cụ, trang bị an toàn của nhân viên đơn vị công tác trong khi làm việc?",
-    "answer": "Người chỉ huy trực tiếp"
-  },
-  {
-    "question": "Người làm việc tại nơi cắt điện từng phần phải có bậc mấy an toàn điện tối thiểu là bao nhiêu",
-    "answer": "Bậc 3/5"
-  },
-  {
-    "question": "Trước khi sử dụng bút thử điện cần kiểm tra những nội dung nào sau đây?",
-    "answer": "Kiểm tra bên ngoài, kiểm tra nguồn pin, kiểm tra tính năng phát hiện dòng điện"
-  },
-  {
-    "question": "Trường hợp cây ở ngoài hành lang bảo vệ an toàn đường dây dẫn điện 22kV trên không và ngoài thành phố, thị xã, thị trấn thì khoảng cách từ bộ phận bất kỳ của cây khi cây bị đổ đến bộ phận bất kỳ của đường dây không nhỏ hơn khoảng cách bao nhiêu.",
-    "answer": "0,7 m"
-  },
-  {
-    "question": "Khi dùng bút thử điện để kiểm tra không còn điện yêu cầu thử như thế nào là đúng?",
-    "answer": "Thử ở tất cả các pha và các phía của thiết bị điện"
-  },
-  {
-    "question": "Bảo quản bút thử điện như thế nào?",
-    "answer": "Nên lấy pin ra khi không sử dụng bút trong thời gian dài và phải để nơi khô ráo, tránh khu vực ẩm ướt, nhiệt độ cao, hóa chất ăn mòn"
-  },
-  {
-    "question": "Người thao tác đứng trên cột để thao tác thiết bị đóng cắt với cấp điện áp đến 35kV, ngoài việc mang găng tay cách điện phải giữ khoảng cách tối thiểu từ người đến thiết bị là bao nhiêu?",
-    "answer": "3m"
-  },
-  {
-    "question": "Khi thực hiện thao tác thiết bị điện nhất thứ cần bao nhiêu người?",
-    "answer": "Đều phải có 02 (hai) người phối hợp thực hiện: 01 (một) người giám sát và 01 (một) người thao tác trực tiếp"
-  },
-  {
-    "question": "Không cho phép thao tác tại chỗ thiết bị đóng cắt ngoài trời khi:",
-    "answer": "Ý 2: Ngoài trời có mưa tạo thành dòng chảy trên thiết bị điện, giông sét, ngập lụt, gió từ cấp 06 trở lên"
-  },
-  {
-    "question": "Trong khi tiến hành công việc, nếu mở rộng phạm vi làm việc thì phải:",
-    "answer": "Cấp phiếu công tác mới"
-  },
-  {
-    "question": "Người giám sát an toàn điện phải đáp ứng điều kiện nào sau đây?",
-    "answer": "Tất cả các Ý còn lại đều đúng"
-  },
-  {
-    "question": "Trách nhiệm của người giám sát an toàn điện khi làm việc theo lệnh công tác?",
-    "answer": "Tất cả các Ý còn lại đều đúng"
-  },
-  {
-    "question": "Những công việc nào sau đây được xem là công việc làm gần đường dây cao áp đang vận hành:",
-    "answer": "Tất cả các Ý còn lại đều đúng"
-  },
-  {
-    "question": "Cho phép leo lên cột của đường dây 110kV đang vận hành để kiểm tra sứ, dây dẫn, dây chống sét, sơn xà… với điều kiện khoảng cách nằm ngang nhỏ nhất từ mép ngoài cùng của thân cột đến dây dẫn là bao nhiêu?",
-    "answer": "1,5 mét"
-  },
-  {
-    "question": "Khi làm việc trên đường dây 22 kV đang vận hành, nhân viên đơn vị công tác sử dụng các trang bị, dụng cụ cho làm việc có điện, thì khoảng cách cho phép nhỏ nhất đối với thân thể của nhân viên đơn vị công tác đến dây dẫn điện phải đảm bảo:",
-    "answer": "0,6 (m)"
-  },
-  {
-    "question": "Phối hợp an toàn nhiều đơn vị công tác khi làm việc trên đường dây dẫn điện đã cắt điện hoặc có điện",
-    "answer": "Tất cả các Ý còn lại đều đúng."
-  },
-  {
-    "question": "Khi thực hành di chuyển trong khu vực trạm điện, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp 22 kV là bao nhiêu?",
-    "answer": "1,0 m"
-  },
-  {
-    "question": "Khi di chuyển, vận hành trong khu vực trạm, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp trên 35 kV đến 110kV là bao nhiêu?",
-    "answer": "1,5m"
-  },
-  {
-    "question": "Khi thực hành sử dụng thang di động để làm việc trên cao, thực hiện như thế nào là đúng?",
-    "answer": "Khi lên, xuống thang quay mặt vào thang, nắm hai tay vào thanh dọc khi leo"
-  },
-  {
-    "question": "Để bảo đảm an toàn khi thực hành sử dụng thang di động trong điều kiện bình thường, phải dựng thang so với mặt phẳng thẳng đứng như thế nào?",
-    "answer": "Dựng thang đúng quy cách theo tỷ lệ 1 – 4 (có nghĩa là chiều rộng ra so với mặt thẳng đứng của thang là 1 thì chiều cao lên của thang là 4)."
-  },
-  {
-    "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện hạ áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
-    "answer": "Tất cả các đáp án còn lại đều đúng"
-  },
-  {
-    "question": "Người trực tiếp làm công tác quản lý vận hành, kinh doanh, thí nghiệm, sửa chữa, xây dựng điện phải đảm bảo các yêu cầu chung nào sau đây.",
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn điện, người trực tiếp làm công tác quản lý vận hành, kinh doanh, thí nghiệm, sửa chữa, xây lắp điện phải ?",
     "answer": "Có sức khỏe đủ tiêu chuẩn theo quy định của pháp luật về lao động"
   },
   {
-    "question": "Cứu chữa nạn nhân như thế nào sau khi đã tách ra khỏi mạch điện mà nạn nhân chưa mất tri giác (chỉ bị hôn mê trong giây lát, tim còn đập, thở yếu)?",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn điện thì những quy định chung nào sau đây là đúng ?",
+    "answer": "Cả 3 đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Cứu chữa nạn nhân như thế nào khi tách nạn nhân khỏi mạch điện mà nạn nhân đã tắt thở (tim ngừng đập, toàn thân co giật giống như chết)?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn điện thì những quy định chung nào sau đây là đúng ?",
+    "answer": "Cấm ra mệnh lệnh hoặc giao công việc về điện cho những người chưa được huấn luyện ATĐ, kiểm tra đạt yêu cầu Quy trình an toàn."
   },
   {
-    "question": "Phương pháp cứu chữa có hiệu quả phổ biến nhất hiện nay ngay sau khi nạn nhân được tách khỏi mạch điện, đó là:",
-    "answer": "Phương pháp hồi sinh tổng hợp"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn điện thì những quy định chung nào sau đây là đúng ?",
+    "answer": "Những mệnh lệnh không đúng Quy trình này và các quy trình có liên quan khác, có nguy cơ mất an toàn cho người hoặc thiết bị điện thì người nhận lệnh có quyền không chấp hành, nếu người ra lệnh không chấp thuận thì người nhận lệnh được quyền báo cáo với cấp trên trực tiếp của người ra lệnh và/hoặc Cấp có thẩm quyền."
   },
   {
-    "question": "Các biện pháp cần áp dụng để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân chưa mất tri giác):",
-    "answer": "Đưa nạn nhân ra chỗ thoáng khí, yên tĩnh chăm sóc cho hồi tỉnh, sau đó mời y bác sỹ hoặc nhẹ nhàng đưa nạn nhân đến cơ sở y tế gần nhất để theo dõi chăm sóc"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn; Giám đốc, Phó Giám đốc, Thủ trưởng đơn vị trực tiếp sử dụng lao động; Người quản lý, điều hành trực tiếp các công trường, phân xưởng hoặc các bộ phận tương đương có nhiệm vụ ?",
+    "answer": "Cả 3 đáp án trên (dưới)"
   },
   {
-    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân mất tri giác, tim còn đập, còn thở):",
-    "answer": "Đưa nạn nhân ra chỗ thoáng khí, nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm; đặt nạn nhân nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc"
+    "question": "Theo Quy trình An toàn, để đảm bảo an toàn bộ phận hoặc cá nhân trực tiếp phải thực hiện ?",
+    "answer": "Tất cả 3 đáp án trên (dưới)"
   },
   {
-    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân đã tắt thở, tim ngừng đập):",
-    "answer": "Tất cả các đáp án còn lại đều đúng"
+    "question": "Theo Quy trình An toàn, an toàn thao tác tại chỗ thiết bị điện nào dưới đây là đúng quy định ?",
+    "answer": "Tất cả các 3 đáp án trên (dưới)"
   },
   {
-    "question": "Những biện pháp kỹ thuật chuẩn bị nơi làm việc phải cắt điện bao gồm:",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "Theo Quy trình An toàn, những biện pháp kỹ thuật chuẩn bị nơi làm việc phải cắt điện bao gồm ?",
+    "answer": "(i) Cắt điện và thực hiện các biện pháp ngăn chặn có điện trở lại nơi làm việc; (ii) Kiểm tra không còn điện; (iii) Đặt nối đất (tiếp đất hoặc tiếp địa); (iv) Treo biển báo, tín hiệu. Đặt rào chắn, căng dây (nếu cần thiết)."
   },
   {
-    "question": "Khi đã cắt điện nhưng tín hiệu đèn, rơ le, đồng hồ báo tín hiệu có điện thì nhân viên đơn vị công tác phải:",
-    "answer": "Xem như thiết bị vẫn có điện"
+    "question": "Theo Quy trình An toàn, thực hiện biện pháp kỹ thuật chuẩn bị nơi làm việc phải cắt điện, trình tự nào sau đây đúng: 1.Cắt điện và thực hiện các biện pháp ngăn chặn có điện trở lại nơi làm việc; 2.Cắt điện; 3.Kiểm tra không còn điện; 4.Đặt nối đất (tiếp đất hoặc tiếp địa); 5.Treo biển báo, tín hiệu. Đặt rào chắn, căng dây (nếu cần thiết) ?",
+    "answer": "1-3-4-5"
   },
   {
-    "question": "Khi làm việc ở nhiều vị trí trên một đoạn đường dây điện trên không (không giao chéo hoặc đi song song với đường dây khác) không có nhánh rẽ, khoảng cách xa nhất giữa hai bộ nối đất không lớn hơn",
-    "answer": "2 km"
+    "question": "Theo Quy trình An toàn, cắt điện để làm công việc phải thực hiện theo những nội dung nào sau đây?",
+    "answer": "Phải nhìn thấy được khoảng hở của thiết bị đóng cắt, trừ trường hợp quy định tại điểm b khoản 1, điều 20 quy trình này; hoặc tạo khoảng hở như: kéo máy cắt hợp bộ ra vị trí thí nghiệm/sửa chữa; tháo cầu chì; tháo đầu cáp; tháo lèo dây dẫn."
   },
   {
-    "question": "Công nhân A công tác xong, đã khóa phiếu, sau đó tự ý leo lên đấu lại một dây lèo còn sót trong phạm vi vừa công tác. Công nhân A đã vi phạm:",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Theo Quy trình An toàn, cắt điện để làm công việc phải thực hiện theo những nội dung nào sau đây?",
+    "answer": "Đối với các thiết bị đóng cắt kiểu kín (không nhìn được khoảng hở) thì phải căn cứ hiển thị về cơ khí trạng thái tại chỗ của thiết bị đóng cắt và thông số điện áp (nếu có)."
   },
   {
-    "question": "Theo quy trình an toàn điện, phiếu công tác do ai cấp?",
-    "answer": "Ý 2: Người được cấp có thẩm quyền có quyết định công nhận chức danh Người cấp phiếu công tác"
+    "question": "Theo Quy trình An toàn, cắt điện để làm công việc phải thực hiện theo những nội dung nào sau đây ?",
+    "answer": "Việc thao tác thiết bị do nhân viên vận hành đương ca đảm nhiệm. Chỉ Nhân viên vận hành mới được gỡ bỏ các biện pháp an toàn này sau khi đã kết thúc công tác."
   },
   {
-    "question": "Người nào phải chịu trách nhiệm chỉ dẫn cho Đơn vị công tác nơi làm việc, phạm vi được phép làm việc, những nơi (phần, thiết bị) có điện gần nơi làm việc",
-    "answer": "Ý 3: Người cho phép."
+    "question": "Theo Quy trình An toàn, yêu cầu khi cách ly thiết bị để làm công việc sửa chữa phải thực hiện theo những nội dung nào sau đây ?",
+    "answer": "Cách ly thiết bị từng phần thuộc hệ thống để làm việc phải giao cho Nhân viên vận hành nắm vững sơ đồ và vị trí thực tế của thiết bị để ngăn ngừa khả năng nhầm lẫn, gây nguy hiểm cho Đơn vị công tác."
   },
   {
-    "question": "Việc tiếp nhận nơi làm việc do Người chỉ huy trực tiếp bàn giao khi Đơn vị công tác kết thúc công việc; kiểm tra nội dung công việc, nơi làm việc, ký khóa phiếu công tác và thông báo cho các đơn vị liên quan là trách nhiệm của ai?",
-    "answer": "Người cho phép"
+    "question": "Theo Quy trình An toàn, nội dung nào sau đây là quy định đúng để thực hiện kiểm tra xác định không còn điện ?",
+    "answer": "Kiểm tra không còn điện bằng thiết bị thử điện chuyên dùng phù hợp với điện áp danh định của thiết bị cần thử như bút thử điện, còi thử điện; phải thử ở tất cả các pha và các phía của thiết bị điện."
   },
   {
-    "question": "Người chỉ đạo chung khi công việc do nhiều đơn vị công tác của cùng một tổ chức hoạt động điện lực thực hiện được gọi là gì?",
-    "answer": "Người lãnh đạo công việc"
+    "question": "Theo Quy trình An toàn, nội dung nào sau đây là quy định đúng để thực hiện kiểm tra xác định không còn điện ?",
+    "answer": "Không được căn cứ tín hiệu đèn, rơ le, đồng hồ để xác nhận thiết bị điện không còn điện, nhưng nếu đèn, rơ le, đồng hồ báo tín hiệu có điện thì phải xem như thiết bị điện vẫn có điện."
   },
   {
-    "question": "Khi làm việc tại một công trình điện lực có nhiều Đơn vị công tác khác nhau thì việc thực hiện biện pháp kỹ thuật an toàn tại nơi làm việc của các đơn vị công tác được thực hiện như thế nào ?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình An toàn, nội dung nào sau đây là quy định đúng để thực hiện kiểm tra xác định không còn điện ?",
+    "answer": "Tất cả 3 đáp án trên (dưới)"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất khi tiến hành công việc gần những phần có điện đối với cấp điện áp trên 15kV đến 35kV là.",
-    "answer": "1,0 m"
+    "question": "Theo Quy trình An toàn, nội dung nào sau đây là quy định đúng để thực hiện kiểm tra xác định không còn điện ?",
+    "answer": "Nội dung (1) và (2)."
   },
   {
-    "question": "Để đảm bảo an toàn trong khi tiến hành công việc theo Lệnh công tác, đơn vị công tác có được phép thay đổi nội dung hoặc mở rộng phạm vi làm việc.",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình An toàn, phải thực hiện nối đất tại nơi làm việc có cắt điện theo nội dung nào dưới đây ?",
+    "answer": "Phải nối đất (cố định, di động) ngay sau khi kiểm tra không còn điện."
   },
   {
-    "question": "<b> Có được sử dụng cưa máy và sào cách điện để cưa cây gần đường dây trên không không?</b>",
-    "answer": "Ý 2: Được phép, người thực hiện phải được huấn luyện thành thạo quy trình sử dụng cưa máy, sào cắt cây. Khi cưa cây phải có biện pháp tránh cưa rơi xuống đất gây nguy hiểm cho người bên dưới."
+    "question": "Theo Quy trình An toàn, phải thực hiện nối đất tại nơi làm việc có cắt điện theo nội dung nào dưới đây ?",
+    "answer": "Nối đất ở tất cả các pha của thiết bị điện, phụ tải hoặc các nguồn điện khác về phía có khả năng dẫn điện đến."
   },
   {
-    "question": "Những việc nào sau đây cho phép nhân viên vận hành không cần lập phiếu thao tác nhưng phải ghi chép đầy đủ các bước thao tác vào sổ nhật ký vận hành trước khi thực hiện thao tác?",
-    "answer": "Ý 1"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định đúng và được áp dụng để thực hiện nối đất tại nơi làm việc có cắt điện ?",
+    "answer": "(3). Đảm bảo cho toàn bộ Nhân viên đơn vị công tác nằm trọn trong vùng bảo vệ của nối đất."
   },
   {
-    "question": "Khi công tác trên đường cáp cao áp thì :",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định đúng và được áp dụng để thực hiện nối đất tạo vùng an toàn khi làm việc ?",
+    "answer": "Đơn vị QLVH tổ chức thực hiện nối đất tại tất cả các đầu có nguồn điện đến để tạo vùng làm việc an toàn trước khi bàn giao hiện trường."
   },
   {
-    "question": "Nối đất khi làm việc trên đường dây điện hạ áp cho phép:",
-    "answer": "Chập 3 pha với dây trung tính và nối với đất"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định đúng về trách nhiệm của người Chỉ huy trực tiếp?",
+    "answer": "Người chỉ huy trực tiếp phải có mặt liên tục tại nơi làm việc, giám sát và có biện pháp để Nhân viên đơn vị công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc."
   },
   {
-    "question": "Nếu thấy các điều kiện đảm bảo an toàn khi làm việc chưa đủ và đúng, Nhân viên đơn vị công tác phải làm gì?",
-    "answer": "Phải báo cáo ngay với người chỉ huy trực tiếp để xem xét giải quyết"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là yêu cầu đối với Nhân viên đơn vị công tác?",
+    "answer": "Nhân viên đơn vị công tác do người được giao nhiệm vụ trực tiếp quản lý nhân viên của đơn vị công tác cử tham gia thực hiện công tác."
   },
   {
-    "question": "Khi trèo lên cột phải kiểm tra sơ bộ tình trạng của móng cột và cột, thực hiện như thế nào là sai?",
-    "answer": "Trèo cột phía đặt tay xà có sứ đỡ dây dẫn;"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định về trách nhiệm của nhân viên đơn vị công tác?",
+    "answer": "Tự kiểm tra và bảo đảm đầy đủ phương tiện bảo vệ cá nhân."
   },
   {
-    "question": "Thời gian kiểm tra định kỳ của thang?",
-    "answer": "6 tháng"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định về trách nhiệm của nhân viên đơn vị công tác?",
+    "answer": "Ký vào PCT/LCT khi đến làm việc và rút khỏi nơi làm việc trong trường hợp đang thực hiện công việc."
   },
   {
-    "question": "Quy định về kiểm tra, bảo quản dây đeo an toàn trong các trường hợp nào sau đây là đúng?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định về trách nhiệm của nhân viên đơn vị công tác?",
+    "answer": "Phải chấp hành nghiêm nhiệm vụ được phân công, tuân thủ hướng dẫn của Nguời chỉ huy trực tiếp và không làm những việc mà Người chỉ huy trực tiếp không giao."
   },
   {
-    "question": "Khi tiến hành thử nghiệm dây đeo an toàn thì trọng lượng thử và thời gian thử nghiệm đối với dây mới là bao nhiêu?",
-    "answer": "300 kg, 5 phút"
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định về trách nhiệm của nhân viên đơn vị công tác?",
+    "answer": "Phải nhận biết được các yếu tố nguy hiểm, có trách nhiệm tự bảo vệ để đảm bảo an toàn khi làm việc."
   },
   {
-    "question": "Khi thi công kéo dây gần đường dây 35kV đang vận hành, khoảng cách nhỏ nhất cho phép giữa dây cáp thép (cáp hãm, kép) và dây chằng thép tới dây dẫn của đường dây đang có điện là bao nhiêu:",
-    "answer": "2,5 m"
+    "question": "Theo Quy trình An toàn, người Chỉ huy trực tiếp có trách nhiệm ?",
+    "answer": "Phải hợp tác chặt chẽ với Người cấp phiếu, Người cho phép, chịu sự chỉ huy về an toàn của Người lãnh đạo công việc (nếu có)."
   },
   {
-    "question": "Khi làm việc trên đường dây đã cắt điện nhưng đi chung cột với đường dây đang vận hành, khoảng cách nhỏ nhất cho phép giữa các dây dẫn của hai mạch đường dây cấp điện áp 35kV là bao nhiêu:",
-    "answer": "3 mét"
+    "question": "Theo Quy trình An toàn, khi kết thúc công việc, nếu đã có lệnh tháo tiếp đất thì ?",
+    "answer": "Cấm người tham gia thực hiện công việc tự ý vào nơi làm việc và tiếp xúc với thiết bị điện để làm bất cứ việc gì."
   },
   {
-    "question": "Trước và trong khi làm việc, nếu nghi ngờ hoặc phát hiện có sự không bảo đảm an toàn, người phụ trách công tác phải xử lý:",
-    "answer": "Lập tức cho ngừng công việc và ra lệnh mọi người rút khỏi vị trí, khu vực không đảm bảo an toàn"
+    "question": "Theo Quy trình An toàn, thao tác đóng điện vào thiết bị điện đã cắt điện khi làm việc được thực hiện theo điều kiện nào dưới đây?",
+    "answer": "Đã khóa PCT, nếu thiết bị đóng điện có liên quan đến nhiều Đơn vị công tác thì phải khóa tất cả các PCT, đảm bảo thiết bị sẽ đóng điện tuyệt đối an toàn."
   },
   {
-    "question": "Khi làm việc trên cột điện, hành vi nào nào sau đây là đúng?",
-    "answer": "Cả Ý 2 và Ý 3 đều đúng"
+    "question": "Theo Quy trình An toàn, nội dung nào là quy định không đúng khi thao tác đóng điện vào thiết bị điện đã cắt điện để làm việc?",
+    "answer": "Được phép đóng điện của đơn vị có quyền kiểm tra quy định tại Thông tư quy định quy trình điều độ hệ thống điện quốc gia do Bộ Công Thương ban hành."
   },
   {
-    "question": "Khi làm việc ở vị trí có độ cao hoặc độ sâu bao nhiêu so với mặt đất, nhân viên đơn vị công tác phải dùng các phương tiện lên xuống phù hợp:",
-    "answer": "Trên 2 mét"
+    "question": "Theo Quy trình An toàn: Nội dung nào dưới đây là quy định không đúng khi sử dụng thang di động để làm việc trên cao?",
+    "answer": "Chiều dài của thang phải lớn hơn độ cao cần làm việc. Không sử dụng thang quá dài (không quá 6m)."
   },
   {
-    "question": "Kết thúc công việc, nếu đã có lệnh tháo nối đất thì?",
-    "answer": "Cấm người tham gia thực hiện công việc tự ý vào nơi làm việc và tiếp xúc với thiết bị để làm bất cứ việc gì"
+    "question": "Theo Quy trình An toàn: Quy định và thời gian và tải trọng (thử tĩnh) phải áp dụng để kiểm tra thang di động?",
+    "answer": "Sáu tháng một lần cần phải dùng một vật nặng 110kg để treo trên từng bậc thang (kiểu thử tĩnh) xem thang có chịu được không."
   },
   {
-    "question": "Bắt buộc người công nhân phải sử dụng dây đeo an toàn khi leo cột điện các loại đến độ cao nào?",
-    "answer": "Ngay khi bắt đầu leo"
+    "question": "Theo Quy trình An toàn: Nội dung nào dưới đây là quy định về phương pháp nối thang di động?",
+    "answer": "Khi nối thang phải dùng đai bằng sắt và bắt bu-lông, hoặc dùng nẹp bằng gỗ, tre cứng ốp hai đầu chỗ nối dài ít nhất 1,0 m và dùng dây thép để néo xoắn thật chặt, đảm bảo không lung lay, xộc xệch."
   },
   {
-    "question": "Khi tiến hành thử nghiệm dây đeo an toàn thì trọng lượng thử và thời gian thử nghiệm đối với dây cũ là bao nhiêu?",
-    "answer": "225 kg, 5 phút"
+    "question": "Theo Quy trình An toàn: Hàng ngày, trước khi làm việc trên cao người sử dụng phải kiểm tra dây đeo an toàn bằng cách nào?",
+    "answer": "Đeo vào người rồi buộc dây vào vật chắc chắn ở dưới đất và chụm chân lại ngả người ra phía sau xem dây có hiện tượng bất thường gì không."
   },
   {
-    "question": "Khi đấu nối công tơ lên đường dây hạ áp đang mang điện, phải thực hiện quy định nào sau đây:",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình An toàn: Thời hạn thử tải trọng định kỳ của dây đeo an toàn là bao nhiêu ?",
+    "answer": "06 tháng một lần"
   },
   {
-    "question": "Khi di chuyển, vận hành trong khu vực trạm, khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm có cấp điện áp 22 kV là bao nhiêu?",
-    "answer": "1,0 m"
+    "question": "Theo Quy trình An toàn: Quy định trọng lượng tải, thời gian thử khi thực hiện thử tải trọng định kỳ cho dây đeo an toàn đang sử dụng là ?",
+    "answer": "Thử chịu tải trọng 225kg trong 5 phút"
   },
   {
-    "question": "Khi kiểm tra thiết bị còn điện áp hay không, cần:",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "Theo Quy trình An toàn:  Quy định trọng lượng tải, thời gian thử khi thực hiện thử tải trọng cho dây đeo an toàn mới là ?",
+    "answer": "Thử chịu tải trọng 300kg trong 5 phút"
   },
   {
-    "question": "Trình tự khi đặt nối đất?",
-    "answer": "Lắp đầu dây nối đất với đất trước sau đó lắp đầu còn lại vào đường dây/thiết bị điện"
+    "question": "Theo Quy trình An toàn: Trách nhiệm quản lý dây đeo an toàn được quy định như thế nào?",
+    "answer": "Đơn vị công tác có trách nhiệm quản lý chặt chẽ dây đeo an toàn"
   },
   {
-    "question": "Khi thực hiện thao tác đặt nối đất lưu động lưu động có được để dây nối đất chạm vào người không?",
-    "answer": "Không được để dây nối đất va chạm vào người"
+    "question": "Theo Quy trình An toàn, biện pháp an toàn khi làm việc ở động cơ điện cao áp, quy định nào sau đây đúng?",
+    "answer": "Cấm làm bất cứ công việc gì trong mạch của động cơ đang quay, trừ công việc thí nghiệm thực hiện theo phương án được phê duyệt."
   },
   {
-    "question": "Những vật liệu nào sau đây có thể làm rào chắn tạm thời ngăn cách giữa phần thiết bị có điện với nơi làm việc",
-    "answer": "Cả Ý 2 và Ý 3 đều đúng"
+    "question": "Theo Quy trình an toàn: Quy định về thời gian đăng ký đối với công tác có kế hoạch là ?",
+    "answer": "Muộn nhất 07 ngày trước thời điểm bắt đầu thực hiện công tác."
   },
   {
-    "question": "Sau khi làm việc xong, muốn đóng điện lại vào thiết bị đã cắt điện thì phải thỏa mãn các điều kiện nào sau đây?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Theo Quy trình an toàn: Quy định về thời gian đăng ký đối với công tác ngoài kế hoạch là ?",
+    "answer": "Muộn nhất 24 giờ trước thời điểm bắt đầu thực hiện công tác."
   },
   {
-    "question": "Khi được giao thực hiện công việc mà thấy nguy hiểm, thiếu an toàn, nhân viên đơn vị công tác:",
-    "answer": "Được phép ngừng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết"
+    "question": "Theo Quy trình an toàn: Quy định về thời gian đăng ký công tác đối với trường hợp xử lý sự cố là ?",
+    "answer": "Ngay sau khi nhận được thông báo từ Đơn vị quản lý vận hành."
   },
   {
-    "question": "Quy định về quản lý dây đeo an toàn trong trường hợp nào sau đây là sai?",
-    "answer": "Trọng lượng thử đối với dây đeo an toàn cũ là 300kg, đối với dây đeo an toàn mới là 225kg."
+    "question": "Theo Quy trình an toàn: Nội dung nào là quy định đúng về thời gian đăng ký công tác?",
+    "answer": "Cả 3 đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Khi nghỉ giải lao, các nhân viên của đơn vị công tác vẫn phải chịu sự giám sát của ai?",
-    "answer": "Người chỉ huy trực tiếp"
+    "question": "Theo Quy trình an toàn: Quy định về hình thức đăng ký công tác có kế hoạch là ?",
+    "answer": "Giấy hoặc điện tử."
   },
   {
-    "question": "Khi dây dẫn điện đứt, rơi xuống đất hoặc còn lơ lửng, phải có biện pháp để không cho mọi người đến gần trong phạm vi:",
-    "answer": "Dưới 10m"
+    "question": "Theo Quy trình an toàn: Quy định đăng ký công tác ngoài kế hoạch, xử lý sự cố theo hình thức nào?",
+    "answer": "Giấy hoặc điện tử hoặc lời nói (trực tiếp hoặc qua điện thoại, bộ đàm)."
   },
   {
-    "question": "Khi nghỉ giải lao xong (trong trường hợp phải ra khỏi phạm vi công tác), nhân viên đơn vị công tác phải làm gì?",
-    "answer": "Ý 1: Không được tự ý trở lại làm việc khi chưa có lệnh của người chỉ huy trực tiếp"
+    "question": "Theo Quy trình An toàn: Kỹ thuật móc dây đeo an toàn (dây da) được thực hiện như thế nào?",
+    "answer": "Dây đeo an toàn phải móc vào vị trí chắc chắn ngay phía trên vị trí làm việc sao cho chiều cao rơi là nhỏ nhất (để giảm động năng rơi)."
   },
   {
-    "question": "Khi sử dụng thang di động để làm việc trên cao, trường hợp nào sau đây là sai?",
-    "answer": "Đứng trên thang để dịch chuyển từ vị trí này sang vị trí khác"
+    "question": "Theo Quy trình an toàn: Việc kiểm tra đánh giá rủi ro ATVSLĐ khi thực hiện công tác được thực hiện theo nội dung nào dưới đây?",
+    "answer": "ĐVCT và ĐVQLVH kiểm tra sự phù hợp của đánh giá rủi ro ATVSLĐ đã thực hiện theo Danh sách công việc được đánh giá rủi ro đối với công tác đăng ký"
   },
   {
-    "question": "Kết cấu và chất lượng thang di động trong trường hợp nào là sai quy định?",
-    "answer": "Ý 3: Bậc thang được phép đóng bằng đinh; không dùng dây thép buộc."
+    "question": "Theo Quy trình an toàn: Thời gian giải quyết trình tự, thủ tục thực hiện công tác có kế hoạch là?",
+    "answer": "Chậm nhất 03 ngày sau thời điểm nhận được đăng ký công tác."
   },
   {
-    "question": "Khi làm việc trên cao, những hành vi nào sau đây bị cấm?",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "Theo Quy trình an toàn: Thời gian giải quyết trình tự, thủ tục thực hiện công tác ngoài kế hoạch là ?",
+    "answer": "Chậm nhất 12 giờ sau thời điểm nhận được đăng ký công tác."
   },
   {
-    "question": "Nghiêm cấm làm việc trên cao đối với những trường hợp nào sau đây?",
-    "answer": "Những người đã sử dụng các chất kích thích, đồ uống có cồn"
+    "question": "Theo Quy trình an toàn: Thời gian giải quyết trình tự, thủ tục thực hiện công tác trong trường hợp xử lý sự cố là ?",
+    "answer": "Không quá 01 giờ sau khi nhận được đăng ký từ Đơn vị công tác."
   },
   {
-    "question": "Khi làm việc trên cao, thực hiện việc nào là đúng?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình an toàn: Thời gian giải quyết trình tự, thủ tục thực hiện công tác gồm những nội dung nào sau đây?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Khi làm việc ở trên cao, người công nhân cần phải làm gì?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Theo Quy trình an toàn: Hình thức giải quyết công tác được thực hiện theo nội dung nào dưới đây?",
+    "answer": "Thực hiện theo một trong các nội dung còn lại."
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn tối thiểu đến phần mang điện đối với cấp điện áp 22kV là:",
-    "answer": "1 m"
+    "question": "Theo Quy trình An toàn: Trách nhiệm quản lý dây đeo an toàn được quy định như thế nào?",
+    "answer": "Nếu xảy ra tai nạn do dây bị đứt, gẫy móc hoặc do không thử đúng kỳ hạn thì Đơn vị công tác phải chịu hoàn toàn trách nhiệm."
   },
   {
-    "question": "Biện pháp an toàn khi trèo lên cột điện để ghi chỉ số công tơ:",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "Theo Quy trình An toàn: Sau khi thử dây đeo an toàn phải ghi chép, cập nhật những thông tin gì?",
+    "answer": "Ghi ngày thử, trọng lượng thử và nhận xét tốt, xấu vào sổ theo dõi thử dây an toàn. Đồng thời đánh dấu (dán tem) vào dây đã thử còn đạt tiêu chuẩn."
   },
   {
-    "question": "Khi phát hiện tổ chức, đơn vị, cá nhân vi phạm Quy trình an toàn điện và các quy trình có liên quan khác, có nguy cơ gây mất an toàn đối với người hoặc thiết bị điện, người phát hiện phải làm gì?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình an toàn: Thủ tục thực hiện các biện pháp an toàn, bàn giao hiện trường được quy định như thế nào?",
+    "answer": "(3). Đơn vị QLVH kiểm tra, thực hiện các BPAT theo PCT/LCT và bàn giao hiện trường, cho phép công tác. ĐVCT chịu trách nhiệm thực hiện các biện pháp an toàn theo PCT/LCT thuộc nội dung do ĐVCT thực hiện."
   },
   {
-    "question": "Khi có rào chắn tạm thời, khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp trên 15kV đến 35kV là?",
-    "answer": "0,6 m"
+    "question": "Theo Quy trình an toàn: Nội dung nào dưới đây là quy định về thực hiện công tác?",
+    "answer": "ĐVCT chịu trách nhiệm giám sát an toàn trong thời gian làm việc; nghỉ giải lao."
   },
   {
-    "question": "Khoảng cách an toàn phóng điện từ cấp điện áp 1kV đến 35kV đối với thiết bị, dụng cụ, phương tiện (trừ xe chuyên dùng cho công tác sửa chữa điện) nhỏ nhất là báo nhiêu?",
-    "answer": "4,0 m"
+    "question": "Theo Quy trình an toàn: Thủ tục kết thúc công tác được thực hiện theo nội dung nào dưới đây?",
+    "answer": "Đơn vị công tác rút hết các biện pháp an toàn mà đơn vị tự làm, rút hết người phương tiện ra khỏi hiện trường, bàn giao hiện trường, thiết bị cho Đơn vị quản lý vận hành."
   },
   {
-    "question": "Theo Quy trình An toàn điện, điện hạ áp được quy ước:",
-    "answer": "< 1000V"
+    "question": "Theo Quy trình an toàn: Khi cấp PCT giấy người cấp phải thực hiện theo yêu cầu nào dưới đây?",
+    "answer": "Lập thành 02 bản: Người cấp phiếu ký 02 bản, chuyển đến Người cho phép, Người CHTT mỗi người giữ 01 bản."
   },
   {
-    "question": "Trước khi trèo lên giá đỡ, cột; nhân viên đơn vị công tác phải kiểm tra sơ bộ nội dung nào?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Theo Quy trình an toàn: PCT điện tử phải đáp ứng yêu cầu nào dưới dây?",
+    "answer": "Không sửa được nội dung phần thuộc trách nhiệm hoặc có liên quan sau khi đã có chữ ký (số/điện tử) của Người tham gia thực hiện PCT."
   },
   {
-    "question": "Khi nối thang di động phải thực hiện như thế nào cho đúng?",
-    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+    "question": "Theo Quy trình an toàn, quy định về việc kiêm nhiệm khi thực hiện PCT ?",
+    "answer": "Tất cả đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Các bước cơ bản để cứu người bị tai nạn điện, bao gồm.",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "Theo Quy trình an toàn, LCT giấy yêu cầu như thế nào?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện cao áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
-    "answer": "Ý 1: Mang ủng, găng tay cách điện và dùng sào cách điện để gạt hoặc đẩy nạn nhân ra khỏi mạch điện."
+    "question": "Theo Quy trình an toàn, LCT điện tử yêu cầu như thế nào?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Theo Quy trình An toàn điện, điện cao áp được quy ước:",
-    "answer": "Từ 1000V trở lên"
+    "question": "Theo Quy trình an toàn, người tham gia thực hiện LCT bao gồm những những chức danh nào?",
+    "answer": "Người cấp lệnh, Người CHTT, Người GSATĐ, Nhân viên công tác."
   },
   {
-    "question": "Khi không thể thực hiện được công việc theo lệnh của Người chỉ huy trực tiếp hoặc nhận thấy nguy hiểm, thiếu an toàn nếu thực hiện công việc đó theo lệnh thì Nhân viên đơn vị công tác xử lý như thế nào?",
-    "answer": "Được phép ngừng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết"
+    "question": "Theo Quy trình an toàn, người CHTT là người thuộc Đơn vị công tác hoặc đơn vị quản lý vận hành, phải nắm vững ?",
+    "answer": "Thời gian, địa điểm, nội dung công việc được giao và các biện pháp an toàn phù hợp với yêu cầu của công việc; được giao nhiệm vụ chỉ huy và giám sát an toàn trong thời gian công tác."
   },
   {
-    "question": "Trách nhiệm Nhân viên đơn vị công tác như thế nào đúng?",
-    "answer": "Tất cả các đáp án còn lại đều đúng"
+    "question": "Theo Quy trình an toàn, nhân viên công tác có nhiệm vụ và tránh nhiệm như thế nào?",
+    "answer": "Tất cả đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Khi thấy các điều kiện đảm bảo an toàn để làm việc chưa đủ và đúng thì Nhân viên đơn vị công tác có trách nhiệm nào sau đây đúng?",
-    "answer": "Cả Ý 2 và Ý 3 đều đúng"
+    "question": "Theo Quy trình an toàn, cho phép người CHTT giám sát an toàn từ xa nhân viên công tác nếu đủ điều kiện nào dưới đây?",
+    "answer": "Có đủ thiết bị công nghệ hỗ trợ cần thiết đảm bảo như giám sát an toàn tại chỗ."
   },
   {
-    "question": "Để đảm bảo an toàn trong công việc thực hiện theo Lệnh công tác, Nhân viên đơn vị công tác thực hiện các việc nào dưới đây là không đúng?",
-    "answer": "Ý 2: Được tự ý mở rộng phạm vi làm việc khi thấy đảm bảo an toàn."
+    "question": "Theo Quy trình an toàn, việc kiểm tra an toàn trước khi thực hiện công tác cho phép làm việc và bàn giao tại hiện trường theo PCT thực hiện như thế nào?",
+    "answer": "Người cho phép chỉ dẫn cho Người CHTT biết phạm vi được phép làm việc và các cảnh báo, chỉ dẫn các yếu tố nguy hiểm để đảm bảo an toàn cho Đơn vị công tác, các biện pháp an toàn đã thực hiện theo PCT."
   },
   {
-    "question": "Yêu cầu đảm bảo về an toàn khi làm việc gần nơi có điện là công việc:",
-    "answer": "Cả Ý 1 hoặc Ý 3"
+    "question": "Theo Quy trình an toàn, về việc nghỉ giải lao đảm bảo an toàn trong thời gian thực hiện công tác thực hiện như thế nào?",
+    "answer": "Tất cả các đáp án trên (dưới)"
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 22kV là:",
-    "answer": "1 m"
+    "question": "Theo Quy trình an toàn (phần A quy trình an toàn điện), việc thay đổi nhân viên công tác của ĐVCT để đảm bảo an toàn trong thời gian thực hiện công tác phải thực hiện như thế nào?",
+    "answer": "Do người có trách nhiệm của Đơn vị công tác quyết định và Người chỉ huy trực tiếp phải thông báo tới Người cho phép."
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 110kV là:",
-    "answer": "1,5 m"
+    "question": "Theo Quy trình an toàn (phần A quy trình an toàn điện), việc thay đổi Người CHTT của đơn vị công tác để đảm bảo an toàn trong thời gian thực hiện công tác ?",
+    "answer": "Do người có trách nhiệm của đơn vị công tác quyết định."
   },
   {
-    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều toàn tối thiểu đến phần mang điện đối với cấp điện áp 35kV là:",
-    "answer": "1m"
+    "question": "Theo Quy trình an toàn, việc thay đổi người của đơn vị công tác để đảm bảo an toàn trong thời gian thực hiện công tác phải thực hiện như thế nào?",
+    "answer": "Tất cả các đáp án trên (dưới)"
   },
   {
-    "question": "<b> Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện: </b>",
-    "answer": "Cả Ý 2 và Ý 3 đều đúng."
+    "question": "Theo Quy trình an toàn, việc tổ chức đơn vị công tác trách nhiệm của đơn vị công tác phải thực hiện như thế nào ?",
+    "answer": "01 Đơn vị công tác khi làm việc theo 01 PCT/LCT, Người CHTT phải giám sát được tất cả nhân viên của Đơn vị công tác trong cùng một thời gian, không gian để đảm bảo an toàn."
   },
   {
-    "question": "Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện:",
-    "answer": "Cả Ý 1 và Ý 3 đều đúng"
+    "question": "Theo Quy trình an toàn, điều nào không thuộc trách nhiệm của đơn vị quản lý vận hành ?",
+    "answer": "Cử người CHTT, nhân viên công tác theo quy định"
   },
   {
-    "question": "Khi làm việc trên cao, được phép thực hiện những việc gì sau đây?",
-    "answer": "Mang theo người những dụng cụ nhẹ như kìm, tuốc-nơ-vít, cờ-lê, mỏ-lết, búa con... nhưng phải đựng trong túi đựng đồ chuyên dùng"
+    "question": "Theo Quy trình an toàn, điều nào không thuộc trách nhiệm của người cho phép ?",
+    "answer": "Cấp PCT/LCT với đầy đủ các biện pháp an toàn phù hợp với Đăng ký công tác."
   },
   {
-    "question": "Khi công tác trên đường dây đã cắt điện phải tuân thủ điều nào?",
-    "answer": "Tất cả các đáp án còn lại đều đúng"
+    "question": "Theo Quy trình an toàn, điều nào không thuộc trách nhiệm của người cấp lệnh ?",
+    "answer": "Ghi thời gian bàn giao hiện trường làm việc, ký tên vào phần Cho phép công tác của PCT."
   },
   {
-    "question": "Trường hợp nào sau đây cấm làm việc trên đường dây đã cắt điện?",
-    "answer": "Tất cả các đáp án còn lại đều đúng"
+    "question": "Theo Quy trình an toàn, trách nhiệm phối hợp của người CHTT ?",
+    "answer": "Tất cả các đáp án trên (dưới)"
   },
   {
-    "question": "Khi chặt cây ở gần đường dây, phải thực hiện như thế nào là đúng quy định?",
-    "answer": "Dùng dây để buộc chuôi dụng cụ (dao, cưa,…) với cổ tay"
+    "question": "Theo Quy trình an toàn, trách nhiệm của người cấp phiếu ?",
+    "answer": "Bao gồm cả 3 đáp án trên (dưới)"
   },
   {
-    "question": "Sử dụng dây đeo an toàn trong trường hợp nào sau đây là sai?",
-    "answer": "Khi leo từ cột xuống: cho phép không quàng dây choàng vào cột"
+    "question": "Theo Quy trình an toàn, kiểm tra sơ bộ sức khoẻ công nhân: Ttrước khi bắt đầu công việc, người CHTT phải kiểm tra sơ bộ tình hình sức khỏe, thể trạng của nhân viên công tác ?",
+    "answer": "Khi xét thấy sức khỏe Nhân viên công tác không đảm bảo thì không được để nhân viên công tác đó tham gia vào công việc."
   },
   {
-    "question": "Cấm làm việc trên đường dây điện trên không khi:",
-    "answer": "Bắt đầu có gió cấp 6 trở lên hoặc có mưa nặng hạt, nước chảy thành dòng trên người và thiết bị điện"
+    "question": "Theo Quy trình an toàn, trách nhiệm phổ biến và giải thích biện pháp an toàn cho nhân viên đơn vị công tác  ?",
+    "answer": "Trước khi bắt đầu làm việc, Người CHTT phải phổ biến và giải thích cho Nhân viên công tác về nội dung, trình tự để thực hiện công việc và các biện pháp an toàn."
   },
   {
-    "question": "Cấm chặt (cưa) cây ở gần đường dây điện trên không khi có gió:",
-    "answer": "Gió cấp 4 trở lên"
+    "question": "Theo Quy trình an toàn, trách nhiệm giám sát: Người CHTT phải có mặt liên tục tại nơi làm việc ?",
+    "answer": "Giám sát an toàn và có biện pháp để Nhân viên công tác không thực hiện những hành vi có thể gây tai nạn trong quá trình làm việc, chỉ được phép rời hiện trường khi có Người CHTT khác thay thế."
   },
   {
-    "question": "Yêu cầu kỹ thuật của dây nối đất di động đối với lưới điện cấp điện áp đến 35 kV:",
-    "answer": "Làm bằng đồng hoặc hợp kim mềm nhiều sợi, (mềm,) có tiết diện phải chịu được tác dụng lực điện động và nhiệt và tiết diện không được nhỏ hơn 16mm2"
+    "question": "Theo Quy trình an toàn, làm rào chắn tạm thời hoặc căng dây cảnh báo bao gồm?",
+    "answer": "Bao gồm cả 3 đáp án trên (dưới)"
   },
   {
-    "question": "Trong thời gian làm việc có cho phép chạm hoặc vượt qua vùng được tạo bởi các rào chắn không?",
+    "question": "Theo Quy trình an toàn, khi làm việc với động cơ để đảm bảo an toàn động cơ cần phải có ?",
+    "answer": "Dây tiếp địa, điểm đấu nối cáp điện phải có hộp bảo vệ chắc chắn, các gối đỡ phải được bôi trơn đầy đủ."
+  },
+  {
+    "question": "Theo Quy trình an toàn, khi làm việc với thiết bị quay để đảm bảo an toàn ta phải tuân thủ những điều gì sau đây?",
+    "answer": "Bao gồm cả 3 đáp án trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn đối với điện động cơ khi đưa ra sửa chữa, đại tu ta cần thực hiện gì?",
+    "answer": "Phải được cắt điện động cơ, treo biển báo cấm thao tác ở vị trí khoá điều khiển và thiết bị đóng cắt."
+  },
+  {
+    "question": "Theo Quy trình an toàn, khi làm việc với thiết bị quay để đảm bảo an toàn nhân viên vận hành khi theo dõi các thiết bị phải ?",
+    "answer": "Giữ đúng khoảng cách quy định, không tiếp xúc trực tiếp thiết bị đang vận hành. Trang bị bảo hộ phải gọn gàng, đầy đủ."
+  },
+  {
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn đối với thiết bị quay. Khi phát hiện độ rung, nhiệt độ của các thiết bị vượt quá trị số tác động bảo vệ mà hệ thống bảo vệ không làm việc, nhân viên vận hành cần thực hiện gì ?",
+    "answer": "Thao tác ngừng khẩn cấp thiết bị để bảo vệ thiết bị đồng thời báo cáo cấp trên xin ý kiến xử lý."
+  },
+  {
+    "question": "Theo Quy trình an toàn, phải cất giữ thiết bị cầm tay trong các tủ đồ nghề riêng và việc sử dụng chúng phải giao cho các cá nhân chuyên trách. Chu kỳ kiểm tra ít nhất ?",
+    "answer": "06 tháng 01 lần, không kể kiểm tra đột xuất do các lý do khác hoặc hư hỏng, vừa nhận lại từ người khác."
+  },
+  {
+    "question": "Theo Quy trình an toàn, điều gì không đúng Khi sử dụng thiết bị cầm tay?",
+    "answer": "Luôn để dây điện ở phía trước và cách xa thiết bị;"
+  },
+  {
+    "question": "Theo Quy trình an toàn, điều gì không đúng khi sử dụng thiết bị cầm tay?",
+    "answer": "Phải cầm chặt máy bằng tay phải và chọn vị trí đứng chắc chắn;"
+  },
+  {
+    "question": "Theo Quy trình an toàn, khi sử dụng thiết bị cầm tay nghiêm cấm các trường hợp sau ?",
+    "answer": "Nghiêm cấm cả 3 trường hợp trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, khi sử dụng thiết bị cầm tay nghiêm cấm các trường hợp sau ?",
+    "answer": "Nghiêm cấm cả 3 trường hợp trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, khi sử dụng thiết bị cầm tay nghiêm cấm các trường hợp sau ?",
+    "answer": "Nghiêm cấm cả 3 trường hợp trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, khi sử dụng thiết bị cầm tay nghiêm cấm các trường hợp sau ?",
+    "answer": "Nghiêm cấm cả 3 trường hợp trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với thiết bị nâng, cần nhận diện mối nguy nào khi làm việc?",
+    "answer": "Cả 3 mối nguy trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, trong quá trình sử dụng xe cẩu, cầu trục, cần trục bánh lốp không cho phép ?",
+    "answer": "Không cho phép cả 3 đáp án trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, trong quá trình sử dụng xe cẩu, cầu trục, cần trục bánh lốp không cho phép ?",
+    "answer": "Không cho phép cả 3 trường hợp trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, trong quá trình sử dụng xe cẩu, cầu trục, cần trục bánh lốp không cho phép ?",
+    "answer": "Không cho phép cả 3 đáp án trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, trong quá trình sử dụng xe cẩu, cầu trục, cần trục bánh lốp không cho phép ?",
+    "answer": "Tất cả các đáp án trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với xe nâng hàng, trong phạm vi công trường xe phải chạy với tốc độ giới hạn bao nhiêu?",
+    "answer": "Trong phạm vi công trường xe phải chạy với tốc độ ≤ 10 km/h;"
+  },
+  {
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với xe nâng hàng, khi chạy trên đường thẳng trong kho xe phải chạy với tốc độ giới hạn bao nhiêu?",
+    "answer": "Khi chạy trên đường thẳng trong kho ≤ 6 km/h;"
+  },
+  {
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với xe nâng hàng, khi chạy trên Qua quãng đường ngoặt hoặc vòng xe phải chạy với tốc độ giới hạn bao nhiêu?",
+    "answer": "Qua quãng đường ngoặt hoặc vòng phải chạy với tốc độ ≤ 5 km/h."
+  },
+  {
+    "question": "Theo Quy trình an toàn, có được sử dụng xe nâng hàng để nâng người lên cao hoặc chở người hay không?",
     "answer": "Nghiêm cấm"
   },
   {
-    "question": "Trong thời gian làm việc theo phiếu công tác hoặc lệnh công tác, được phép:",
-    "answer": "Nghỉ giải lao"
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với xe nâng hàng, điều nào sau đây không đúng?",
+    "answer": "Đưa càng nâng lên điểm cao nhất khi di chuyển."
   },
   {
-    "question": "Khi được giao thực hiện công việc mà thấy nguy hiểm, thiếu an toàn, nhân viên đơn vị công tác:",
-    "answer": "Được phép ngừng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết"
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với xe nâng hàng, đáp án nào sau đây không đúng?",
+    "answer": "Được phép đi nơi có nền không ổn định. Nhưng phải đi cẩn thận"
   },
   {
-    "question": "Trên đường về nhà sau khi kết thúc công việc, công nhân A phát hiện có sự cố do tiếp xúc xấu, gây phóng điện chập chờn trên lưới điện hạ thế của một trạm biến áp nằm trong khu vực của mình quản lý, công nhân A phải xử lý như thế nào?",
-    "answer": "Ý 2: Thông báo tình hình sự cố với trực ban Điện lực. Chỉ được tham gia xử lý sự cố nếu được lãnh đạo đơn vị giao nhiệm vụ và có Phiếu công tác/Lệnh công tác."
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với xe nâng hàng, trọng lượng của hàng phải được phân bố đều trên hai càng nâng và phần nhô ra ở phía trước không được vượt quá ?",
+    "answer": "1/3 độ dài của càng nâng."
   },
   {
-    "question": "Khi đứng trên cột để thao tác tiếp địa lưu động với điện áp cao, người thực hiện phải sử dụng dụng cụ an toàn gì để thực hiện?",
-    "answer": "Găng tay cách điện và Sào cách điện đúng cấp điện áp"
+    "question": "Theo Quy trình an toàn, khi sử dụng xe nâng hàng có lắp thêm cần để nâng và di chuyển, phải thực hiện điều nào sau đây?",
+    "answer": "Nhấc bổng hàng lên rồi mới di chuyển. Khi di chuyển phải có biện pháp chống hàng lắc lư. Cấm kéo hoặc đẩy hàng trên đống xuống."
   },
   {
-    "question": "Trong quá trình đang làm việc trên thiết bị điện đã được cắt điện và nối đất, nếu người chỉ huy trực tiếp phát hiện một dây nối đất bị đứt thì phải làm gì:",
-    "answer": "Ngừng ngay công việc và yêu cầu công nhân đang làm việc trên đường dây xuống, tìm hiểu và xác định nguyên nhân rõ ràng"
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với với xe nâng người, đáp án nào sau đây không đúng?",
+    "answer": "Được phép rời khỏi sàn thao tác nhưng phải tuân thủ quy định làm việc trên cao khi đang ở vị trí nâng."
   },
   {
-    "question": "Công nhân A khi trèo lên cột điện bị vướng nhiều dây cáp viễn thông đi chung cột, công nhân A đã tháo dây choàng để xoay người thì bị trượt chân ngã cao. Qua tình huống này vi phạm nào là nguyên nhân trực tiếp dẫn đến tai nạn?",
-    "answer": "Sử dụng dây đeo an toàn không đúng quy định"
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi làm việc với với xe nâng người, đáp án nào sau đây không đúng?",
+    "answer": "Hạ thấp độ cao, chở người khi tiến hành di chuyển/tham gia giao thông."
   },
   {
-    "question": "Đơn vị công tác đang vệ sinh bảo dưỡng đường dây đoạn từ cột 10 đến cột 30. Người chỉ huy trực tiếp phát hiện dây lèo tại cột 34 bị đứt nên yêu cầu 01 công nhân của Đơn vị công tác trèo lên nối lại lèo. Trong tình huống này người công nhân phải:",
-    "answer": "Từ chối thực hiện công việc trên vì không đảm bảo an toàn, nếu người chỉ huy trực tiếp không chấp thuận thì vẫn thực hiện nhưng sau đó báo cáo cấp trên để giải quyết."
+    "question": "Theo Quy trình an toàn, trước khi sử dụng pa lăng xích kéo tay (pa lăng kéo tay) phải kiểm tra ?",
+    "answer": "Các đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động bao nhiêu lần trong 01 năm?",
-    "answer": "Ít nhất một lần"
+    "question": "Theo Quy trình an toàn, trước khi sử dụng pa lăng xích kéo tay (pa lăng kéo tay) phải kiểm tra ?",
+    "answer": "Các đáp án trên (dưới) đều đúng"
   },
   {
-    "question": "Người sử dụng lao động có trách nhiệm gì đối với người bị tai nạn lao động, bệnh nghề nghiệp?",
-    "answer": "Cả 03 mục còn lại"
+    "question": "Theo Quy trình an toàn, điều nào không đúng để đảm bảo an toàn khi sử dụng pa lăng xích kéo tay ?",
+    "answer": "Cho phép nâng tải trọng lớn hơn giá trị cho phép của pa lăng 10%;"
   },
   {
-    "question": "Khi vết thương đứt động mạch ở các chi bắt buộc phải làm gì đầu tiên?",
-    "answer": "Ga rô cầm máu trước, sau đó mới xử lý băng bó vết thương"
+    "question": "Theo Quy trình an toàn, điều nào không đúng để đảm bảo an toàn khi sử dụng pa lăng xích kéo tay ?",
+    "answer": "Khi dây xích đứt, phải hàn dây xích bằng máy hàn chuyên dụng;"
   },
   {
-    "question": "Khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, người lao động có nghĩa vụ:",
-    "answer": "Báo cáo kịp thời với người có trách nhiệm"
+    "question": "Theo Quy trình an toàn, điều nào không đúng để đảm bảo an toàn khi sử dụng pa lăng xích kéo tay ?",
+    "answer": "Cho phép dùng xích của pa lăng để quàng vào vật cần nâng, khi vật có tính chất cồng kềnh."
   },
   {
-    "question": "Tỉ lệ phần trăm nạn nhân được cứu sống khi bị ngừng tim, phổi nếu thực hiện theo Quy trình hồi sinh tổng hợp ở phút đầu tiên là bao nhiêu?",
-    "answer": "98%"
+    "question": "Theo Quy trình an toàn, để đảm bảo an toàn khi sử dụng pa lăng xích kéo tay ta phải thực hiện ?",
+    "answer": "Thực hiện cả 3 đáp án trên (dưới)"
   },
   {
-    "question": "Theo Quy trình cấp cứu hồi sinh tổng hợp việc thực hiện ép tim ngoài lồng ngực bao nhiêu lần một chu kỳ?",
-    "answer": "30"
+    "question": "Theo Quy trình An toàn, thì phạm vi điều chỉnh của Quy trình này là ?",
+    "answer": "Quy định về các biện pháp đảm bảo an toàn điện; an toàn thuỷ, cơ, nhiệt, hoá khi thực hiện các công việc xây dựng, vận hành, kinh doanh, thí nghiệm, kiểm định, sửa chữa đường dây dẫn điện, thiết bị điện"
   },
   {
-    "question": "Quyền của người lao động được yêu cầu của người sử dụng lao động:",
-    "answer": "Cả ba đáp án đều đúng."
+    "question": "Theo Quy trình An toàn, quy định nguyên tắc chung về an toàn là ?",
+    "answer": "Mọi công việc đều phải được đánh giá rủi ro ATVSLĐ cho chính công việc đó và đề ra biện pháp phòng ngừa rủi ro."
   },
   {
-    "question": "Nguyên tắc Ga rô cầm máu ?",
-    "answer": "Tất cả các đáp án còn lại"
+    "question": "Theo Quy trình An, những công việc thực hiện theo PCT/LCT được quy định như thế nào?",
+    "answer": "Mọi công việc có rủi ro về tai nạn đều phải thực hiện theo PCT/LCT trừ công việc thường xuyên, hàng ngày ở nơi cố định như vận chuyển, bốc dỡ, gia công cơ khí."
   },
   {
-    "question": "Quy trình cấp cứu hồi sinh tổng hợp khi ép tim thì biên độ (độ ấn sâu ) là bao nhiêu đối với người bình thường?",
-    "answer": "5 ÷ 6 cm"
+    "question": "Theo Quy trình An toàn, việc huấn luyện người mới tuyển dụng như thế nào?",
+    "answer": "Phải được huấn luyện, kèm cặp để có trình độ kỹ thuật và an toàn theo yêu cầu của công việc, sau đó phải được kiểm tra bằng cả hai hình thức lý thuyết và thực hành đạt yêu cầu mới được giao nhiệm vụ."
   },
   {
-    "question": "Khi một công nhân bị tai nạn lao động cẳng chân T bị biến dạng nghi ngờ gãy xương, người cấp cứu viên cần:",
-    "answer": "Không nắn kéo đầu chi gãy, để nguyên hiện trạng xương, dùng nẹp cứng cố định xương gãy sau đó chuyển nạn nhân đến cơ sở Ytế gần nhất"
+    "question": "Theo Quy trình An toàn, quy định treo biển báo, tín hiệu tại các van cách ly, tủ điều khiển tại chỗ như thế nào?",
+    "answer": "Phải treo biển “Cấm thao tác! Có người đang làm việc” tại vị trí thao tác."
+  },
+  {
+    "question": "Theo Quy trình An toàn, phần thiết bị tiến hành công việc phải được cách ly khỏi hệ thống để đảm bảo an toàn khi làm việc như thế nào?",
+    "answer": "Phải được cách ly khỏi hệ thống từ mọi phía từ nguồn chính và những nguồn khác bằng cách đóng các van cách ly, mở các van xả đọng, xả khí; cắt nguồn lực, nguồn điều khiển các van."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định cấm trong việc cách ly thiết bị để sửa chữa như thế nào?",
+    "answer": "Cấm cách ly thiết bị để sửa chữa chỉ bằng cách ly các van điện, van khí mà không cắt nguồn lực, nguồn điều khiển đóng/mở van."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định việc treo biển “Cấm thao tác! Có người đang làm việc” như thế nào?",
+    "answer": "Người thao tác phải treo biển: “Cấm thao tác! Có người đang làm việc” ở các van cách ly, tủ điều khiển tại chỗ của van. Chỉ người này hoặc người thay thế mới được tháo các biển báo này."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định cấm khi kiểm tra thiết bị đã cách ly khỏi vận hành như thế nào?",
+    "answer": "Cấm căn cứ đồng hồ chỉ thị để xác nhận thiết bị không còn áp lực nhưng nếu đồng hồ chỉ thị có áp lực phải xem như thiết bị vẫn còn áp lực."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định trước khi cho Đơn vị công tác tiến hành công việc, phải khẳng định nội dung gì?",
+    "answer": "Người cho phép phải đảm bảo thiết bị cần sửa chữa không còn áp lực, môi chất và nhiệt độ phải ở giá trị cho phép."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung cơ bản về nhận diện mối nguy khi làm việc với thiết bị quay là ?",
+    "answer": "Người hoặc vật bị cuốn vào bộ phận chuyển động gây tai nạn hoặc sự cố thiết bị; Bộ phận, vật liệu gây va đập hoặc văng bắn vào người."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào không đúng (không cần thiết) trong quy định công tác chuẩn bị sửa chữa các thiết bị quay?",
+    "answer": "Thiết bị đã được kiểm định đúng quy định pháp luật, còn hạn kiểm định."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào không đúng (không cần thiết) trong quy định BPAT khi làm việc với các thiết bị quay?",
+    "answer": "Nơi làm việc phải có tường cách âm, chống ồn."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào không đúng (không cần thiết) trong quy định BPAT khi kiểm tra độ rung, nhiệt độ các gối đỡ?",
+    "answer": "Thực hiện đúng theo quy trình vận hành và xử lý sự cố thiết bị điện và thiết bị quay."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi phát hiện các thiết bị quay bị cháy phải ?",
+    "answer": "Lập tức ngừng thiết bị, cắt điện. Cấm dùng cát mà phải dùng bình chữa cháy (CO2, MFZ) để dập lửa."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong quá trình chạy thử hoặc cân chỉnh các thiết bị quay, khi nhận được tín hiệu nguy hiểm, cần ?",
+    "answer": "Sử dụng các nút ấn ngừng khẩn cấp. Cơ cấu này sẽ được một người tham gia giám sát an toàn cho công tác sửa chữa ấn nút ngừng khi nhận được tín hiệu nguy hiểm của Người CHTT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung cơ bản nhận diện mối nguy khi sử dụng thiết bị cầm tay là ?",
+    "answer": "Chấn thương về cơ khí, bỏng, điện giật, khí bụi có hại cho sức khỏe."
+  },
+  {
+    "question": "Theo Quy trình An toàn, yêu cầu trong việc bảo quản, sử dụng thiết bị cầm tay như thế nào?",
+    "answer": "Phải cất giữ thiết bị cầm tay trong các tủ đồ nghề riêng và việc sử dụng chúng phải giao cho các cá nhân chuyên trách. Chu kỳ kiểm tra ít nhất 06 tháng 01 lần."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trước khi sử dụng thiết bị cầm tay cần kiểm tra để xác định những nội dung gì?",
+    "answer": "Thiết bị không bị rò điện ra vỏ; các vít kẹp chắc các chi tiết, nút, độ hoàn hảo của bộ truyền động, lớp vỏ bảo vệ, lõi dây điện không có vết gãy, sự hoàn hảo của nút ngắt điện và nối đất."
+  },
+  {
+    "question": "Theo Quy trình An toàn, tại khu vực làm việc phải kiểm tra, chuẩn bị những gì?",
+    "answer": "Không có các vật liệu dễ cháy nổ xung quanh khu vực gia công. Sử dụng bạt che chắn nguồn tia lửa phát sinh trong khi sử dụng. Đảm bảo các phương tiện sẵn sàng chữa cháy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào không đúng (không cần thiết) khi sử dụng thiết bị cầm tay?",
+    "answer": "Phải kiểm tra thiết bị cầm tay về hạn định thử nghiệm, tem dán."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong những nội dung quy định nghiêm cấm khi sử dụng thiết bị cầm tay thì nội dung nào không đúng?",
+    "answer": "Cấm đứng trên thang mà sử dụng thiết bị cầm tay trong mọi trường hợp."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi đang sử dụng thiết bị cầm tay mà bị ngừng làm việc, khi bị cắt điện đột xuất hay kết thúc công việc phải ?",
+    "answer": "Cách ly thiết bị cầm tay khỏi nguồn điện để loại bỏ hoàn toàn điện áp."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trước khi làm việc với máy gia công cơ khí phải ?",
+    "answer": "Kiểm tra tình trạng, kỹ thuật an toàn của máy như: các bộ phận che chắn bảo vệ, dây tiếp đất, các loại dao, đá cắt mài vẫn còn trong tình trạng sử dụng tốt."
+  },
+  {
+    "question": "Theo Quy trình An toàn, giải pháp an toàn khi dùng hai hoặc nhiều thiết bị nâng để cùng nâng một tải trọng là ?",
+    "answer": "Phải có sơ đồ buộc móc tải, sơ đồ di chuyển tải và chỉ rõ trình tự thực hiện các thao tác, yêu cầu về kích thước, vật liệu, công nghệ, các thiết bị phụ trợ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi vận hành thiết bị nâng, quy định cấm như thế nào?",
+    "answer": "Cấm người đứng dưới hoặc giữa tải và chướng ngại vật, bao gồm cả độ vươn của cần trục, trong bán kính quay của thiết bị nâng. Cấm nâng hạ tải trên thùng xe khi có người đang đứng trên thùng xe."
+  },
+  {
+    "question": "Theo Quy trình An toàn, thủ tục an toàn trước khi tiến hành công việc có sử dụng thiết bị nâng là gì?",
+    "answer": "Tiến hành đánh giá rủi ro các công việc nâng, hạ và lập phương án thi công, phương án đảm bảo an toàn trong quá trình làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong quá trình sử dụng xe cẩu, cầu trục, cần trục bánh lốp, nội dung nào không đúng (không phù hợp) quy định?",
+    "answer": "Không cho phép thực hiện công việc khi chưa cắt điện các đường dây, thiết bị điện xung quanh nơi làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong quá trình sử dụng xe cẩu, cầu trục, cần trục bánh lốp, quy định các nội dung cấm như thế nào?",
+    "answer": "Cấm người không phận sự đi trong hành lang an toàn thiết bị đang hoạt động; Cấm sử dụng thiết bị nâng tải để nâng người."
+  },
+  {
+    "question": "Theo Quy trình An toàn, chỉ được phép hạ tải xuống vị trí đã định với điều kiện nào?",
+    "answer": "Nơi đó đã được loại trừ được khả năng rơi, đổ hoặc trượt; Đã tháo bỏ dây treo các kết cấu, bộ phận lắp ráp khỏi móc, khi các kết cấu và bộ phận đó đã được cố định chắc chắn và ổn định."
+  },
+  {
+    "question": "Theo Quy trình An toàn, người buộc móc tải chỉ được phép đến gần tải khi nào?",
+    "answer": "Khi tải đã hạ đến độ cao không lớn hơn 01 m tính từ mặt sàn chỗ người móc tải đứng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, phải ngừng hoạt động của cầu trục, cần trục khi nào?",
+    "answer": "Khi phát hiện các vết nứt ở những chỗ quan trọng của kết cấu kim loại, biến dạng dư của kết cấu kim loại; Phanh của bất kỳ một cơ cấu nào bị hỏng; Móc, cáp, ròng rọc, tang bị mòn, bị rạn nứt."
+  },
+  {
+    "question": "Theo Quy trình An toàn, việc quản lý xe cẩu, cầu trục, cần trục như thế nào?",
+    "answer": "Phải có sổ để theo dõi bảo dưỡng định kỳ; theo dõi sửa chữa, thay thế các chi tiết, bộ phận đã bị hư hỏng, mòn quá quy định cho phép."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định tốc độ vận hành xe nâng hàng như thế nào?",
+    "answer": "Trong phạm vi công trường xe phải chạy với tốc độ ≤ 10km/h; Khi chạy trên đường thẳng trong kho ≤ 6km/h; Qua quãng đường ngoặt hoặc vòng phải chạy với tốc độ ≤ 5km/h."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong các điều cấm sau đây, điều cấm nào không đúng khi sử dụng xe nâng hàng?",
+    "answer": "Cấm vận hành xe nâng hàng khi chưa chằng buộc chắc chắn và không có người giữ thăng bằng cho hàng cần nâng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về trọng lượng của hàng nâng như thế nào?",
+    "answer": "Phải được phân bố đều trên hai càng nâng và phần nhô ra ở phía trước không được vượt quá 1/3 độ dài của càng nâng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi sử dụng xe nâng hàng có lắp thêm cần để nâng và di chuyển, phải thực hiện động tác nào?",
+    "answer": "Phải nhấc bổng hàng lên rồi mới di chuyển. Khi di chuyển phải có biện pháp chống hàng lắc lư. Cấm kéo hoặc đẩy hàng trên đống xuống."
+  },
+  {
+    "question": "Theo Quy trình An toàn, xe nâng chỉ được di chuyển khi nào?",
+    "answer": "Khung xe nghiêng hết về phía sau và cơ cấu nâng hàng đã được nâng lên cách mặt đất ít nhất bằng độ lớn của gầm xe với đường."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về quản lý xe nâng hàng như thế nào?",
+    "answer": "Mỗi xe nâng hàng phải có quy trình vận hành an toàn; sổ theo dõi quá trình bảo trì, bảo dưỡng, sửa chữa định kỳ"
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi vận hành xe nâng người, điều cấm nào đúng?",
+    "answer": "Cấm vận hành nơi có các phương tiện di động khác đang làm việc; Cấm rời khỏi sàn thao tác; Cấm sử dụng xe nâng người sai mục đích và chở người khi tiến hành di chuyển/tham gia giao thông."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về quản lý xe nâng người như thế nào?",
+    "answer": "Đơn vị sử dụng phải lập nhật ký theo dõi tình trạng của xe, nhật trình sử dụng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định những nội dung kiểm tra trước khi sử dụng pa lăng xích kéo tay thì nội dung nào không đúng (không phù hợp)?",
+    "answer": "Vị trí treo pa lăng phải rộng rãi, không gần đường giao thông và đô thị."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định kiểm tra tải trọng khi sử dụng pa lăng xích kéo tay như thế nào?",
+    "answer": "Khi nâng tải trọng lên vị trí khoảng 20cm phải dừng lại để kiểm tra an toàn mới được nâng tiếp;"
+  },
+  {
+    "question": "Theo Quy trình An toàn, điều cấm nào không đúng trong quy định khi sử dụng pa lăng xích kéo tay?",
+    "answer": "Cấm kiểm tra an toàn khi bắt đầu nâng tải trọng lên."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khi sử dụng xích kéo tay như thế nào?",
+    "answer": "Ý 1 và ý 2 đúng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung cơ bản nhận diện mối nguy khi hàn điện, hàn hơi là ?",
+    "answer": "Điện giật do rò, chạm, chập vào các bộ phận dẫn điện; Bức xạ có hại do hồ quang điện; Khí, bụi độc hại; Bỏng do hạt kim loại nóng chảy, kim loại có nhiệt độ cao; Cháy, nổ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, đối với những người được phép tiến hành công tác hàn, điều kiện nào không đúng (không cần thiết)?",
+    "answer": "Được đào tạo về chuyên môn về phóng chống thiên tai và cứu nạn cứu hộ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, yêu cầu chung về thực hiện công tác hàn về khoảng cách an toàn như thế nào?",
+    "answer": "Ý 1 và ý 2 đúng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi hành điện, hàn hơi, điều cấm nào không đúng (không phù hợp)?",
+    "answer": "Cấm hàn ở khoảng cách dưới 10m so với vị trí để các chất dễ cháy nổ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định BPAT khi hàn trong các thùng kín (trong không gian hạn chế) như thế nào?",
+    "answer": "Ý 1 và ý 2 đúng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về nối đất thiết bị hàn điện như thế nào?",
+    "answer": "Phải nối đất phần kim loại của thiết bị được hàn điện cũng như các kết cấu và sản phẩm hàn và máy hàn theo quy định trước khi thiết bị được nối vào nguồn."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định BPAT khi hàn trong các thùng kín bằng kim loại như thế nào?",
+    "answer": "Máy hàn phải để ngoài, thợ hàn phải được trang bị mũ bảo hộ lao động, giầy hoặc thảm cách điện và găng tay cao su. mặt nạ phòng độc có dây mềm dẫn không khí."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định BPAT khi hàn điện ở nơi đông người cùng làm việc và người qua lại như thế nào?",
+    "answer": "Phải có tấm chắn bằng vật liệu không cháy để ngăn và bảo vệ những người xung quanh."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định BPAT khi hàn điện ở trên cao, nội dung nào không đúng?",
+    "answer": "Không cho phép hàn điện có bố trí 2 tầng; Phải có biện pháp bảo vệ khỏi bị các giọt kim loại, các mẩu que hàn cháy dở văng hoặc rơi trúng vào người hay các vật dễ cháy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung cơ bản nhận diện mối nguy cơ bản khi làm việc trên cao như thế nào?",
+    "answer": "Ngã cao; Rơi thiết bị, dụng cụ, vật liệu xuống; Trượt đổ thang, sập giàn giáo."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định BPAT khi làm việc trên cao thì nội dung nào không đúng (không phù hợp)?",
+    "answer": "Không phải đeo dây an toàn do thời gian làm việc rất ngắn, kiểm tra các điểm xung quanh vị trí làm việc xem có điện không."
+  },
+  {
+    "question": "Theo Quy trình An toàn, điều kiện sức khỏe của người làm việc trên cao như thế nào?",
+    "answer": "Phải có chứng nhận đủ sức khỏe của Cơ quan y tế có thẩm quyền, tuân thủ Quy định sức khỏe của người lao động làm việc trên cao của Tổng công ty Điện lực miền Bắc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định người làm việc trên cao không được làm việc khi điều kiện sức khỏe như thế nào?",
+    "answer": "Ý 1 và ý 3 đúng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, không làm việc trên cao ngoài trời trong điều kiện thời tiết nào?",
+    "answer": "Giông bão có gió từ cấp 5 trở lên hay trời mưa to tạo thành dòng hoặc có giông sét; Trời nắng nóng với nhiệt độ trên 38 độ C; Trời tối không đủ ánh sáng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong các điều cấm khi làm việc trên cao thì nội dung cấm nào không đúng (không phù hợp)?",
+    "answer": "Cấm sử dụng điện thoại di động trong suốt quá trình làm việc trên cao."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về chỉ dẫn sử dụng dụng cụ khi làm viêc trên cao nội dung nào không đúng (không phù hợp)?",
+    "answer": "Đưa dụng cụ, vật liệu lên cao hoặc từ trên cao xuống bằng cách tung, ném; Mang vác, cho vào túi quần dụng cụ, vật liệu nặng lên cao cùng với người."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về kết cấu và chất lượng thang di động thì nội dung nào không đúng (không phù hợp)?",
+    "answer": "Chiều rộng chân thang ít nhất là 40 cm; Bậc thang phải được đóng bằng đinh, bậc đầu và bậc cuối phải có chốt."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khi nối thang di động như thế nào?",
+    "answer": "Phải dùng đai bằng sắt và bắt bu-lông, hoặc dùng nẹp bằng gỗ, tre cứng ốp hai đầu chỗ nối dài ít nhất 1,0 m và dùng dây thép để néo xoắn thật chặt, đảm bảo không lung lay, xộc xệch."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về kiểm tra thang di động thì nội dung nào không đúng?",
+    "answer": "Ba tháng một lần cần phải dùng một vật nặng 150kg để treo trên từng bậc thang (kiểu thử tĩnh) xem thang có chịu được không."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định các điều cấm khi làm việc với thang di động thì điều cấm nào không đúng?",
+    "answer": "Cấm sử dụng thang quá dài quá 3m; Cấm đứng làm việc ở bậc trên cùng của thang;; Thao tác vượt quá xa ngoài tầm với; Khi trèo lên, xuống nắm vào các bậc lên xuống."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về các thao tác làm việc với thang di động nội dung nào không đúng?",
+    "answer": "Dựng thang đúng quy cách theo tỷ lệ 1 – 3 (có nghĩa là chiều rộng ra so với mặt thẳng đứng của thang là 1 thì chiều cao lên của thang là 4)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định điều kiện, thủ tục sử dụng giàn giáo như thế nào?",
+    "answer": "Được thiết kế và lắp dựng theo đúng bản vẽ hướng dẫn thi công. Giàn giáo khi lắp dựng xong phải lập biên bản nghiệm thu."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong các điều cấm khi sử dụng giàn giáo, giá đỡ thì điều cấm nào không đúng?",
+    "answer": "Cấm làm việc trên giàn giáo ngoài trời trong khi gió từ cấp 4 trở lên; Cấm làm giàn giáo bên cạnh đường dây có điện,"
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về giàn giáo nhiều tầng như thế nào?",
+    "answer": "Khi giàn giáo cao hơn 6m phải làm ít nhất 2 sàn công tác, sàn làm việc bên trên, sàn bảo vệ bên dưới. Khi làm việc đồng thời trên 2 sàn thì vị trí giữa 2 sàn này phải có sàn hoặc lưới bảo vệ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, hằng ngày, nhân viên công tác trước khi làm việc trên cao phải tự kiểm tra dây đeo an toàn của mình bằng cách nào?",
+    "answer": "Đeo vào người rồi buộc dây vào vật chắc chắn ở dưới đất và chụm chân lại ngả người ra phía sau xem dây có hiện tượng bất thường gì không."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào không đúng theo quy định về kỹ thuật thử nghiệm dây đeo an toàn?",
+    "answer": "Phải được thử 03 tháng 01 lần, bằng cách treo trọng lượng hoặc thiết bị thử dây an toàn chuyên dùng. Trọng lượng thử đối với dây cũ là 250 kg, dây mới là 300 kg, thời gian thử 05 phút."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về quản lý dây đeo an toàn như thế nào?",
+    "answer": "Đơn vị công tác có trách nhiệm quản lý chặt chẽ dây đeo an toàn và chịu trách nhiệm nếu xảy ra tai nạn do dây bị đứt, gẫy móc hoặc do không thử đúng kỳ hạn."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nhận diện mối nguy cơ bản khi làm việc trong không gian hạn chế là gì?",
+    "answer": "Mối nguy do va đập; Vật rơi; Ngã cao; Sạt lở; Ngập nước; Điện giật; Thiếu ôxy; Khí, hóa chất độc hại; Cháy nổ; Khói bụi; Thiếu ánh sáng; Tiếng ồn; Bị chặn mất lối thoát."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi vào làm việc với hệ thống ắc quy phải thực hiện trang phục BHLĐ nào?",
+    "answer": "Mặc quần áo chuyên dụng, đeo kính bảo vệ mắt và găng tay cao su để bảo vệ cơ thể khỏi bị ảnh hưởng do axít hoặc kiềm."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi vào làm việc với hệ thống ắc quy phải chuẩn bị những vật liệu, hóa chất nào?",
+    "answer": "Chuẩn bị chất trung hoà phù hợp với hệ thống ắc quy. Trang bị các chai nước sạch (để phun rửa mắt) để đề phòng khi bị dung dịch điện phân bắn vào mắt."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trước khi vào làm việc với hệ thống ắc quy phải kiểm tra những nội dung gì?",
+    "answer": "Phải kiểm tra phòng ắc quy đã được thông gió để phòng ngừa bị ngộ độc hoặc cháy nổ do khí phát sinh từ hệ thống ắc quy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về ghi nhãn trên các bình chứa axít, chứa dung dịch axít, nước cất như thế nào?",
+    "answer": "Ghi rõ trên thành bình từng loại bằng sơn chống axít."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về bảo quản axít đậm đặc như thế nào?",
+    "answer": "Phải để trong các buồng riêng, ngoài axít ra chỉ được phép để dung dịch trung hoà; axít phải để trong các bình chuyên dùng bằng nhựa tổng hợp, thủy tinh hay sành sứ có nắp đậy và quai xách"
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định pha chế a xit như thế nào?",
+    "answer": "Khi pha chế axít thành dung dịch phải rót từng tia nhỏ axít theo đũa thuỷ tinh vào bình nước cất và luôn luôn khuấy để toả nhiệt tốt."
+  },
+  {
+    "question": "Theo Theo Quy trình An toàn, thì điều cấm nào sau đây không đúng khi làm việc, sử dụng và pha chế ắc quy?",
+    "answer": "Cấm rót axít vào nước cất để pha chế thành dung dịch"
+  },
+  {
+    "question": "Theo Theo Quy trình An toàn, quy định ghi số PCT như thế nào?",
+    "answer": "Ghi số thứ tự PCT theo năm / năm phát hành / viết tắt đơn vị cấp PCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trước khi hạ tải xuống khoang, hầm, phải thực hiện BPAT nào?",
+    "answer": "Phải hạ móc không tải xuống vị trí thấp nhất để kiểm tra số vòng cáp còn lại trên tang. Nếu số vòng cáp còn lại trên tang lớn hơn 1,5 vòng thì mới được phép nâng, hạ tải."
+  },
+  {
+    "question": "Trong quá trình sử dụng Thiết bị có YCNN về ATVSLĐ nếu phát hiện có bất thường thì cần phải làm gì?",
+    "answer": "Dừng sử dụng ngay lập tức, tiến hành sửa chữa, tổ chức kiểm định đột xuất,  sau khi kiểm định đạt mới được sử dụng"
+  },
+  {
+    "question": "Quy trình sử dụng bình chữa cháy xách tay bằng bột?",
+    "answer": "Lắc xóc à rút chốt à hướng loa phun vào gốc lửa à phun chất chữa cháy;"
+  },
+  {
+    "question": "Quy trình xử lý sự cố khi có cháy xảy ra được quy định trong tiêu lệnh chữa cháy là gì?",
+    "answer": "Báo động à ngắt điện à sử dụng phương tiện chữa cháy ban đầu à gọi điện thoại theo số 114;"
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định điện cao áp và hạ áp như thế nào?",
+    "answer": "Điện hạ áp là điện áp danh định tới 01 kV, điện cao áp là điện áp danh định trên 01 kV trở lên."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi có rào chắn (tức là khỏng cách từ rào chắn đến đến phần có điện) đối với điện áp từ trên 1 kV đến 15kV như thế nào?",
+    "answer": "Không nhỏ hơn 0,35 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định việc treo thẻ đánh dấu các ĐVCT trên sơ đồ vận hành tại những bộ phận nào?",
+    "answer": "Bộ phận Điều độ giữ quyền điều khiển, bộ phận trực tiếp vận hành thiết bị nơi sẽ tiến hành công việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi có rào chắn (tức là khỏng cách từ rào chắn đến đến phần có điện) đối với điện áp từ trên 15 đến 35kV như thế nào?",
+    "answer": "Không nhỏ hơn 0,6 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi có rào chắn (tức là khỏng cách từ rào chắn đến đến phần có điện) đối với điện áp từ trên 35 đến 110kV như thế nào?",
+    "answer": "Không nhỏ hơn 1,5 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi có rào chắn (tức là khỏng cách từ rào chắn đến đến phần có điện) đối với điện áp 220kV như thế nào?",
+    "answer": "Không nhỏ hơn 2,5 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì sau khi cắt điện xong, cần kiểm tra không còn điện bằng cách ?",
+    "answer": "Dùng bút thử điện phù hợp với điện áp cần thử (bút này phải được kiểm tra trước tại nơi có điện) sau đó thử cả 3 pha vào và ra của thiết bị"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định nối đất tạo vùng an toàn và nối đất tại nơi làm việc như thế nào?",
+    "answer": "ĐVQLVH tổ chức thực hiện nối đất tại tất cả các đầu có nguồn điện đến để tạo vùng làm việc an toàn, ĐVCT chịu trách nhiệm thực hiện nối đất di động tại nơi làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì những điều kiện quy định cho chức danh người cho phép trong PCT là ?",
+    "answer": "Được ĐVQLVH giao nhiệm vụ giao nhận hiện trường với ĐVCT, có bậc ATĐ từ 4/5 trở lên và được công nhận chức danh người cho phép."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì những điều kiện quy định cho chức danh người GSATĐ trong PCT là ?",
+    "answer": "Được ĐVQLVH hoặc ĐVLCV cử, có bậc ATĐ từ 4/5 trở lên và được công nhận chức danh này."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì những điều kiện quy định cho chức danh người LĐCV trong PCT là ?",
+    "answer": "Phải là người của ĐVCT, có bậc ATĐ 5/5 và được công nhận chức danh người LĐCV."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì những điều kiện quy định cho chức danh người CHTT trong PCT là ?",
+    "answer": "Phải là người của ĐVCT, có bậc ATĐ 4/5 trở lên và được công nhận chức danh người CHTT. Không yêu cầu bậc ATĐ đối với công việc không có chuyên môn về điện"
+  },
+  {
+    "question": "Theo Quy trình An toàn thì LCT được cấp bởi người của đơn vị nào?",
+    "answer": "Đơn vị trực tiếp QLVH"
+  },
+  {
+    "question": "Theo Quy trình An toàn thì khi nghỉ giải lao (hoặc ăn trưa) điều nào không cần thực hiện?",
+    "answer": "Phải tháo dỡ toàn bộ các biện pháp an toàn (tiếp đất, rào chắn, TIển báo) đã thực hiện trước đấy và gửi PCT cho nhân viên vận hành."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định cấp có thẩm quyền là ?",
+    "answer": "Giám đốc, Phó giám đốc Công ty/Trung tâm, Chi nhánh/Khu vực có con dấu pháp nhân hoặc người được ủy quyền/giao nhiệm vụ (theo phân cấp quản lý vận hành hoặc phân công công việc)."
+  },
+  {
+    "question": "Theo Quy trình An toàn trong các đối tượng phải huấn luyện, xếp bậc và cấp thẻ an toàn điện thì đối tượng nào không đúng?",
+    "answer": "Trưởng, phó phòng (bộ phận) thanh tra, quản lý xây dựng, quản lý dự án có tham gia hiện trường."
+  },
+  {
+    "question": "Theo Quy trình An toàn trong các đối tượng không bắt buộc phải cấp thẻ an toàn điện nhưng phải được bồi huấn QTATĐ, gồm ?",
+    "answer": "CBCNV quản lý kỹ thuật không liên quan, không sản xuất trực tiếp đến an toàn điện trong sản xuất, vận hành, sửa chữa, thí nghiệm. CBCNV làm công tác hỗ trợ việc thi công, giám sát, khảo sát công trình điện lực."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì thời gian huấn luyện và kiểm tra QTAT cho các đối tượng phải huấn luyện, xếp bậc và cấp thẻ an toàn điện theo quy định của pháp luật như thế nào?",
+    "answer": "Phải được huấn luyện, kiểm tra QTAT hai năm/01 lần."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về phương tiện bảo vệ cá nhân đối với các tổ chức, cá nhân khi đến làm việc ở công trình và thiết bị thuộc quyền quản lý của EVNNPC như thế nào?",
+    "answer": "Phải được trang bị đầy đủ phương tiện bảo vệ cá nhân theo đúng quy định của pháp luật về ATVSLĐ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, mẫu PCT tại mục “1.7. Điều kiện an toàn điện để tiến hành công việc” cách ghi thế nào?",
+    "answer": "Ghi theo “Biên bản khảo sát hiện trường” hoặc ghi yêu cầu để đảm bảo an toàn điện cho ĐVCT làm việc: Cắt hết điện khu vực nào? Đóng, đặt tiếp đất ở đâu? Hoặc ghi không cắt điện."
+  },
+  {
+    "question": "Theo Quy trình An toàn, mẫu PCT tại mục ghi “Cảnh báo, chỉ dẫn cần thiết:” ghi những nội dung gì?",
+    "answer": "Ghi những cảnh báo cho ĐVCT biết tại vị trí làm việc còn có những nguy cơ mất an toàn khác (như các ngăn lộ, má CD, MC…đường dây khác đang mang điện; các cảnh báo giao thông, khu đông người, các vị trí nguy hiểm cơ học khác…)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, việc cấp PCT khi làm việc được triển khai từ lúc viết phiếu như thế nào?",
+    "answer": "PCT được lập thành 02 bản, do Người cấp phiếu trực tiếp ký và giao cho Người cho phép và Người CHTT mỗi người 1 bản mang đến hiện trường để làm thủ tục cho phép làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì thủ tục nhận và bắt đầu triển khai PCT từ Người cấp phiếu là ?",
+    "answer": "Người cho phép nhận PCT từ Người cấp phiếu, kiểm tra và thực hiện (nếu được giao) các BPAT và làm thủ tục cho phép ĐVCT vào làm việc tại hiện trường."
+  },
+  {
+    "question": "Theo Quy trình An toàn, việc tiếp nhận lại PCT và nơi làm việc (sau khi hoàn thành công việc) được thực hiện như thế nào?",
+    "answer": "Người CHTT bàn giao nơi làm việc cho Người cho phép sau khi ĐVCT làm xong công việc; người, dụng cụ, các BPAT đã rút hết."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì trách nhiệm phối hợp của Người CHTT là ?",
+    "answer": "Phối hợp với Người cấp phiếu, NCP, Người GSATĐ để đảm bảo công tác an toàn và gìn giữ an toàn cho Nhân viên ĐVCT. Phối hợp với Người cảnh giới để đảm bảo công tác an toàn và gìn giữ an toàn cho cộng đồng."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì trách nhiệm kiểm tra của Người CHTT trong việc tiếp nhận nơi làm việc trước khi tiến hành công việc bao gồm ?",
+    "answer": "Kiểm tra, tiếp nhận biện pháp an toàn do Người cho phép bàn giao và ĐVCT thực hiện; Kiểm tra chất lượng của các DCLV, DCAT, thời hạn thử nghiệm cho phép sử dụng."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì trách nhiện của Người CHTT đối với nhân viên ĐVCT trong việc chuẩn bị trước khi tiến hành công việc bao gồm những nội dung gì?",
+    "answer": "Kiểm tra sơ bộ tình hình sức khỏe, thể trạng của Nhân viên ĐVCT. Khi xét thấy sẽ có khó khăn cho Nhân viên ĐVCT thực hiện công việc một cách bình thường thì không được để Nhân viên đó tham gia vào công việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì khoảng cách an toàn đối với lưới điện hạ áp xoay chiều là ?",
+    "answer": "Khoảng cách là 0,3 m đối với thiết bị điện không bọc cách điện hoặc điểm hở."
+  },
+  {
+    "question": "Theo Quy trình An toàn, tại hiện trường phải có mặt những chức danh nào để thực hiện thủ tục cho phép làm việc?",
+    "answer": "Người cho phép, Người LĐCV (nếu có), Người CHTT và Người GSATĐ (nếu có)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trường hợp nào Người CHTT được giữ lại PCT khi nghỉ hết ngày làm việc?",
+    "answer": "Làm việc trên đường dây hoặc nơi làm việc ở quá xa nơi trực vận hành và được sự thống nhất từ trước giữa đơn vị công tác với đơn vị QLVH."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định thành phần khảo sát hiện trường để tiến hành lập phương án là ?",
+    "answer": "ĐVLCV; các ĐVQLVH có liên quan và đơn vị điều độ (nếu cần)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về người của ĐVCT tham gia khảo sát hiện trường là ?",
+    "answer": "Phải là những người sẽ được cử làm Người CHTT,  Người lập Phương án TCTC & BPAT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định những công việc phải lập BPAT điện trong Phương án thi công là ?",
+    "answer": "Những công việc phải khảo sát hiện trường công tác."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định những công việc phải khảo sát hiện trường là ?",
+    "answer": "Công việc được thực hiện theo kế hoạch và hiện trường công tác có yếu tố nguy hiểm, có thể gây tai nạn cho người tham gia thực hiện công việc hoặc cho cộng đồng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về việc ĐVCT gửi Giấy đăng ký công tác đến ĐVQLVH như thế nào?",
+    "answer": "Gửi đến ĐVQLVH cấp PCT để đơn vị này lập kế hoạch đăng ký cắt điện, viết PCT, LCT và thông báo đến các ĐVQLVH liên quan."
+  },
+  {
+    "question": "Theo Quy trình An toàn đối với cấp điện áp nào cho phép làm việc sau khi cắt điện không cần thực hiện việc đặt nối đất khi đã thỏa mãn các điều kiện về cách ly, quan sát và cảm ứng?",
+    "answer": "Với điện áp từ 35 kV trở xuống."
+  },
+  {
+    "question": "Theo Quy trình An toàn cho phép làm việc sau khi cắt điện không cần thực hiện việc đặt nối đất phải thỏa mãn đồng thời các yêu cầu sau ?",
+    "answer": "Thiết bị có cấu trúc gọn, quan sát toàn bộ dễ dàng; có thể cách ly hoàn toàn khỏi hệ thống điện mà đứng tại chỗ nhìn thấy rõ, chắc chắn không có hiện tượng cảm ứng, rò điện; được sự cho phép của cấp có thẩm quyền."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về phương tiện bảo vệ cá nhân và dụng cụ an toàn khi lắp/tháo nối đất di động như thế nào?",
+    "answer": "Người lắp/tháo nối đất cao áp phải dùng sào và găng cách điện. Đặt và tháo nối đất di động tại lưới hạ áp phải đeo găng tay cách điện hạ áp."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì tổ chức lắp đặt tiếp đất di động là ?",
+    "answer": "Phải có 02 người, trong đó một người giám sát phải có bậc an toàn điện ³ 4, một người thực hiện phải có có bậc an toàn điện ³ 3."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì trình tự lắp đặt bộ tiếp đất di động là ?",
+    "answer": "Trước hết thử hết điện, sau đó đấu đầu dây tiếp đất với đất trước, sau đó phải dùng sào và găng cách điện để bắt đầu dây nối đất lên thiết bị, dây dẫn ."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về nối đất khi có nhiều ĐVCT trong cùng một phạm vi có cắt điện như thế nào?",
+    "answer": "Mỗi ĐVCT vẫn phải làm nối đất độc lập cho ĐVCT của mình."
+  },
+  {
+    "question": "Theo Quy trình An toàn, những biển nào có thể được sơn trực tiếp trên thiết bị, trên cột điện?",
+    "answer": "Các biển “Cấm trèo! Điện cao áp nguy hiểm chết người”, “Cấm vào! Điện cao áp nguy hiểm chết người”, “Cấm lại gần! Có điện nguy hiểm chết người”, “Có điện nguy hiểm”, “Chú ý! Phía trên có điện”."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì ĐVQLVH cấp PCT phải thực hiện nhiệm vụ gì sau khi đã nhận được Giấy đăng ký công tác của ĐVLCV ?",
+    "answer": "Lập kế hoạch đăng ký cắt điện, viết PCT, LCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì trong quá trình kiểm tra chất lượng sau khi kết thúc công việc (chưa trả PCT), nếu phát hiện thấy có thiếu sót phải sửa chữa lại ngay thì người CHTT phải ?",
+    "answer": "Thực hiện theo đúng quy định về “Cho phép làm việc” như đối với một công việc mới, không phải cấp Phiếu mới nhưng phải ghi thời gian bắt đầu, kết thúc việc làm thêm vào PCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về nhân viên mới như thế nào?",
+    "answer": "Phải được huấn luyện, kèm cặp sau đó phải được kiểm tra bằng bài viết và vấn đáp trực tiếp, đạt yêu cầu mới được giao nhiệm vụ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về chất liệu và quy cách của dây nối đất lưu động như thế nào?",
+    "answer": "Dây nối đất là dây đồng hoặc hợp kim mềm, nhiều sợi, tiết diện phải chịu được tác dụng lực điện động và nhiệt.."
+  },
+  {
+    "question": "Theo Quy trình An toàn, việc công nhận kết quả huấn luyện, xếp bậc và cấp thẻ an toàn điện thuộc trách nhiệm của ai?",
+    "answer": "Việc huấn luyện, xếp bậc và cấp thẻ ATĐ theo quy định của pháp luật"
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về tiết diện của dây nối đất lưu động như thế nào?",
+    "answer": "Tiết diện không được nhỏ hơn 16 mm2 đối với lưới điện cấp điện áp đến 35kV, 35 mm2 đối với lưới điện cấp điện áp lớn hơn 35kV."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về dây nối đất chống điện áp cảm ứng như thế nào?",
+    "answer": "Dây nối đất phải chịu được dòng điện do điện áp cảm ứng sinh ra, tiết diện không được nhỏ hơn 10 mm2"
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định trách nhiệm đặt rào chắn tạm thời thuộc bộ phận nào?",
+    "answer": "Rào chắn tạm thời do ĐVQLVH thiết lập."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong trường hợp rào chắn có khả năng chạm vào phần mang điện được quy định như thế nào?",
+    "answer": "Khi làm việc gần khu vực có điện áp đến 22 kV, nếu rào chắn có khả năng chạm vào phần mang điện thì phải sử dụng rào chắn bằng vật liệu cách điện phù hợp với cấp điện áp làm việc"
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi thực hiện việc đặt rào chắn mà rào chắn có khả năng chạm vào phần mang điện được quy định như thế nào?",
+    "answer": "Người đặt rào chắn phải đeo găng cách điện, đi ủng cách điện hoặc đứng trên tấm thảm cách điện và thực hiện dưới sự giám sát trực tiếp của người có bậc 5 an toàn điện."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về thời gian công tác của PCT như thế nào?",
+    "answer": "Do người cấp phiếu ghi nhưng không quá 60 ngày."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về thời gian hiệu lực của PCT như thế nào?",
+    "answer": "PCT có hiệu lực từ thời điểm Người chỉ huy trực ký tiếp nhận hiện trường nơi làm việc đến thời điểm Người chỉ huy trực tiếp ký kết thúc công tác.."
+  },
+  {
+    "question": "Theo Quy trình An toàn, đối với PCT thì những chức danh nào hằng năm phải được huấn luyện, kiểm tra đạt yêu cầu và được phân công nhiệm vụ?",
+    "answer": "Người cấp PCT, người cho phép, người GSATĐ, người LĐCV, người CHTT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, thì chức danh Người thi hành lệnh là ?",
+    "answer": "Người thi hành lệnh là người thực hiện công việc một mình."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định người cấp PCT đối với công tác có kế hoạch là ?",
+    "answer": "Giám đốc/Phó giám đốc, Trưởng/Phó đơn vị/đội/tổ, Quản đốc/Phó quản đốc phân xưởng vận hành hoặc người được giao nhiệm vụ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định người cấp PCT đối với công tác ngoài kế hoạch là ?",
+    "answer": "Giám đốc/Phó giám đốc, Trưởng/Phó đơn vị/đội/tổ, Quản đốc/Phó quản đốc phân xưởng vận hành, Kỹ thuật viên hoặc người được giao nhiệm vụ, Trưởng ca/Trưởng kíp."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định người cấp PCT đối với công tác xử lý sự cố ?",
+    "answer": "Nhân viên vận hành ca trực có chức danh Trưởng ca/Trưởng kíp hoặc người được giao nhiệm vụ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trách nhiệm của người cấp PCT tại các thời điểm viết, giao và thu lại để kiểm tra như thế nào?",
+    "answer": "PCT có thể soạn thảo trên máy tính, soạn PCT điện tử. Với PCT giấy, người cấp PCT ký cấp phiếu và giao phiếu cho người cho phép và Người CHTT, ký kiểm tra hoàn thành PCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, về nội dung BPKTAT điện thì người cho phép phải thực hiện thủ tục bàn giao (cho phép) ĐVCT vào làm việc sau khi ?",
+    "answer": "Thực hiện các BPKTAT (nếu được giao); Chứng minh hết điện; Ký 02 bản và giao 01 bản PCT cho NCHTT sau khi NCHTT đã kiểm tra lại các BPAT mà người cho phép giao theo yêu cầu."
+  },
+  {
+    "question": "Theo Quy trình An toàn nội dung nào sau đây không thuộc trách nhiệm của người CHTT trong việc kiểm tra các biện pháp an toàn phù hợp với công việc?",
+    "answer": "Kiểm tra các PCT, PTT khác có liên quan đến công việc và vị trí làm việc của  ĐVCT do mình làm CHTT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định các công việc thực hiện theo LCT bao gồm ?",
+    "answer": "A Công việc có độ rủi ro cấp 1; Làm việc ở xa nơi có điện; Làm việc ở thiết bị, đường dây điện hạ áp trong một số trường hợp; Công việc không cần phải thực hiện các BPKT chuẩn bị vị trí làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định trách nhiệm của nhân viên ĐVCT khi đến nơi làm việc như thế nào?",
+    "answer": "Sau khi nghe phổ biến nhiệm vụ công việc, phạm vi được phép làm việc, các yếu tố nguy hiểm cần phòng tránh,; Ký vào PCT hoặc LCT khi đến làm việc và rút khỏi nơi làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định trách nhiệm của nhân viên ĐVCT khi trong quá trình làm việc như thế nào?",
+    "answer": "Phải chấp hành nghiêm nhiệm vụ được phân công, tuân thủ hướng dẫn của Nguời CHTT. Phải nhận biết được các yếu tố nguy hiểm, có trách nhiệm tự bảo vệ mình."
+  },
+  {
+    "question": "Theo Quy trình An toàn, thì sau khi nhận được 01 bản PCT đã có chữ ký của người cho phép, người CHTT được phép làm những công việc gì?",
+    "answer": "Chỉ huy điều hành ĐVCT thực hiện các công việc trong phạm vi cho phép làm việc, bao gồm việc thực hiện các thủ tục, BPAT nơi làm việc thuộc trách nhiệm của ĐVCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về thủ tục an toàn khi nghỉ hết ngày làm việc và bắt đầu ngày tiếp theo như thế nào?",
+    "answer": "Sau mỗi ngày làm việc, ĐVCT phải thu dọn nơi làm việc, các BPAT phải được giữ nguyên. Người CHTT phải giao lại (ký) PCT giấy hoặc xác nhận điện tử và những việc liên quan cho người cho phép."
+  },
+  {
+    "question": "Theo Quy trình An toàn (phần A quy trình an toàn điện), việc thay đổi người (kể cả người CHTT) hoặc số lượng nhân viên ĐVCT được quy định như thế nào?",
+    "answer": "Do những người có trách nhiệm của ĐVCT quyết định và đồng thời phải được người CHTT, người cho phép đồng ý."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm xong công việc, điều nào không đúng khi người CHTT thực hiện những công việc sau?",
+    "answer": "Trong trường hợp đã tháo nối đất nhưng chưa ký khóa PCT mà còn có công việc dang dở, cho phép tiếp tục hoàn thiện công việc đó."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định trách nhiệm của ĐVQLVH về việc cắt điện để làm việc như thế nào?",
+    "answer": "Chủ động phối hợp với đơn vị điều độ cắt điện theo đúng kế hoạch, đảm bảo thời gian làm việc; Cử nhân viên vận hành thực hiện các BPKT chuẩn bị nơi làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định trách nhiệm của ĐVQLVH trong trường hợp ĐVQLVH là ĐVCT thì thực hiện như thế nào?",
+    "answer": "Lập phương án cụ thể, chi tiết khi triển khai kế hoạch công việc; Phân định rõ trách nhiệm thực hiện của từng chức danh trong PCT và các bộ phận trong đơn vị."
+  },
+  {
+    "question": "Theo Quy trình An toàn, điều nào không đúng trong quy định khi vận hành xe chuyên dùng ?",
+    "answer": "Những người đã được đào tạo kỹ năng đầy đủ và được huấn luyện về QTATĐ về nội dung được phép làm việc mới được vận hành xe chuyên dùng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi di chuyển, vận hành xe chuyên dùng trong khu vực trạm phải đảm bảo khoảng cách an toàn như thế nào ?",
+    "answer": "Khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm không nhỏ hơn khoảng cách an toàn điện không rào chắn."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về nối đất xe chuyên dùng trong trường hợp nào?",
+    "answer": "Khi làm việc có cắt điện một phần hoặc ở gần nơi có điện, bệ xe cần cẩu, xe thang và xe nâng di động phải được nối đất."
+  },
+  {
+    "question": "Theo Quy trình An toàn, điều nào không đúng trong quy định về xử lý sự cố xe chuyên dùng?",
+    "answer": "Khi có hiện tượng phóng điện vào xe, nhanh chóng nhảy xuống xe và chạy nhanh ra xa xe."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì ĐVQLVH là đơn vị nào?",
+    "answer": "Là đơn vị trực tiếp thực hiện công việc quản lý, vận hành công trình điện lực (các Đội quản lý điện lực khu vực, các Xí nghiệp lưới điện cao thế)"
+  },
+  {
+    "question": "Theo Quy trình An toàn thì ĐVCT là đơn vị nào?",
+    "answer": "Là đơn vị thực hiện công việc sửa chữa, thí nghiệm, xây lắp,... Mỗi đơn vị công tác phải có ít nhất 02 người, trong đó phải có 01 người chỉ huy trực tiếp chịu trách nhiệm chung"
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi nhận những mệnh lệnh không đúng Quy trình an toàn, có nguy cơ mất an toàn cho người hoặc thiết bị thì người nhận lệnh xử lý như thế nào?",
+    "answer": "Có quyền không chấp hành, nếu người ra lệnh không chấp thuận thì người nhận lệnh được quyền báo cáo với cấp trên trực tiếp của người ra lệnh và/hoặc Cấp có thẩm quyền."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trường hợp công tác có liên quan đến sự cố, tai nạn thì việc lưu các PCT, LCT được quy định như thế nào?",
+    "answer": "PCT có liên quan, các tài liệu khác nếu có theo quy định (PTT, đánh giá rủi ro, BBKSHT, PA TCTC và BPAT) phải được lưu trong hồ sơ điều tra sự cố, TNLĐ của đơn vị."
+  },
+  {
+    "question": "Theo Quy trình An toàn, cắt điện để làm công việc trong những trường hợp nào?",
+    "answer": "Những phần có điện mà tại đó sẽ tiến hành công việc; khi làm việc không thể tránh được va chạm hoặc vi phạm khoảng cách đến phần mang điện."
+  },
+  {
+    "question": "Theo Quy trình An toàn, thì điều kiện để trở thành nhân viên ĐVCT là ?",
+    "answer": "Nhân viên đơn vị công tác phải được huấn luyện về an toàn phù hợp với công việc được giao."
+  },
+  {
+    "question": "Theo Quy trình An toàn, điều nào không đúng (không thuộc trách nhiệm) của nhân viên đơn vị công tác khi đến nơi làm việc như thế nào?",
+    "answer": "Kiểm tra trang thiết bị, dụng cụ an toàn của ĐVCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “CẤM TRÈO! ĐIỆN ÁP CAO NGUY HIỂM CHẾT NGƯỜI” đặt ở đâu?",
+    "answer": "Trên tất cả các cột của đường dây dẫn điện cao áp ở độ cao từ 2,0 m đến 2,5 m so với mặt đất về phía dễ nhìn thấy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển báo \"CÁP ĐIỆN LỰC\" đặt như thế nào?",
+    "answer": "Trên mặt đất hoặc trên cột mốc, ở vị trí tim rãnh cáp, dễ nhìn thấy và xác định được đường cáp ở mọi vị trí; tại các vị trí chuyển hướng, khoảng cách giữa 2 biển báo liền kề không quá 30 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “CẤM VÀO! ĐIỆN ÁP CAO NGUY HIỂM CHẾT NGƯỜI” đặt ở đâu?",
+    "answer": "Trên cửa hoặc cổng ra vào trạm điện có tường rào bao quanh"
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “CẤM LẠI GẦN! CÓ ĐIỆN NGUY HIỂM CHẾT NGƯỜI” được đặt như thế nào?",
+    "answer": "Trên vỏ trạm biến áp hợp bộ kiểu kín, trạm đóng cắt hợp bộ ngoài trời, tủ phân dây (Tủ Pillar) về phía dễ nhìn thấy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “CẤM ĐÓNG ĐIỆN! CÓ NGƯỜI ĐANG LÀM VIỆC” được đặt như thế nào?.",
+    "answer": "Trên bộ phận điều khiển, truyền động thiết bị đóng cắt đã cắt điện cho đơn vị công tác làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “DỪNG LẠI! CÓ ĐIỆN NGUY HIỂM CHẾT NGƯỜI” được đặt như thế nào?",
+    "answer": "Đặt trên rào chắn về phía dễ nhìn thấy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “LÀM VIỆC TẠI ĐÂY” được đặt như thế nào ?",
+    "answer": "Đặt tại nơi làm việc đã được khoanh vùng; tại khu vực làm việc của ĐVCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “VÀO HƯỚNG NÀY” được đặt như thế nào?",
+    "answer": "Đặt tại đầu lối vào khu vực làm việc của ĐVCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “ĐÃ NỐI ĐẤT” được đặt như thế nào?",
+    "answer": "Đặt tại khu vực đã đóng DNĐ hoặc đã đặt nối đất lưu động."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “CHÚ Ý! PHÍA TRÊN CÓ ĐIỆN” treo ở vị trí nào?",
+    "answer": "Treo ở vị trí dễ quan sát tại khu vực làm việc mà ở phía trên có điện."
+  },
+  {
+    "question": "Theo Quy trình An toàn, cho phép thay đổi kích thước các biển cho phù hợp với thực tế để treo tại đâu?",
+    "answer": "Tại các vị trí trên tủ điều khiển, ở các thiết bị hạ áp, aptomat hạ áp tại các tủ bảng điện."
+  },
+  {
+    "question": "Theo Quy trình An toàn, thì khoảng cách cho phép nhỏ nhất đến phần có điện cao áp xoay chiều được quy định như thế nào?",
+    "answer": "Từ trên 1-35kV là 0,6 mét; Từ trên 35kV-110kV là 1,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn thì khoảng cách an toàn phóng điện theo cấp điện áp đối với thiết bị, dụng cụ, phương tiện (trừ xe chuyên dùng cho công tác sửa chữa điện) là ?",
+    "answer": "Từ trên 1-35kV là 2,0 mét; Từ trên 35kV-110kV là 3,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong những quy định điều kiện khi làm việc có điện thì nội dung nào không đúng (không phù hợp)?",
+    "answer": "Phải có xe Hotline chuyên dùng và các dụng cụ sửa chữa có chất lượng tốt, còn hạn kiểm định"
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong các BPAT khi làm việc có điện thì nội dung nào không đúng (không phù hợp)?",
+    "answer": "Phải có xe Hotline chuyên dùng và các dụng cụ sửa chữa có chất lượng tốt,  còn hạn kiểm định"
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi không có rào chắn đối với điện áp 220kV như thế nào?",
+    "answer": "Không nhỏ hơn 2,5 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi không có rào chắn đối với điện áp từ trên 35  đến 110kV như thế nào?",
+    "answer": "Không nhỏ hơn 1,5 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi không có rào chắn đối với điện áp từ trên 15 đến 35kV như thế nào?",
+    "answer": "Không nhỏ hơn 1,0 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định khoảng cách an toàn điện khi không có rào chắn đối với điện áp từ trên 1 đến 15kV như thế nào?",
+    "answer": "Không nhỏ hơn 0,7 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn, thì phạm vi điều chỉnh của Quy trình này là ?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Theo Quy trình An toàn, những công việc hỗn hợp cả liên quan tới ATĐ và AT thủy, cơ, nhiệt, hóa thì quy định dùng PCT/LCT như thế nào?",
+    "answer": "Dùng mẫu PCT/LCT theo quy trình ATĐ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định thời hạn huấn luyện nội dung thủy cơ, nhiệt, hóa này như thế nào?",
+    "answer": "Người tham gia thực hiện công tác thủy, cơ, nhiệt, hóa phải được huấn luyện, kiểm tra Quy trình này ít nhất hai năm 01 lần."
+  },
+  {
+    "question": "Theo Quy trình An toàn, đối với nguyên tắc chung quy định lập phiên làm việc trên phần mềm quản lý an toàn (ECP) như thế nào ?",
+    "answer": "Các công việc phải cấp PCT hoặc LCT để thực hiện thì phải lập Phiên làm việc trên ECP để quản lý"
+  },
+  {
+    "question": "Theo Quy trình An toàn, đối với công việc có kế hoạch quy định lập phiên làm việc trên phần mềm quản lý an toàn (ECP) như thế nào ?",
+    "answer": "Phải lập phiên làm việc trước khi thực hiện công việc"
+  },
+  {
+    "question": "Theo Quy trình An toàn, đối với công việc có bổ sung quy định lập phiên làm việc trên phần mềm quản lý an toàn (ECP) như thế nào ?",
+    "answer": "Phải lập phiên làm việc trước khi thực hiện công việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi công tác trên đường giao thông, phải thực hiện những biện pháp nào?",
+    "answer": "Đặt tín hiệu cảnh báo và bố trí người hướng dẫn nhằm tránh nguy hiểm cho người tham gia giao thông. Khi hạn chế đi lại của người tham gia giao thông phải thực hiện căng dây, lắp đặt rào chắn tạm thời và có biển chỉ dẫn cụ thể."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định cấm thực hiện công việc trên thiết bị khi nào?",
+    "answer": "Khi thiết bị này chưa được cách ly khỏi dây chuyền sản xuất. Trường hợp công việc thực hiện trên thiết bị đang vận hành phải có quy trình riêng và phải thực hiện theo PCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong trường hợp đã cách ly hoàn toàn thiết bị cần sửa chữa mà vẫn không đảm bảo an toàn như rò rỉ môi chất có nhiệt độ cao, áp suất cao hoặc độc hại, để tiến hành công việc thì xử lý như thế nào?",
+    "answer": "Bắt buộc phải dừng hệ thống, khắc phục các nguy cơ mất an toàn mới được phép tiến hành sửa chữa."
+  },
+  {
+    "question": "Khi làm việc tại một công trình điện lực có nhiều Đơn vị công tác khác nhau thì việc thực hiện biện pháp kỹ thuật an toàn tại nơi làm việc của các đơn vị công tác được thực hiện như thế nào?",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+  },
+  {
+    "question": "Yêu cầu đối với người “Có kỹ năng phối hợp với các đơn vị khác, lãnh đạo công việc, tổ chức tiến hành các biện pháp an toàn và kiểm tra theo dõi thực hiện công việc” phải có bậc an toàn điện bao nhiêu?",
+    "answer": "5/5"
+  },
+  {
+    "question": "Các chức danh nào sau đây yêu cầu có bậc an toàn điện bắt buộc là 5/5?",
+    "answer": "Người Lãnh đạo công việc."
+  },
+  {
+    "question": "Thực hiện biện pháp kỹ thuật an toàn khi nhiều Đơn vị công tác cùng làm việc trên một công trình điện lực?",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+  },
+  {
+    "question": "Trường hợp thiết bị hoặc nơi làm việc do từ 02 đơn vị quản lý vận hành trở lên thì Phiếu công tác được cấp theo nguyên tắc nào?",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+  },
+  {
+    "question": "Khi nhiều Đơn vị công tác cùng làm việc trên một công trình điện lực thực hiện các biện pháp an toàn?",
+    "answer": "Khi làm việc tại một công trình điện lực có nhiều Đơn vị công tác khác nhau thì mỗi Đơn vị công tác phải thực hiện biện pháp kỹ thuật an toàn riêng biệt. Giữa các Đơn vị công tác phải có dấu hiệu nhận biết để phân biệt người của từng đơn vị theo phạm vi làm việc."
+  },
+  {
+    "question": "Các mối nguy khi làm việc với thiết bị nâng?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Sự khác nhau cơ bản giữa phiếu công tác và lệnh công tác khi thực hiện là?",
+    "answer": "Phiếu công tác cấp cho các công việc yêu cầu phải thực hiện các biện pháp kỹ thuật chuẩn bị vị trí làm việc, lệnh công tác thì không cần."
+  },
+  {
+    "question": "Dùng ampe kìm để đo dòng điện ở thiết bị điện cao áp trong trường hợp nào sau đây là đúng?",
+    "answer": "Chỉ được dùng ampe kìm để đo dòng điện ở thiết bị điện cao áp từ 35 kV trở xuống. Phần cách điện khi sử dụng ampe kìm đo ở thiết bị điện cao áp phải trong thời hạn thử nghiệm. Không sử dụng ampe kìm đo nếu phần cách điện ở phía miệng kìm bị nứt, vỡ."
+  },
+  {
+    "question": "Nghiêm cấm làm việc trên cao trong trường hợp nào sau đây?",
+    "answer": "Ý 3 - Người đang ốm đau hoặc đã sử dụng các chất kích thích, đồ uống có cồn."
+  },
+  {
+    "question": "Khi làm việc trên cao, được phép thực hiện những việc gì sau đây?",
+    "answer": "Mang theo người những dụng cụ nhẹ như kìm, tuốc-nơ-vít, cờ-lê, mỏ-lết, búa con... nhưng phải đựng trong túi đựng đồ chuyên dùng."
+  },
+  {
+    "question": "Trong điều kiện bình thường, giá trị điện áp (U) xoay chiều tối thiểu là bao nhiêu thì gây nguy hiểm đến tính mạng khi con người tiếp xúc trực tiếp?",
+    "answer": "> 42 V"
+  },
+  {
+    "question": "Cắt điện và thực hiện các biện pháp ngăn chặn có điện trở lại nơi làm việc phải thực hiện những nội dung nào sau đây?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Trước khi bắt đầu công việc, một nhân viên trong đội công tác có biểu hiện bất thường về tâm lý, sức khoẻ không đảm bảo, Người chỉ huy trực tiếp xử lý như thế nào?",
+    "answer": "Xem xét tình trạng tâm lý, sức khoẻ của nhân viên để phân công công việc phù hợp. Nếu xét thấy nhân viên đó sẽ khó khăn khi thực hiện công việc thì không để nhân viên đó tham gia công việc."
+  },
+  {
+    "question": "Theo quy trình an toàn, quy định thiết lập vùng làm việc an toàn như thế nào ?",
+    "answer": "Vùng làm việc của Đơn vị công tác phải được thiết lập, cảnh báo trực quan bằng rào chắn tạm thời hoặc biện pháp phù hợp (dây/băng cảnh báo) và treo biển “Làm việc tại đây”"
+  },
+  {
+    "question": "Đối với cấp điện áp 22 kV, cách nhận biết cấp điện áp theo đánh số thiết bị trong sơ đồ (Chữ số đầu tiên trong đánh số thiết bị trừ máy biến áp, máy phát, máy bù đồng bộ)?",
+    "answer": "4"
+  },
+  {
+    "question": "Đối với cấp điện áp đến 110 kV, cách nhận biết cấp điện áp theo đánh số thiết bị trong sơ đồ (Chữ số đầu tiên trong đánh số thiết bị trừ máy biến áp, máy phát, máy bù đồng bộ)?",
+    "answer": "1"
+  },
+  {
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 22 kV là?",
+    "answer": "1 m."
+  },
+  {
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 110 kV là?",
+    "answer": "1,5 m."
+  },
+  {
+    "question": "Khi không có rào chắn tạm thời, khoảng cách an toàn điện đối với điện áp xoay chiều tối thiểu đến phần mang điện đối với cấp điện áp 35 kV là?",
+    "answer": "1 m."
+  },
+  {
+    "question": "(Thời hạn) Chu kỳ thí nghiệm định kỳ sào thao tác cách điện cao áp là bao nhiêu?",
+    "answer": "12 tháng."
+  },
+  {
+    "question": "(Thời hạn) Chu kỳ thí nghiệm định kỳ găng tay cách điện cao áp là bao nhiêu?",
+    "answer": "6 tháng."
+  },
+  {
+    "question": "(Thời hạn) Chu kỳ thí nghiệm định kỳ găng tay cách điện hạ áp là bao nhiêu?",
+    "answer": "6 tháng."
+  },
+  {
+    "question": "(Thời hạn) Chu kỳ thí nghiệm định kỳ ủng cách điện cao áp là bao nhiêu?",
+    "answer": "6 tháng."
+  },
+  {
+    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 6 kV là?",
+    "answer": "0,35 m."
+  },
+  {
+    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 22 kV là?",
+    "answer": "0,6 m."
+  },
+  {
+    "question": "Khi có rào chắn tạm thời, Khoảng cách an toàn nhỏ nhất từ rào chắn đến phần mang điện đối với cấp điện áp 35 kV là?",
+    "answer": "0,6 m."
+  },
+  {
+    "question": "Công tác phòng ngừa sự cố điện giật.",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân đã tắt thở, tim ngừng đập)?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Các biện pháp cần áp dụng ngay để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân mất tri giác)?",
+    "answer": "Đưa nạn nhân ra chỗ thoáng khí, nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm; đặt nạn nhân nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc."
+  },
+  {
+    "question": "Các biện pháp cần áp dụng để cứu chữa nạn nhân sau khi tách người bị điện giật ra khỏi mạch điện (nạn nhân chưa mất tri giác)?",
+    "answer": "Ý 3 - Đưa nạn nhân ra chỗ thoáng khí, yên tĩnh chăm sóc cho hồi tỉnh, sau đó mời y bác sỹ hoặc nhẹ nhàng đưa nạn nhân đến cơ sở y tế gần nhất để theo dõi chăm sóc."
+  },
+  {
+    "question": "Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Tách người bị điện giật ra khỏi mạch điện hạ áp, nếu không cắt được mạch điện, người cứu phải thực hiện?",
+    "answer": "Ý 1 - Có thể dùng kìm cách điện, búa, rìu cán bằng gỗ để cắt, chặt đứt dây điện đang gây ra tai nạn…"
+  },
+  {
+    "question": "Phương pháp cứu chữa có hiệu quả phổ biến nhất hiện nay ngay sau khi nạn nhân được tách khỏi mạch điện, đó là?",
+    "answer": "Phương pháp hồi sinh tổng hợp."
+  },
+  {
+    "question": "Cứu chữa nạn nhân như thế nào khi tách nạn nhân khỏi mạch điện mà nạn nhân đã tắt thở (tim ngừng đập, toàn thân co giật giống như chết)?",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+  },
+  {
+    "question": "Cứu chữa nạn nhân như thế nào khi tách nạn nhân khỏi mạch điện mà nạn nhân đã mất tri giác (vẫn còn thở nhẹ, tim đập yếu)?",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng."
+  },
+  {
+    "question": "Cứu chữa nạn nhân như thế nào sau khi đã tách ra khỏi mạch điện mà nạn nhân chưa mất tri giác (chỉ bị hôn mê trong giây lát, tim còn đập, thở yếu)?",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng."
+  },
+  {
+    "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện cao áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
+    "answer": "Ý 1 - Mang ủng, găng tay cách điện và dùng sào cách điện để gạt hoặc đẩy nạn nhân ra khỏi mạch điện."
+  },
+  {
+    "question": "Khi cứu nạn nhân bị điện giật đang chạm vào mạch điện hạ áp thì người cứu nạn nhân phải thực hiện nội dung nào?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Các bước cơ bản để cứu người bị tai nạn điện, bao gồm?",
+    "answer": "Cả Ý 1 và Ý 3 đều đúng."
+  },
+  {
+    "question": "Yêu cầu kiến thức an toàn đối với nhân viên đơn vị công tác có bậc an toàn điện 1/5?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Nhân viên đơn vị công tác có bậc an toàn điện 1/5 được làm những công việc nào sau đây?",
+    "answer": "Được làm các công việc không tiếp xúc với thiết bị hoặc dây dẫn mang điện."
+  },
+  {
+    "question": "Yêu cầu kiến thức an toàn đối với nhân viên công tác có bậc an toàn điện 2/5?",
+    "answer": "Hiểu rõ phương pháp tách nạn nhân ra khỏi nguồn điện, có kiến thức về sơ cứu người bị điện giật."
+  },
+  {
+    "question": "Nhân viên đơn vị công tác có bậc an toàn điện 2/5 được làm những công việc nào sau đây?",
+    "answer": "Làm việc tại nơi đã được cắt điện hoàn toàn."
+  },
+  {
+    "question": "Đơn vị công tác thực hiện như thế nào để đúng quy định trong quá trình công tác?",
+    "answer": "Chỉ được làm việc trong phạm vi cho phép. Không được tự ý mở rộng phạm vi làm việc, vào các vùng cấm vào hoặc các vùng có nguy cơ xảy ra tai nạn đã được cảnh báo trước đó."
+  },
+  {
+    "question": "Nhân viên đơn vị công tác có bậc an toàn điện 2/5 cần có những kiến thức an toàn nào sau đây?",
+    "answer": "Hiểu rõ những quy định chung và biện pháp bảo đảm bảo an toàn khi thực hiện công việc được giao."
+  },
+  {
+    "question": "Nhân viên đơn vị công tác có bậc an toàn điện 3/5 cần có những kiến thức an toàn nào sau đây?",
+    "answer": "Có khả năng phát hiện vi phạm, hành vi không an toàn."
+  },
+  {
+    "question": "Trong khi thực hiện nhiệm vụ, nhân viên đơn vị công tác cần tuân thủ những quy định nào sau đây?",
+    "answer": "Nhân viên đơn vị công tác phải chấp hành nghiêm nhiệm vụ được phân công, tuân thủ hướng dẫn của Nguời chỉ huy trực tiếp và không làm những việc mà Người chỉ huy trực tiếp không giao."
+  },
+  {
+    "question": "Tại hiện trường sản xuất không đảm bảo an toàn, nguy cơ xảy ra sự cố, tai nạn lao động nhưng người chỉ huy trực tiếp bắt buộc nhân viên làm việc, trong tình huống này nhân viên công tác phải làm gì để đúng quy định và đảm bảo an toàn?",
+    "answer": "Ngừng ngay công việc và báo cáo Người chỉ huy trực tiếp, nếu không được chấp thuận thì báo cáo lên Cấp có thẩm quyền để giải quyết."
+  },
+  {
+    "question": "Nhân viên đơn vị công tác có bậc 3/5 an toàn điện được thực hiện những công việc nào sau đây?",
+    "answer": "Cả Ý 2 và Ý 3 đều đúng."
+  },
+  {
+    "question": "Trách nhiệm của Người thi hành lệnh khi thực hiện xong công việc theo Lệnh công tác?",
+    "answer": "Khi thực hiện xong công việc, Người thi hành lệnh phải ghi kết quả, thời gian hoàn thành vào Lệnh công tác hoặc sổ của mình; báo cáo với người ra lệnh để biết và ghi vào sổ Lệnh công tác theo quy định."
+  },
+  {
+    "question": "Yêu cầu về kiến thức an toàn đối với Nhân viên đơn vị công tác có bậc an toàn điện 4/5?",
+    "answer": "Đáp ứng cả hai yêu cầu 1 và 2."
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, việc đánh giá rủi ro là gì?",
+    "answer": "Quá trình tìm hiểu, xác định những rủi ro có thể xảy ra liên quan tới công việc chuẩn bị thực hiện và đưa ra biện pháp phòng ngừa hợp lý."
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, những công việc thực hiện theo phiếu công tác chưa được đánh giá rủi ro bao gồm ?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, đối với công việc đột xuất thì quy định lập phiên làm việc trên phần mềm quản lý an toàn (ECP) như thế nào ?",
+    "answer": "Trong trường hợp khẩn cấp, điều kiện ở xa trụ sở, mạng viễn thông tại khu vực làm việc chưa đáp ứng, cần phải xử lý công việc nhanh,…cho phép lập phiên làm việc trên ECP sau khi triển khai công việc tại hiện trường"
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, yêu cầu đối với PCT điện tử nào dưới đây đúng ?",
+    "answer": "Không xóa được sau khi đã có chữ ký điện tử của Người cấp phiếu trong thời hạn"
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, những công việc thực hiện theo lệnh công tác chưa được đánh giá rủi ro bao gồm ?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, yêu cầu đối với phiếu công tác điện tử như thế nào ?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định đúng và được áp dụng để thực hiện nối đất tạo vùng an toàn khi làm việc?",
+    "answer": "Nội dung (1) và (2)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định nào dưới đây cho phép làm việc sau khi cắt điện mà không cần thực hiện việc đặt nối đất di động?",
+    "answer": "Áp dụng với điện áp từ 35 kV trở xuống, những thiết bị cắt điện để công tác thỏa mãn đồng thời các yêu cầu tại đáp án (1) và (2)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định nào dưới đây không đúng (chưa đúng) khi đã cắt điện, cho phép làm việc mà không cần thực hiện việc đặt nối đất di động?",
+    "answer": "Áp dụng với điện áp từ 110 kV trở xuống, những thiết bị cắt điện để công tác thỏa mãn đồng thời các yêu cầu tại đáp án (1) và (2)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, những công việc nào dưới đây cho phép làm việc sau khi cắt điện mà không cần thực hiện việc đặt nối đất di động?",
+    "answer": "Những công việc như đo, kiểm tra điện trở nối đất, đo các thông số của thiết bị điện, ĐD mà bắt buộc không được nối đất; củng cố lại nối đất của thiết bị điện, ĐD hoặc của hệ thống nối đất toàn trạm."
+  },
+  {
+    "question": "Theo Quy trình An toàn, thanh cái, thiết bị điện tại nhà máy, trạm điện cho phép không cần nối đất di động nếu đủ điều kiện nào dưới đây?",
+    "answer": "Thỏa mãn điều kiện (1) và (2)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định về thực hiện biện pháp kỹ thuật an toàn khi có nhiều Đơn vị công tác cùng làm việc trên một công trình điện lực?",
+    "answer": "Khi làm việc tại một công trình điện lực có nhiều Đơn vị công tác khác nhau thì mỗi Đơn vị công tác phải thực hiện biện pháp kỹ thuật an toàn riêng biệt."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào dưới đây là quy định về thực hiện biện pháp kỹ thuật an toàn khi có nhiều Đơn vị công tác cùng làm việc trên một công trình điện lực?",
+    "answer": "Giữa các Đơn vị công tác phải có dấu hiệu nhận biết để phân biệt người của từng đơn vị theo phạm vi làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm công việc theo Lệnh công tác giấy, quy định nào sau đây đúng ?",
+    "answer": "Tại hiện trường, sau khi kiểm tra đủ, đúng các biện pháp an toàn theo LCT, Người chỉ huy trực tiếp và các Nhân viên đơn vị công tác phải ký vào phần B. Khi kết thúc công tác, Người chỉ huy trực tiếp chuyển lại đến Người ra lệnh phần B."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm công việc theo Lệnh công tác, quy định nào sau đây đúng ?",
+    "answer": "Công việc có mức độ rủi ro cấp 1 theo quy định."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm công việc theo Lệnh công tác, quy định nào sau đây đúng ?",
+    "answer": "LCT có hiệu lực từ thời điểm Người chỉ huy trực tiếp nhận và thống nhất nội dung lệnh công tác với Người ra lệnh đến thời điểm Người chỉ huy trực tiếp ký kết thúc công tác."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm công việc theo Lệnh công tác, quy định nào sau đây đúng ?",
+    "answer": "Trong khi tiến hành công việc, không được phép thay đổi nội dung hoặc mở rộng phạm vi làm việc. Nếu mở rộng phạm vi làm việc hoặc thay đổi nội dung thì phải cấp LCT mới."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm công việc theo Lệnh công tác, quy định nào sau đây không đúng (không thực hiện)?",
+    "answer": "Trong khi tiến hành công việc, cho phép thay đổi nội dung hoặc mở rộng phạm vi làm việc phù hợp với nội dung lệnh tiếp diễn theo lệnh của Trực ban VHLĐ."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm công việc theo Lệnh công tác điện tử, quy định nào sau đây không đúng (không thực hiện)?",
+    "answer": "Sau khi hoàn thành công việc, LCT phải được lưu giữ ít nhất 06 tháng (kể cả những lệnh đã ban hành nhưng không thực hiện)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về kết cấu và chất lượng thang di động như thế nào?",
+    "answer": "Thang di động là loại thang làm bằng tre, gỗ, kim loại. Vật liệu dùng làm thang bằng tre, gỗ phải chắc chắn và khô."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về kết cấu và chất lượng thang di động như thế nào?",
+    "answer": "Chiều rộng chân thang ít nhất là 50 cm. Khoảng cách giữa các bậc thang đều nhau và không lớn hơn 45 cm."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về kết cấu và chất lượng thang di động như thế nào?",
+    "answer": "Bậc thang không được đóng bằng đinh, bậc đầu và bậc cuối phải có chốt. Thang bằng tre phải lấy dây thép buộc, xoắn chắc chắn ở hai đầu và giữa thang."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về kết cấu và chất lượng thang di động như thế nào?",
+    "answer": "Đáp án (1) và (2) là quy định đúng về kết cấu và chất lượng thang di động."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm việc với thang di động phải áp dụng những BPAT nào sau đây?",
+    "answer": "Thực hiện theo nội dung (1)+(2) hoặc (1)+(3)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm việc với thang di động phải áp dụng những BPAT nào sau đây?",
+    "answer": "Khi lên xuống thang phải quay mặt vào thang, khi leo phải nắm hai tay vào thanh dọc, tuyệt đối không nắm vào các bậc lên xuống và không đứng làm việc ở ba bậc trên cùng của thang (trong trường hợp cần thiết phải thêm tay vịn)."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm việc với thang di động phải áp dụng những BPAT nào sau đây?",
+    "answer": "Cấm mang theo những vật quá nặng lên thang, trèo lên thang cùng một lúc hai người và đứng trên thang để dịch chuyển từ vị trí này sang vị trí khác."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm việc với thang di động phải áp dụng những BPAT nào sau đây?",
+    "answer": "(3). Ở những chỗ không có điều kiện bắc giàn giáo thì cho phép làm việc trên thang di động."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm việc với thang di động phải áp dụng những BPAT nào sau đây?",
+    "answer": "Dựng thang đúng quy cách theo tỷ lệ 1 – 4 (có nghĩa là chiều rộng ra so với mặt thẳng đứng của thang là 1 thì chiều cao lên của thang là 4)."
+  },
+  {
+    "question": "Theo quy trình an toàn, đối tượng nào phải được cấp thẻ ATĐ và định kỳ (02 năm/01 lần) được huấn luyện, kiểm tra Quy trình này?",
+    "answer": "Người tham gia thực hiện PCT/LCT"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi phát hiện tổ chức/cá nhân vi phạm Quy trình này có nguy cơ gây mất an toàn, người phát hiện phải làm gì ngay lập tức?",
+    "answer": "Lập tức ngăn chặn và báo cáo với cấp trên trực tiếp và/hoặc cấp có thẩm quyền"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi nghỉ giải lao, nhân viên đơn vị công tác không được tự ý trở lại làm việc khi nào?",
+    "answer": "Khi chưa có lệnh của người chỉ huy trực tiếp"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay đổi Người lãnh đạo công việc, người chỉ huy trực tiếp, người giám sát ATĐ, nhân viên mới phải được bàn giao những nội dung gì?",
+    "answer": "Nhiệm vụ, phổ biến công việc, phạm vi làm việc và biện pháp an toàn"
+  },
+  {
+    "question": "Theo Quy trình an toàn, trách nhiệm kiểm tra, giám sát định kỳ và đột xuất việc tuân thủ quy trình, bao gồm cả các biện pháp an toàn đã đề ra, thuộc về ai?",
+    "answer": "Người làm công tác an toàn các cấp."
+  },
+  {
+    "question": "Khi phát hiện vi phạm biện pháp an toàn có thể dẫn đến tai nạn hoặc hư hỏng thiết bị, người làm công tác an toàn có quyền gì?",
+    "answer": "Lập biên bản vi phạm và đình chỉ công việc."
+  },
+  {
+    "question": "Theo Quy trình, người lao động phải làm gì khi phát hiện tổ chức, đơn vị, cá nhân vi phạm Quy trình an toàn hoặc các quy trình khác có nguy cơ gây mất an toàn đối với người hoặc thiết bị điện?",
+    "answer": "Lập tức ngăn chặn và báo cáo với cấp trên trực tiếp và/hoặc Cấp có thẩm quyền."
+  },
+  {
+    "question": "Theo quy trình an toàn, một trong những nguyên tắc chung để đảm bảo an toàn thủy, cơ, nhiệt, hóa là mọi công việc đều phải được thực hiện theo thủ tục nào?",
+    "answer": "Đánh giá rủi ro ATVSLĐ và đề ra biện pháp phòng ngừa."
+  },
+  {
+    "question": "Trách nhiệm đảm bảo an toàn lao động, tổ chức kiểm tra và giám sát thực hiện các biện pháp an toàn đã đề ra trong đơn vị thuộc về chức danh nào?",
+    "answer": "Lãnh đạo đơn vị sử dụng lao động, cùng các cấp quản lý trực tiếp tương đương."
+  },
+  {
+    "question": "Đơn vị công tác được tổ chức tối thiểu bao nhiêu người và thành phần nào là bắt buộc?",
+    "answer": "Tối thiểu 02 người, trong đó phải có 01 Người chỉ huy trực tiếp chịu trách nhiệm chung"
+  },
+  {
+    "question": "Công việc nào sau đây không bắt buộc phải khảo sát hiện trường trước khi lập Phương án tổ chức thi công và biện pháp an toàn?",
+    "answer": "Công việc không đủ yếu tố được thực hiện theo kế hoạch và có yếu tố nguy hiểm cho cộng đồng."
+  },
+  {
+    "question": "Ai là người chịu trách nhiệm chủ trì và phối hợp với Đơn vị QLVH để tổ chức khảo sát hiện trường và lập biên bản khảo sát?",
+    "answer": "Đơn vị làm công việc."
+  },
+  {
+    "question": "Hình thức phê duyệt nào sau đây được phép áp dụng đối với Phương án tổ chức thi công và biện pháp an toàn nhanh?",
+    "answer": "Phê duyệt từ xa (online) thông qua điện thoại của trực vận hành."
+  },
+  {
+    "question": "Trường hợp nào sau đây được phép lập Phương án tổ chức thi công và biện pháp an toàn mẫu (Phương án mẫu)?",
+    "answer": "Thí nghiệm các trang thiết bị điện, dụng cụ an toàn được thực hiện trong xưởng, phòng thí nghiệm, không liên quan gì tới lưới điện."
+  },
+  {
+    "question": "Trách nhiệm của lãnh đạo đơn vị sử dụng lao động trong việc đảm bảo an toàn là gì?",
+    "answer": "Đề ra các biện pháp an toàn lao động, tổ chức kiểm tra và giám sát thực hiện các biện pháp an toàn đó."
+  },
+  {
+    "question": "Theo quy trình an toàn, mối nguy là gì?",
+    "answer": "Là một nguồn gốc, một tình huống hoặc một hành động có khả năng gây ra tổn hại đối với con người, làm hư hỏng tài sản hoặc hủy hoại môi trường."
+  },
+  {
+    "question": "Khi làm việc, nếu phát hiện vi phạm biện pháp an toàn, người lao động phải thực hiện hành động nào sau đây theo quy trình?",
+    "answer": "Dừng ngay công việc, báo cáo với cấp trên trực tiếp, nếu cấp trên trực tiếp không chấp thuận thì báo cáo Cấp có thẩm quyền."
+  },
+  {
+    "question": "Trường hợp nào sau đây không được phép thực hiện công việc ngoài trời đối với thiết bị điện?",
+    "answer": "Trời mưa hoặc sương mù nước chảy thành dòng."
+  },
+  {
+    "question": "Việc thay đổi người tham gia thực hiện công tác (trừ Nhân viên đơn vị công tác) phải được thực hiện theo quy trình nào?",
+    "answer": "Người mới phải được người cũ bàn giao nhiệm vụ, phổ biến công việc, phạm vi làm việc và biện pháp an toàn."
+  },
+  {
+    "question": "Trong quá trình làm việc, Đơn vị công tác không được phép thực hiện hành động nào sau đây trong vùng làm việc an toàn?",
+    "answer": "Dịch chuyển, dỡ bỏ rào chắn, biển báo, tín hiệu xác định vùng làm việc an toàn do Đơn vị QLVH lập."
+  },
+  {
+    "question": "Khi làm việc ở độ cao từ 2,0 m trở lên, được tính từ mặt đất (mặt bằng) đến điểm tiếp xúc thấp nhất của người thực hiện công việc, được định nghĩa là gì?",
+    "answer": "Làm việc trên cao."
+  },
+  {
+    "question": "Yếu tố nào sau đây được xem là nguyên tắc chung để đảm bảo an toàn thủy, cơ, nhiệt, hóa?",
+    "answer": "Người tham gia thực hiện công tác có quyền từ chối thực hiện công việc khi chưa đủ điều kiện an toàn."
+  },
+  {
+    "question": "Khi làm việc ở công trình và thiết bị điện thuộc quyền quản lý của EVNNPC, các tổ chức, cá nhân ngoài Tổng công ty phải tuân thủ hướng dẫn về an toàn của đơn vị nào?",
+    "answer": "Đơn vị quản lý vận hành (ĐVQLVH)."
+  },
+  {
+    "question": "Theo quy trình an toàn, định nghĩa rủi ro là gì?",
+    "answer": "Là khả năng của một tình huống có thể trở thành nguy hiểm hay có hậu quả tồi tệ ở một thời điểm nào đó trong tương lai hay là sự kết hợp của xác suất xảy ra tổn hại với tính nghiêm trọng của tổn hại này."
+  },
+  {
+    "question": "Trường hợp nào sau đây không thuộc danh mục công việc được phép lập Phương án tổ chức thi công và biện pháp an toàn nhanh?",
+    "answer": "Công việc đại tu, sửa chữa lớn ĐD/thiết bị điện hạ áp."
+  },
+  {
+    "question": "Khi làm việc trong môi trường có điện từ trường cao, các bộ phận, kết cấu kim loại của thiết bị, phương tiện, dụng cụ dùng trong trạm hay trên ĐDK 220 kV phải được xử lý như thế nào?",
+    "answer": "Phải được nối đất theo quy định."
+  },
+  {
+    "question": "Theo quy định, Nhân viên mới tuyển dụng phải được huấn luyện, kèm cặp để có trình độ kỹ thuật và an toàn theo yêu cầu của công việc. Sau đó, bước tiếp theo phải là gì để được giao nhiệm vụ?",
+    "answer": "Phải được kiểm tra lý thuyết và thực hành, đạt yêu cầu."
+  },
+  {
+    "question": "Điều kiện nào sau đây không bắt buộc đối với Người cảnh giới?",
+    "answer": "Phải có bậc an toàn điện từ bậc 4 trở lên."
+  },
+  {
+    "question": "Khi tiến hành thao tác xử lý sự cố khẩn cấp tại nhà máy điện hoặc lưới điện, trường hợp nào sau đây được phép Nhân viên vận hành tiến hành thao tác 01 (một) người?",
+    "answer": "Thao tác được thực hiện bằng điều khiển từ xa thông qua mạch nhị thứ hoặc màn hình điều khiển và không có nguy cơ gây tai nạn cho Nhân viên vận hành."
+  },
+  {
+    "question": "Khi làm việc với ĐDK đã cắt điện, hành động nào sau đây bị cấm?",
+    "answer": "Làm việc trên ĐDK khi bắt đầu có gió cấp 6 trở lên hoặc có mưa nặng hạt, nước chảy thành dòng trên người và thiết bị điện."
+  },
+  {
+    "question": "Khi làm việc trên ĐDK hạ áp đang có điện, người làm việc bắt buộc phải sử dụng phương tiện bảo vệ cá nhân nào sau đây khi tiếp xúc trực tiếp với phần có điện hạ áp?",
+    "answer": "Dùng dụng cụ cách điện có tay cầm chắc chắn và đeo găng tay cách điện hạ áp."
+  },
+  {
+    "question": "Khi sử dụng thang di động, yêu cầu nào sau đây là bắt buộc?",
+    "answer": "Phải có biện pháp cố định chắc chắn thang như móc, giằng hay buộc chặt đầu thang vào kết cấu tựa, hoặc cử người giữ chân thang nếu không có biện pháp chống trượt."
+  },
+  {
+    "question": "Khi làm việc trên giàn giáo, quy định nào sau đây là cấm?",
+    "answer": "Làm việc đồng thời trên hai tầng sàn cùng một khoang mà không có biện pháp bảo đảm an toàn."
+  },
+  {
+    "question": "Khi pha chế axít thành dung dịch, quy trình an toàn bắt buộc là gì?",
+    "answer": "Rót từng tia nhỏ axít theo đũa thuỷ tinh vào bình nước cất và luôn luôn khuấy."
+  },
+  {
+    "question": "Khi sử dụng Ampe kìm để đo dòng điện ở thiết bị điện áp cao, giới hạn điện áp cho phép đo là bao nhiêu?",
+    "answer": "Từ 35kV trở xuống."
+  },
+  {
+    "question": "Theo quy trình, khi làm việc trong không gian hạn chế, cần phải đo kiểm tra khí đối với không gian có nguy cơ thiếu dưỡng khí hoặc có hơi, khí độc. Giới hạn hàm lượng Oxy trong không khí cho phép là bao nhiêu?",
+    "answer": "Chiếm từ 19,5% đến 23,5% tính theo thể tích."
+  },
+  {
+    "question": "Khi làm việc ở hệ thống thải nước sinh hoạt, Nhân viên công tác cần phải trang bị bảo hộ lao động nào?",
+    "answer": "Mặc quần áo bảo hộ lao động, đội mũ nhựa cứng, đeo găng tay, đi giày hoặc ủng."
+  },
+  {
+    "question": "Khi làm việc với các chi tiết, dụng cụ bằng kim loại, Nhân viên đơn vị công tác không được mang theo vật dụng nào sau đây lên cột hoặc gần phần có điện áp cao?",
+    "answer": "Đồ trang sức hoặc vật dụng cá nhân bằng kim loại."
+  },
+  {
+    "question": "Khi làm việc gần đường sắt, đường bộ, đường thủy, hoặc tại vị trí giao chéo, Đơn vị công tác phải làm gì nếu thấy cần thiết để đảm bảo an toàn cho người và phương tiện tham gia giao thông?",
+    "answer": "Liên hệ với cơ quan có liên quan và đề nghị họ bố trí người hỗ trợ trong khi làm việc."
+  },
+  {
+    "question": "Trong công tác hàn điện, hành động nào sau đây bị nghiêm cấm?",
+    "answer": "Dùng các mạch nối đất, các bộ phận của thiết bị điện, các đường ống kỹ thuật vệ sinh (ống dẫn nước, cấp nhiệt, dẫn các chất khí và chất lỏng nóng) làm dây dẫn về (dây mát)."
+  },
+  {
+    "question": "Theo Quy trình an toàn phần thủy, cơ, nhiệt, hóa, Nhân viên công tác có quyền gì khi thấy các điều kiện đảm bảo an toàn để làm việc chưa đủ và đúng?",
+    "answer": "Báo cáo ngay với Người CHTT để xem xét giải quyết."
+  },
+  {
+    "question": "Khi nào thì một thiết bị, đường dây điện đã cắt điện được coi như đang có điện?",
+    "answer": "Thiết bị, đường dây điện chưa được nối đất."
+  },
+  {
+    "question": "Theo Quy trình, việc vận hành xe chuyên dùng phải được thực hiện bởi ai?",
+    "answer": "Chỉ những người đã được đào tạo kỹ năng đầy đủ và có chứng chỉ liên quan theo quy định của pháp luật."
+  },
+   {
+    "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút đầu tiên thì khả năng cứu sống đạt bao nhiêu %?",
+    "answer": "98"
   },
   {
     "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút thứ 2 thì khả năng cứu sống đạt bao nhiêu %?",
-    "answer": "90%"
+    "answer": "90"
   },
   {
-    "question": "Người tham gia giao thông đường bộ phải tuân thủ quy tắc chung như thế nào?",
-    "answer": "Đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ."
+    "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút thứ 3 thì khả năng cứu sống đạt bao nhiêu %?",
+    "answer": "70"
   },
   {
-    "question": "Sử dụng rượu bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?",
-    "answer": "Bị xử phạt hành chính hoặc có thể bị xử lý hình sự tùy theo mức độ vi phạm"
+    "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút thứ 4 thì khả năng cứu sống đạt bao nhiêu %?",
+    "answer": "50"
   },
   {
-    "question": "Các biện pháp bảo đảm an toàn điện.",
-    "answer": "Tất cả các đáp án còn lại."
+    "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút thứ 5 thì khả năng cứu sống đạt bao nhiêu %?",
+    "answer": "25"
   },
   {
-    "question": "Khi lắp đặt và sửa chữa công tơ để không bị phỏng hồ quang điện, tia lửa điện phát sinh do va quẹt giữa đầu dây pha và dây trung tính ta phải làm gì?",
-    "answer": "Sử dụng ống gen bọc cách điện đầu dây dẫn để khi thao tác không bị va quẹt"
+    "question": "Nạn nhân bị điện giật chia ra mấy trạng thái mức độ?",
+    "answer": "3"
   },
   {
-    "question": "Khi lắp đặt và sửa chữa công tơ để không bị phỏng hồ quang điện, tia lửa điện phát sinh do va quẹt giữa dây pha còn điện, vỏ kim loại của dụng cụ thi công và vỏ kim loại của tủ, thùng công tơ ta phải làm gì?",
-    "answer": "Tập trung, cẩn thận khi thao tác; bọc cách điện phần kim loại các dụng cụ thi công"
+    "question": "Cách cứu nạn nhân bị điện giật chưa mất tri giác?",
+    "answer": "Để nạn nhân ra chỗ thoáng khí, yên tĩnh chăm sóc cho hồi tỉnh. Sau đó mời y, bác sỹ hoặc nhẹ nhàng đưa đến cơ quan y tế gần nhất để theo dõi chăm sóc."
   },
   {
-    "question": "Khi lắp đặt công tơ và sửa chữa để không bị phỏng hồ quang điện, tia lửa điện phát sinh do dụng cụ rơi rớt, chạm vào dây pha còn điện gây ngắn mạch ta phải làm gì?",
-    "answer": "Bọc cách điện phần kim loại các dụng cụ thi công; che chắn vị trí mang điện có khả năng tiếp xúc đến; để dụng cụ nơi chắc chắn, không đặt trên cao"
+    "question": "Cách cứu nạn nhân bị điện giật ở trạng thái mất tri giác?",
+    "answer": "Nếu nạn nhân vẫn còn thở nhẹ, tim đập yếu thì đặt nạn nhân nơi thoáng khí, yên tĩnh (trời rét phải đặt ở nơi kín gió), nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm, đặt nạn nhân về tư thế nằm nghiêng, ma sát toàn thân cho nóng lên và mời y, bác sỹ đến để chăm sóc."
   },
   {
-    "question": "Khi lắp đặt và sửa chữa công tơ để không bị điện giật do chủ quan chạm trực tiếp vào dây dẫn còn điện ta phải làm gì?",
-    "answer": "Tập trung chú ý làm việc và trang bị, sử dụng găng tay cách điện khi làm việc trực tiếp với điện hạ áp đang mang điện"
+    "question": "Cách cứu nạn nhân bị điện giật ở trạng thái tắt thở?",
+    "answer": "Nếu tim nạn nhân ngừng đập, toàn thân co giật giống như chết thì phải đưa nạn nhân ra chỗ thoáng khí, nới rộng quần, áo, thắt lưng, moi rớt rãi trong mồm và kéo lưỡi (nếu lưỡi thụt vào). Tiến hành làm hô hấp nhân tạo, hà hơi thổi ngạt ngay, phải làm liên tục, kiên trì cho đến khi có ý kiến của y, bác sỹ quyết định mới thôi."
   },
   {
-    "question": "Khi lắp đặt và sửa chữa công tơ để không bị điện giật do rò điện khi làm việc tại khu vực ngập nước, ẩm ướt ta phải làm gì?",
-    "answer": "Cắt điện để làm việc"
+    "question": "Nếu thấy có người bị tai nạn điện thì phải làm gì đầu tiên?",
+    "answer": "Tìm cách tách nạn nhân ra khỏi mạch điện"
   },
   {
-    "question": "Giải thoát nạn nhân bị điện giật khỏi nguồn điện hạ áp bằng cách:",
-    "answer": "Cắt cầu dao hoặc gỡ cầu chì rồi lót tay khô ráo để kéo nạn nhân khỏi nguồn điện"
+    "question": "Nạn nhân bị điện giật được chia ra các trạng thái mức độ nào?",
+    "answer": "Nạn nhân chưa mất tri giác, nạn nhân mất tri giác, nạn nhân đã tắt thở"
   },
   {
-    "question": "Khi thiết bị điện bị rò điện ra vỏ thì có tác hại là:",
-    "answer": "Nguy hiểm cho người sử dụng khi chạm vào vỏ thiết bị"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp gồm có bao nhiêu bước?",
+    "answer": "5 bước"
   },
   {
-    "question": "Tai nạn điện do chạm trực tiếp vào vật mang điện đó là:",
-    "answer": "Cả 3 đáp án đều đúng"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 1 là bước gì?",
+    "answer": "Loại trừ nguy hiểm"
   },
   {
-    "question": "Khi làm việc từ độ cao 2m trở lên hoặc chưa đến độ cao đó nhưng dưới chỗ làm việc có các vật chướng ngại nguy hiểm, nếu không làm được sàn thao tác có lan can an toàn thì người sử dụng lao động phải làm gì:",
-    "answer": "Phải trang bị dây an toàn cho người lao động. Không cho phép người lao động làm việc khi chưa đeo dây an toàn"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 2 là bước gì?",
+    "answer": "Phản ứng"
   },
   {
-    "question": "Khi di chuyển trên mái nhà, mái tôn cũ mục, trơn trượt, thiếu chắc chắn người công nhân phải làm gì để tránh ngã cao?",
-    "answer": "Kiểm tra độ vững chắc của mái nhà và khi di chuyển đi khom người trên các đà, kèo; không đi thẳng lưng"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 3 là bước gì?",
+    "answer": "Khôi phục hệ tuần hoàn"
   },
   {
-    "question": "Khi làm việc ở vị trí trơn trượt, để tránh ngã cao người công nhân phải làm gì?",
-    "answer": "Quan sát vị trí làm việc, không leo, bước lên các vị trí trơn trợt, rong rêu…; sử dụng các tấm ván, vải chống trượt để đứng"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 4 là bước gì?",
+    "answer": "Khôi phục hệ hô hấp"
   },
   {
-    "question": "Cách phòng ngừa chấn thương đầu do vật rơi từ trên cao khi đang làm việc là?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 5 là bước gì?",
+    "answer": "Hô hấp nhân tạo"
   },
   {
-    "question": "Biện pháp phòng ngừa điện cao áp phóng do không đảm bảo khoảng cách an toàn đối với phần còn điện cao áp khi thay cầu dao, MCCB hạ thế?",
-    "answer": "Ý 1 và Ý 2 đều đúng"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 3 thực hiện như thế nào?",
+    "answer": "Ấn tim ngoài lồng ngực 30 lần, tần số ấn tim từ 100 đến 120 lần/phút và ấn sâu từ 5 đến 6 cm."
   },
   {
-    "question": "Để đảm bảo an toàn trong sử dụng, sửa chữa điện người lao động phải làm gì?",
-    "answer": "Tất cả đáp án đều đúng"
+    "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 5 thực hiện như thế nào?",
+    "answer": "Hô hấp nhân tạo 2 lần liên tục, mỗi lần hô hấp quá 01 giây đến 1,5 giây. Mỗi lần hô hấp nhân tạo lượng khí thổi vào miệng nạn nhân từ 0,8 đến 1,2 lít."
   },
   {
-    "question": "Biện pháp phòng ngừa phóng điện cao áp làm phát sinh hồ quang điện, tia lửa điện gây sự cố, tai nạn cho người làm việc khi lắp đặt tụ bù trung thế?",
-    "answer": "Quan sát giữ khoảng cách an toàn điện từ ngàm trên của thiết bị đóng cắt, đường dây đến đơn vị thi công, dụng cụ thi công và đến vị trí người đứng làm việc theo đúng quy định"
+    "question": "Dấu hiệu của sự cháy bao gồm những dấu hiệu nào?",
+    "answer": "Cả ba đáp án trên (dưới)"
   },
   {
-    "question": "Để phòng ngừa tai nạn điện người lao động cần phải làm gì?",
-    "answer": "Cả 3 đáp án đều đúng"
+    "question": "Những yếu tố cần thiết cho sự cháy bao gồm những yếu tố nào?",
+    "answer": "Chất cháy; Chất oxy hóa; Nguồn nhiệt"
   },
   {
-    "question": "Biện pháp phòng ngừa điện hạ áp giật khi tiếp xúc với các dòng điện rò từ các dây câu tạp (đền đường, biển hiệu, dây thông tin) là?",
-    "answer": "Quan sát kỹ hiện trường, tiến hành kiểm tra rò điện tại các kết cấu kim loại, các giá đỡ của dây thông tin, dây đèn đường, chiếu sáng"
+    "question": "Khi gọi điện thoại báo cháy cho lực lượng Cảnh sát PCCC&CNCH thì người báo tin cần gọi theo số điện thoại nào?",
+    "answer": "Số 114"
   },
   {
-    "question": "Biện pháp phòng tránh điện cảm ứng giật khi làm việc dưới (gần) đường dây cao thế?",
-    "answer": "Nối đất an toàn nơi làm việc để phòng điện cảm ứng"
+    "question": "Quy trình sử dụng bình chữa cháy xách tay bằng bột?",
+    "answer": "Lắc xóc và rút chốt và hướng loa phun vào gốc lửa và phun chất chữa cháy"
   },
   {
-    "question": "Để phòng tránh điện cảm ứng giật do sét đánh lan truyền người lao động phải làm gì?",
-    "answer": "Không làm việc khi trời mưa to, có giông sét"
+    "question": "Tác dụng chữa cháy chính của chăn chiên là gì?",
+    "answer": "Cách ly"
   },
   {
-    "question": "Biện pháp phòng ngừa ngã cao khi lên trụ trạm làm việc?",
-    "answer": "Sử dụng thang, dây an toàn có hai dây quàng khi làm việc trên cao hoặc sử dụng xe gầu hỗ trợ"
+    "question": "Khi cháy xảy ra, bị lửa bắt vào người cần thao tác xử lý thế nào?",
+    "answer": "Dùng tay bảo vệ phần đầu, cuộn tròn người lăn đều trên sàn để dập lửa."
   },
   {
-    "question": "Biện pháp phòng ngừa ngã cao, điện giật, phỏng điện do chế độ giám sát không tốt?",
-    "answer": "Ý1 và Ý2 và đều đúng"
+    "question": "Kiểm tra bình chữa cháy MT-5?",
+    "answer": "Kiểm tra thân bình, vỏ, loa, vòi, và các phụ kiện khác định kỳ 1 tháng/lần, dùng cân để cân trọng lượng bình. Nếu trọng lượng khí CO2 trong bình bị hao hụt > 20 phần trăm trọng lượng khí được nạp ban đầu, phải đem bình đi nạp lại"
   },
   {
-    "question": "Biện pháp phòng ngừa chấn thương đầu, thân thể do vật rơi từ trên cao?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Trong bình chữa cháy MT-5 chứa loại khí chữa cháy nào?",
+    "answer": "Khí Cacbonic"
   },
   {
-    "question": "Biện pháp phòng ngừa điện giật do điện hạ thế rò lên cây xanh?",
-    "answer": "Kiểm tra xem có dây điện hạ thế, thông tin câu tạp trên cây xanh, dùng bút thử điện để thử điện rò trên cây xanh."
+    "question": "Trong bình chữa cháy MFZ-8 chứa loại khí nào ?",
+    "answer": "Khí Nitơ"
   },
   {
-    "question": "Đường đi của dòng điện qua cơ thể con người nguy hiểm nhất trong trường hợp nào?",
-    "answer": "Dòng điện đi từ đầu qua tay"
+    "question": "Trình bày nguyên lý làm việc của bình chữa cháy MT-5?",
+    "answer": "Khí CO2 khuếch tán O2 khỏi đám cháy, thu nhiệt của đám cháy"
   },
   {
-    "question": "Biện pháp phòng tránh va chạm thân người, cánh tay vào những điểm hở của thiết bị đường dây xung quanh?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Các lưu ý khi sử dụng bình chữa cháy CO2?",
+    "answer": "Tất cả các đáp án trên (dưới)"
   },
   {
-    "question": "Biện pháp an toàn khi leo lên trụ quan sát hành lang tuyến?",
-    "answer": "Khi leo lên trụ quan sát phải sử dụng dây an toàn có hai dây quàng, kiểm tra dây an toàn trước khi sử dụng"
+    "question": "Các cách kiểm tra bình chữa cháy MFZ 8?",
+    "answer": "Tất cả các đáp án trên (dưới)"
   },
   {
-    "question": "Biện pháp an toàn khi đứng dưới phạm vi làm việc?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Trong chữa cháy người ta quy ước chữ cái A là thể hiện cho chất cháy loại gì ?",
+    "answer": "Chất cháy rắn"
   },
   {
-    "question": "Biện pháp phòng tránh điện trung thế phóng khi làm việc với máy biến áp trung thế?",
-    "answer": "Ý 1 và Ý 2 đều đúng"
+    "question": "Trong chữa cháy người ta quy ước chữ cái B là thể hiện cho chất cháy loại gì ?",
+    "answer": "Chất cháy lỏng"
   },
   {
-    "question": "Biện pháp phòng tránh điện trung thế phóng khi làm việc ở lưới điện trung thế?",
-    "answer": "Tất cả các đáp án đều đúng"
+    "question": "Trong chữa cháy người ta quy ước chữ cái C là thể hiện cho chất cháy loại gì ?",
+    "answer": "Chất cháy khí"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 500 kV trong trường hợp không có rào chắn quy định là bao nhiêu?",
+    "answer": "4,5m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 500 kV trong trường hợp có rào chắn quy định là bao nhiêu?",
+    "answer": "4,5m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 220 kV trong trường hợp không có rào chắn quy định là bao nhiêu?",
+    "answer": "2,5m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 220 kV trong trường hợp có rào chắn quy định là bao nhiêu?",
+    "answer": "2,5m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 110 kV trong trường hợp không có rào chắn quy định là bao nhiêu?",
+    "answer": "1,5m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 110 kV trong trường hợp có rào chắn quy định là bao nhiêu?",
+    "answer": "1,5m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 35 kV trong trường hợp không có rào chắn theo quy định là bao nhiêu?",
+    "answer": "1m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 35 kV trong trường hợp có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,6 m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 22 kV trong trường hợp không có rào chắn theo quy định là bao nhiêu?",
+    "answer": "1m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 22 kV trong trường hợp có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,6 m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 10 kV trong trường hợp không có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,7m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 10 kV trong trường hợp có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,35m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 6 kV trong trường hợp không có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,7m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 6 kV trong trường hợp có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,35m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp trên 1000V đến 15 kV trong trường hợp không có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,7m"
+  },
+  {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp trên 1000V đến 15 kV trong trường hợp có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,35m"
+  },
+  {
+    "question": "Số 5 trong ký hiệu bình MT-5 thể hiện gì ?",
+    "answer": "Khối lượng chất chữa cháy trong bình"
+  },
+  {
+    "question": "Số 4 trong ký hiệu bình MFZ-4 thể hiện gì ?",
+    "answer": "Khối lượng chất chữa cháy trong bình"
+  },
+  {
+    "question": "Khi phát hiện có đám cháy việc đầu tiên cần phải làm gì?",
+    "answer": "Lập tức hô hoán báo động cho mọi người biết nơi đám cháy xuất hiện"
+  },
+  {
+    "question": "Khi nhận được lệnh huy động tham gia cứu chữa đám cháy. Anh (Chị) sẽ thực hiện như thế nào?",
+    "answer": "Nhanh chóng nhận lệnh, sử dụng các dụng cụ chữa cháy và thực hiện theo sự chỉ dẫn của lực lượng chữa cháy chuyên nghiệp."
+  },
+  {
+    "question": "Để chữa cháy thì cần phải thực hiện theo những phương pháp cơ bản nào sau đây?",
+    "answer": "Phương pháp làm lạnh, phương pháp cách ly, phương pháp làm loãng"
+  },
+  {
+    "question": "Theo Quy trình An toàn điện, việc đánh giá rủi ro là gì?",
+    "answer": "Quá trình tìm hiểu, xác định những rủi ro có thể xảy ra liên quan tới công việc chuẩn bị thực hiện và đưa ra biện pháp phòng ngừa hợp lý."
+  },
+  {
+    "question": "Theo Quy định công tác quản lý an toàn ban hành kèm theo Quyết định số 1729/QĐ-EVNNPC, rủi ro được phân loại theo mức độ rủi ro, bao gồm mấy cấp độ?",
+    "answer": "5 cấp"
+  },
+  {
+    "question": "Theo Quy định công tác quản lý an toàn ban hành kèm theo Quyết định số 1729/QĐ-EVNNPC, rủi ro cấp 1 là?",
+    "answer": "Là rủi ro có mức độ không đáng kể."
+  },
+  {
+    "question": "Theo Quy định công tác quản lý an toàn ban hành kèm theo Quyết định số 1729/QĐ-EVNNPC, rủi ro cấp 2 là?",
+    "answer": "Là rủi ro có mức độ nhẹ."
+  },
+  {
+    "question": "Theo Quy định công tác quản lý an toàn ban hành kèm theo Quyết định số 1729/QĐ-EVNNPC, rủi ro cấp 3 là?",
+    "answer": "Là rủi ro có mức độ rủi ro vừa hoặc trung bình."
+  },
+  {
+    "question": "Theo Quy định công tác quản lý an toàn ban hành kèm theo Quyết định số 1729/QĐ-EVNNPC, rủi ro cấp 4 là?",
+    "answer": "Là rủi ro có mức độ nghiêm trọng."
+  },
+  {
+    "question": "Theo Quy trình An toàn, Vùng làm việc an toàn là vùng?",
+    "answer": "Đã được thiết lập các biện pháp an toàn cho người, thiết bị khi thực hiện công việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì khoảng cách cho phép nhỏ nhất đến phần có điện cao áp xoay chiều được quy định như thế nào?",
+    "answer": "Từ trên 1-35kV là 0,6 mét; Trên 35kV-110kV là 1,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn thì khoảng cách an toàn phóng điện theo cấp điện áp đối với thiết bị, dụng cụ, phương tiện (trừ xe chuyên dùng cho công tác sửa chữa điện) là ?",
+    "answer": "Từ trên 1-35kV là 2,0 mét; 110kV là 3,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn biển báo \"CÁP ĐIỆN LỰC\" đặt như thế nào?",
+    "answer": "Trên mặt đất hoặc trên cột mốc, ở vị trí tim rãnh cáp, dễ nhìn thấy và xác định được đường cáp ở mọi vị trí; tại các vị trí chuyển hướng, khoảng cách giữa 2 biển báo liền kề không quá 30 mét."
+  },
+  {
+    "question": "Theo Quy trình An toàn biển “CẤM VÀO! ĐIỆN ÁP CAO NGUY HIỂM CHẾT NGƯỜI” đặt ở đâu?",
+    "answer": "Trên cửa hoặc cổng ra vào trạm rạm điện có tường rào bao quanh,"
+  },
+  {
+    "question": "Theo Quy trình An toàn biển “CẤM LẠI GẦN! CÓ ĐIỆN NGUY HIỂM CHẾT NGƯỜI” được đặt như thế nào?",
+    "answer": "Trên vỏ trạm biến áp hợp bộ kiểu kín, trạm đóng cắt hợp bộ ngoài trời, tủ phân dây (Tủ Pillar) về phía dễ nhìn thấy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “CẤM ĐÓNG ĐIỆN! CÓ NGƯỜI ĐANG LÀM VIỆC” được đặt như thế nào?.",
+    "answer": "Trên bộ phận điều khiển, truyền động thiết bị đóng cắt đã cắt điện cho đơn vị công tác làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “DỪNG LẠI! CÓ ĐIỆN NGUY HIỂM CHẾT NGƯỜI” được đặt như thế nào?",
+    "answer": "Đặt trên rào chắn về phía dễ nhìn thấy."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “LÀM VIỆC TẠI ĐÂY” được đặt như thế nào?.",
+    "answer": "Đặt tại nơi làm việc đã được khoanh vùng; tại khu vực làm việc của ĐVCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “VÀO HƯỚNG NÀY” được đặt như thế nào?",
+    "answer": "Đặt tại đầu lối vào khu vực làm việc của ĐVCT."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “ĐÃ NỐI ĐẤT” được đặt như thế nào?",
+    "answer": "Đặt tại khu vực đã đóng DNĐ hoặc đã đặt nối đất lưu động."
+  },
+  {
+    "question": "Theo Quy trình An toàn, biển “CHÚ Ý! PHÍA TRÊN CÓ ĐIỆN” treo ở vị trí nào?",
+    "answer": "Treo ở vị trí dễ quan sát tại khu vực làm việc mà ở phía trên có điện."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định điện cao áp và hạ áp như thế nào?",
+    "answer": "Điện hạ áp là điện áp danh định tới 1000V, điện cao áp là điện áp danh định trên 1000V."
+  },
+  {
+    "question": "Theo Quy định công tác quản lý an toàn ban hành kèm theo Quyết định số 1729/QĐ-EVNNPC, rủi ro cấp 5 là?",
+    "answer": "Là rủi ro có mức độ cực kỳ nghiêm trọng, thảm họa."
   }
+  
 ]

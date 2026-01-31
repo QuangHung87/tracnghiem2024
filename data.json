@@ -2082,6 +2082,634 @@
   {
     "question": "Theo Quy định công tác quản lý an toàn ban hành kèm theo Quyết định số 1729/QĐ-EVNNPC, rủi ro cấp 5 là?",
     "answer": "Là rủi ro có mức độ cực kỳ nghiêm trọng, thảm họa."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về nối đất khi thử nghiệm cáp ngầm (thử cao áp, đo cách điện, thử thông mạch,...) như thế nào?",
+    "answer": "Cho phép tháo nối đất hai đầu nhưng phải cử người giám sát an toàn điện ở đầu cáp còn lại."
+  },
+  {
+    "question": "Theo Quy trình An toàn, việc đặt rào chắn tại khu vực thử nghiệm có điện áp cao điều nào không đúng quy định?",
+    "answer": "Việc đặt rào chắn do người cho phép của ĐVQLVH thực hiện."
+  },
+  {
+    "question": "Theo Quy trình An toàn thì việc đặt rào chắn theo quy định nào khi thử nghiệm cao áp?",
+    "answer": "Do nhân viên thử nghiệm đặt. Có thể đặt rào chắn tạm thời (kể cả bằng dây thừng) và phải treo biển “Dừng lại! Có điện nguy hiểm chết người” trên rào chắn."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định những nơi nào phải đặt rào chắn?",
+    "answer": "Khu vực thử nghiệm  có điện cao áp phải được cách ly bằng rào chắn và cử người trông coi."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định việc đưa điện vào thử nghiệm do ai đảm nhận?",
+    "answer": "Việc đưa điện vào thử nghiệm do người CHTT đảm nhận hoặc ra lệnh cho nhân viên trong ĐVCT thực hiện."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trước khi đóng điện vào để thử nghiệm, người CHTT ĐVCT làm công việc thử nghiệm phải làm những động tác gì?",
+    "answer": "Tự mình kiểm tra mạch đấu dây thử nghiệm và BPAT, sau đó nói “Tôi đóng điện!” rồi mới đóng điện hoặc ra lệnh đóng điện. Cấm đấu thêm gì trong mạch thử nghiệm khi đã đóng điện phía hạ áp."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi thử nghiệm xong, người CHTT của ĐVCT làm công việc thử nghiệm phải làm những động tác gì?",
+    "answer": "Cắt điện, làm nối đất và báo cho mọi người biết “đã cắt điện”, sau đó ra lệnh đấu dây lại để tiếp tục thử nghiệm hoặc tháo dỡ các rào chắn và kết thúc công việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn, quy định về nối đất trong công tác thử nghiệm điện như thế nào?",
+    "answer": "Khi đã đấu xong các thiết bị cần thử mới được tháo nối đất. Nếu thiết bị phải thử nghiệm đã cắt ra bằng DCL thì trên các đoạn còn tiếp tục công tác khác phải đặt nối đất ở chỗ mạch hở."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về DCL phía hạ áp để cấp điện thử nghiệm như thế nào?",
+    "answer": "Phải sử dụng dao 2 cực, phần cắt mạch điện phải được trông thấy rõ. DCL ở vị trí cắt phải có đệm lót cách điện đặt ở giữa lưỡi dao và hàm tĩnh của dao."
+  },
+  {
+    "question": "Theo Quy trình An toàn, nội dung nào không đúng (không phù hợp) quy định khi dùng thiết bị thử nghiệm lưu động?",
+    "answer": "Các thiết bị thử nghiệm để hở có thể bố trí chung thiết bị hạ áp và cao áp nhưng giữa hai bên phải có ngăn cách."
+  },
+  {
+    "question": "Theo Quy trình An toàn phải áp dụng BPAT nào sau khi thử nghiệm bằng điện áp cao xong?",
+    "answer": "Phải khử điện tích và khi đã khẳng định không còn điện tích nữa mới được báo là “đã cắt điện”."
+  },
+  {
+    "question": "Theo Quy trình An toàn, điều nào không đúng trong quy định về rào chắn trong trạm thử nghiệm?",
+    "answer": "Nơi có điện áp từ 220/380V trở lên trong trạm thử nghiệm hoặc phòng thử nghiệm phải được cách ly bằng rào chắn."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định cửa của rào chắn như thế nào?",
+    "answer": "Cửa phải mở về phía ngoài hoặc đẩy sang bên cạnh. Khoá cửa phải là loại tự khoá và từ phía bên trong rào chắn có thể mở cửa không cần chìa khoá."
+  },
+  {
+    "question": "Theo Quy trình An toàn, MBA dùng để thử nghiệm cách điện phải có yêu cầu gì?",
+    "answer": "Phải có máy cắt tự động cắt điện khi cách điện bị chọc thủng và phải có điện trở để hạn chế dòng điện ngắn mạch."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định yêu cầu về an toàn gì khi dùng tụ điện và máy biến điện đo lường dùng trong sơ đồ thử nghiệm?",
+    "answer": "Tụ điện và máy biến điện đo lường dùng trong sơ đồ thử nghiệm đặt ở ngoài mặt bằng thử nghiệm đều phải có rào chắn."
+  },
+  {
+    "question": "Theo Quy trình An toàn, điều nào không đúng theo quy định về thiết bị có điện dung lớn trong công việc thử nghiệm như thế nào?",
+    "answer": "Các thiết bị có điện dung lớn nếu không tham gia vào sơ đồ thử nghiệm có đặt trong mặt bằng thử nghiệm, không cần nối tắt và nối đất, nhưng phải cử người trông coi."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về kiểm định trang, thiết bị, dụng cụ thử nghiệm như thế nào?",
+    "answer": "ĐVQLVH trạm thử nghiệm, phòng thử nghiệm phải thực hiện kiểm định định kỳ các trang thiết bị, dụng cụ thử nghiệm."
+  },
+  {
+    "question": "Theo Quy trình An toàn, việc khẳng định mạch kiểm tra trong công tác thử nghiệm điên, nội dung nào không đúng quy định?",
+    "answer": "Không được đặt và tháo các đối tượng cần thử nghiệm trong mọi trường hợp."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trước khi thực hiện thử nghiệm có phóng điện, hoặc các thử nghiệm hay thử nghiệm khác có nguy cơ rủi ro, phải thực hiện những biện pháp gì?",
+    "answer": "Phải chắc chắn không có người trong vùng nguy hiểm, người không có nhiệm vụ trong vùng làm việc; Đặt tín hiệu cảnh báo và khoá hàng rào để ngăn chặn người không có nhiệm vụ xâm nhập."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trong thử nghiệm tụ đấu mạch quy định biện pháp an toàn nào?",
+    "answer": "Mạch cung cấp cho tụ đấu mạch phải có khí cụ đóng cắt, có chỗ hở mạch nhìn thấy được và đặt ở mạch sơ cấp của MBA thử nghiệm; Chỉ được đặt và tháo đối tượng cần thử khi người CHTT cho phép và sau khi đã cắt điện vào tụ đấu mạch."
+  },
+  {
+    "question": "Theo Quy trình An toàn, BPAT khi thử nghiệm độ bền cơ của vật cách điện như thế nào?",
+    "answer": "Cấm người đứng ở gần nơi thử nghiệm. Phải có biện pháp đề phòng tai nạn cho nhân viên ĐVCT do các mảnh vụn bắn ra."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi làm việc ở những mạch đo lường, điều khiển, bảo vệ đang có điện phải áp dụng biện pháp an toàn nào?",
+    "answer": "Tất cả các cuộn dây thứ cấp của máy biến dòng điện (TI) và máy biến điện áp (TU) phải có dây nối đất cố định; Cấm để hở mạch cuộn thứ cấp của TI và để ngắn mạch cuộn thứ cấp của TU."
+  },
+  {
+    "question": "Khi thử nghiệm thiết bị điện, trước khi đóng điện thử nghiệm người chỉ huy trực tiếp đơn vị công tác làm công việc thử nghiệm phải thực hiện?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Khi thử nghiệm gần thiết bị 22 kV đang vận hành, không có rào chắn tạm thời thì khoảng an toàn điện không nhỏ hơn?",
+    "answer": "1,0m"
+  },
+  {
+    "question": "Am-pe kế dùng để làm gì ?",
+    "answer": "Đo dòng điện tải."
+  },
+  {
+    "question": "Khi xác định điện trở 1 chiều của cuộn dây máy biến áp, ta dùng thiết bị đo nào sau đây?",
+    "answer": "Cầu đo."
+  },
+  {
+    "question": "Người có bậc an toàn điện 2/5 làm việc tại hiện trường, phòng thử nghiệm phải được phổ biến đầy đủ các Quy trình liên quan nào?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Biện pháp an toàn cá nhân khi tiến hành thử nghiệm, kiểm định các thiết bị, dụng cụ điện, vật liệu điện hạ áp đối với người có bậc an toàn điện 2/5?",
+    "answer": "Thực hiện công việc tại nơi đã cắt điện hoàn toàn."
+  },
+  {
+    "question": "Biện pháp an toàn cá nhân khi tiến hành thử nghiệm, kiểm định các thiết bị, dụng cụ điện, vật liệu điện hạ áp?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Để bảo đảm an toàn, khu vực thử nghiệm có điện áp cao phải?",
+    "answer": "Việc đặt rào chắn do người tiến hành thí nghiệm chịu trách nhiệm."
+  },
+  {
+    "question": "Nơi có điện cao áp trong trạm thử nghiệm hoặc phòng thử nghiệm phải được cách ly bằng rào chắn. Rào chắn tạm thời có chiều cao không nhỏ hơn bao nhiêu?",
+    "answer": "1,2m"
+  },
+  {
+    "question": "Nơi có điện cao áp trong trạm thử nghiệm hoặc phòng thử nghiệm phải được cách ly bằng rào chắn. Rào chắn cố định có chiều cao không nhỏ hơn bao nhiêu?",
+    "answer": "1,7m"
+  },
+  {
+    "question": "Việc đưa điện hạ áp vào thử nghiệm do ai đảm nhận?",
+    "answer": "Người chỉ huy trực tiếp hoặc ra lệnh cho Nhân viên đơn vị công tác thực hiện."
+  },
+  {
+    "question": "Khi dùng thiết bị thử nghiệm lưu động phải thực hiện đúng các quy định nào?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Khi thử nghiệm thiết bị điện cao áp xong, Người chỉ huy trực tiếp đơn vị công tác làm công việc thử nghiệm phải?",
+    "answer": "Cắt điện; Làm tiếp đất và báo cho mọi người biết “đã cắt điện”; Ra lệnh đấu dây lại để tiếp tục thử nghiệm hoặc tháo dỡ các rào chắn và kết thúc công việc."
+  },
+  {
+    "question": "Trước khi thực hiện thử nghiệm có phóng điện, nhân viên phải thực hiện các biện pháp nào để đảm bảo an toàn?",
+    "answer": "Ý 1 - Phải chắc chắn không có người trong vùng nguy hiểm."
+  },
+  {
+    "question": "Trước khi thực hiện công việc đối với người có bậc an toàn điện 3/5 làm việc tại hiện trường, phòng thử nghiệm phải được phổ biến đầy đủ các Quy trình gì?",
+    "answer": "Hướng dẫn Quy trình vận hành các thiết bị thử nghiệm, kiểm định có cấp điện áp trên 1 kV (cao áp); Hướng dẫn Quy trình thử nghiệm đối với các hạng mục và đối tượng thử nghiệm, kiểm định có cấp điện áp trên 1 kV; Hướng dẫn Quy trình an toàn cho các thiết bị thử nghiệm, kiểm định có cấp điện áp trên 1 kV."
+  },
+  {
+    "question": "Để bảo đảm an toàn, quy định nào sau đây về khu vực thử nghiệm có điện cao áp là đúng?",
+    "answer": "Phải có rào chắn và người trông coi, người không có nhiệm vụ không được vào."
+  },
+  {
+    "question": "Quy định khi sử dụng dây căng để cảnh báo tại khu vực thử nghiệm có điện cao áp?",
+    "answer": "Cả Ý 2 và Ý 3 đều đúng"
+  },
+  {
+    "question": "Việc đặt rào chắn hoặc căng dây cảnh báo do ai đảm nhận?",
+    "answer": "Do Người tiến hành thử nghiệm chịu trách nhiệm."
+  },
+  {
+    "question": "Để bảo đảm an toàn, quy định nào sau đây về khu vực thử nghiệm có điện cao áp là đúng?",
+    "answer": "Ý 3 - Người tiến hành thử nghiệm chịu trách nhiệm đặt rào chắn. Nếu các dây dẫn điện đi qua hành lang, cầu thang, sàn nhà… thì phải cử người cảnh giới tại các vị trí đặc biệt."
+  },
+  {
+    "question": "Khi thử nghiệm thiết bị điện áp cao, trước khi đưa điện vào thử để phục vụ công việc thử nghiệm điện áp cao phải?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Quy định về Giám sát công việc đối với người có bậc an toàn điện 3/5?",
+    "answer": "Ý 2 - Giám sát công việc trên lưới điện hạ áp khi tiến hành thử nghiệm, kiểm định các thiết bị, dụng cụ điện, vật liệu điện."
+  },
+  {
+    "question": "Trách nhiệm của người giám sát an toàn điện hạ áp khi tiến hành thử nghiệm, kiểm định các thiết bị, dụng cụ điện, vật liệu điện?",
+    "answer": "Ý 1 - Có mặt liên tục tại nơi làm việc để làm nhiệm vụ giám sát an toàn điện (cho đến khi hoàn thành phần nhiệm vụ được phân công) và không làm bất cứ việc gì khác ngoài nhiệm vụ giám sát an toàn điện."
+  },
+  {
+    "question": "Nhiệm vụ giám sát an toàn điện hạ áp đối với người có bậc an toàn điện 3/5 được quy định như thế nào?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Việc đưa điện vào thử nghiệm được quy định như thế nào?",
+    "answer": "Cả Ý 1 và Ý 2 đều đúng"
+  },
+  {
+    "question": "Khi thử nghiệm thiết bị điện cao áp, biện pháp an toàn nào sau đây là đúng?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Dao cách ly phía hạ áp để cấp điện thử nghiệm thiết bị điện áp cao phải?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Sau khi thử nghiệm thiết bị điện áp cao xong, việc cắt điện, làm nối đất và báo cho mọi người biết \"đã cắt điện\" do ai đảm nhận?",
+    "answer": "Người chỉ huy trực tiếp công việc thử nghiệm."
+  },
+  {
+    "question": "Khi sử dụng xe thử nghiệm lưu động hoặc máy thử cố định, phải tuân theo các điều kiện sau đây?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Trước khi thực hiện thử nghiệm có phóng điện, hoặc các thử nghiệm hay thí nghiệm khác có nguy cơ rủi ro, nhân viên phải thực hiện các biện pháp sau?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "An toàn điện tại chỗ khi tổ chức thí nghiệm, thử nghiệm, kiểm định?",
+    "answer": "Các Ý 1 và Ý 3 đều đúng"
+  },
+  {
+    "question": "Khi thử nghiệm máy biến áp cần phải làm gì?",
+    "answer": "Cô lập máy biến áp khỏi vận hành và cách ly với các thiết bị xung quanh cần tiến hành đấu tắt và nối đất toàn bộ các đầu ra của các máy biến áp trước khi tiến hành công tác thí nghiệm, kiểm tra và bảo dưỡng."
+  },
+  {
+    "question": "Sau khi hoàn tất phép thử nghiệm cao áp một chiều trên các cuộn dây hoặc sứ đầu vào của các máy biến áp lực công suất lớn và điện áp cao cần dùng sào chuyên dụng có bộ điện trở xả phù hợp để xả các điện tích trước khi đấu đất chắc chắn chúng. Thời gian tiếp đất  không được ít hơn?",
+    "answer": "5 phút"
+  },
+  {
+    "question": "Khi thử nghiệm thiết bị điện áp cao tại chỗ (thiết bị trong vận hành), quy định nào đúng?",
+    "answer": "Phải có phiếu công tác do đơn vị quản lý vận hành cấp  (trừ những trường hợp quy định riêng)."
+  },
+  {
+    "question": "Khi thử nghiệm điện áp cao ở phòng thử nghiệm, xe chuyên dùng, hoặc ở khu vực riêng rẽ không liên quan đến thiết bị đang vận hành thì phải có?",
+    "answer": "Lệnh công tác do người có thẩm quyền của đơn vị thử nghiệm cấp."
+  },
+  {
+    "question": "Biện pháp an toàn khi thử nghiệm máy biến  dòng điện.",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng"
+  },
+  {
+    "question": "Để đảm bảo an toàn khi tiến hành thao tác thử nghiệm tụ điện được xả  trong  thời gian bao lâu?",
+    "answer": "Khoảng 5 đến 10 phút."
+  },
+  {
+    "question": "Khi  thử nghiệm cáp ngầm bằng phóng điện cao áp 1 chiều. Để đảm bảo an toàn khi thử xong phải phòng xả  điện tích dư các cầu cáp thì phải?",
+    "answer": "Sử dụng điện trở xả thích hợp để xả điện tích đã nạp trong điện môi của cáp."
+  },
+  {
+    "question": "Trước khi thực hiện thử nghiệm có phóng điện, hoặc các thử nghiệm hay thí nghiệm khác có nguy cơ rủi ro, nhân viên phải thực hiện các biện pháp sau?",
+    "answer": "Phải chắc chắn không có người trong vùng nguy hiểm."
+  },
+  {
+    "question": "Khi tiến hành thử nghiệm, kiểm định các thiết bị, dụng cụ điện, vật liệu có nhiều đơn vị công tác phối hợp thực hiện ?",
+    "answer": "Đơn vị công tác khác nhau thì mỗi Đơn vị công tác phải thực hiện biện pháp kỹ thuật an toàn riêng biệt."
+  },
+  {
+    "question": "Theo Quy trình An toàn phải áp dụng BPAT nào sau khi thử nghiệm bằng điện áp cao xong?",
+    "answer": "Phải khử điện tích và khi đã khẳng định không còn điện tích nữa mới được báo là “đã cắt điện”."
+  },
+  {
+    "question": "Theo Quy trình An toàn, việc khẳng định mạch kiểm tra trong công tác thử nghiệm điện, nội dung nào không đúng quy định?",
+    "answer": "Không được đặt và tháo các đối tượng cần thử nghiệm trong mọi trường hợp."
+  },
+  {
+    "question": "Theo Quy trình An toàn, trước khi thực hiện thử nghiệm có phóng điện, hoặc các thử nghiệm hay thí nghiệm khác có nguy cơ rủi ro, phải thực hiện những biện pháp gì?",
+    "answer": "Phải chắc chắn không có người trong vùng nguy hiểm, người không có nhiệm vụ trong vùng làm việc; Đặt tín hiệu cảnh báo và khoá hàng rào để ngăn chặn người không có nhiệm vụ xâm nhập."
+  },
+  {
+    "question": "Theo Quy trình An toàn, BPAT khi thử nghiệm độ bền cơ của vật cách điện như thế nào?",
+    "answer": "Phải có quy trình thử nghiệm độ bền cơ do cấp có thẩm quyền quyết định ban hành. Phải có biện pháp đề phòng tai nạn cho nhân viên ĐVCT do các mảnh vụn bắn ra."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về treo biển cảnh báo trên dây căng thay cho rào chắn trong khu vực thí nghiệm có điện cao áp như thế nào?",
+    "answer": "Trên dây phải treo biển cảnh báo \"Dừng lại! Có điện nguy hiểm chết người\""
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về biện pháp an toàn cho khu vực thí nghiệm có điện áp cao như thế nào?",
+    "answer": "Phải có rào chắn và cử người trông coi, người không có nhiệm vụ không được vào. Nếu dùng dây căng thay rào chắn thì trên dây phải treo biển cảnh báo “Dừng lại! Có điện nguy hiểm chết người”."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về biện pháp an toàn khi thực hiện đưa điện vào thí nghiệm như thế nào?",
+    "answer": "Trước khi đưa điện vào thử, tất cả mọi người phải đi ra ngoài và đảm bảo an toàn theo sự hướng dẫn của CHTT, việc đưa điện vào thử nghiệm do CHTT đảm nhận hoặc ra lệnh cho nhân viên ĐVCT thực hiện"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về biện pháp an toàn trước khi đóng điện thí nghiệm như thế nào?",
+    "answer": "Người CHTT công việc thí nghiệm phải tự mình kiểm tra mạch đấu dây thí nghiệm và biện pháp an toàn, sau đó báo trước cho mọi người biết bằng câu nói “Tôi đóng điện!” rồi mới đóng điện hoặc ra lệnh đóng điện"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về biện pháp an toàn khi thí nghiệm xong như thế nào?",
+    "answer": "Người CHTT công việc thí nghiệm phải cắt điện, làm nối đất và báo cho mọi người biết “đã cắt điện”, sau đó ra lệnh đấu dây lại để tiếp tục thử nghiệm hoặc tháo dỡ các rào chắn và kết thúc công việc"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung 100 kV là bao nhiêu mét ?",
+    "answer": "0,5 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung trên 100 kV đến 150 kV là bao nhiêu mét ?",
+    "answer": "0,75 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung trên 150 kV đến 400 kV là bao nhiêu mét ?",
+    "answer": "1,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung trên 400 kV đến 500 kV là bao nhiêu mét ?",
+    "answer": "1,5 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung trên 500 kV đến 1000 kV là bao nhiêu mét ?",
+    "answer": "2,5 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung trên 1000 kV đến 1500 kV là bao nhiêu mét ?",
+    "answer": "4,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung trên 1500 kV đến 2000 kV là bao nhiêu mét ?",
+    "answer": "5,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp xung trên 2000 kV đến 2500 kV là bao nhiêu mét ?",
+    "answer": "6,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều đến 6 kV là bao nhiêu mét ?",
+    "answer": "0,1 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều trên 6 kV đến 10 kV là bao nhiêu mét ?",
+    "answer": "0,2 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều trên 10 kV đến 20 kV là bao nhiêu mét ?",
+    "answer": "0,3 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều trên 20 kV đến 50 kV là bao nhiêu mét ?",
+    "answer": "0,5 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều trên 50 kV đến 100 kV là bao nhiêu mét ?",
+    "answer": "1,0 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều trên 100 kV đến 250 kV là bao nhiêu mét ?",
+    "answer": "1,5 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều trên 250 kV đến 400 kV là bao nhiêu mét ?",
+    "answer": "2,5 mét"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về khoảng cách tối thiểu từ phần dẫn điện của thiết bị thử nghiệm đến rào chắn cố định có nối đất đối với điện áp tần số công nghiệp, điện áp hiệu dụng và điện một chiều trên 400 kV đến 800 kV là bao nhiêu mét ?",
+    "answer": "4,0 mét"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thí nghiệm xong, người chỉ huy trực tiếp phải cắt điện, làm nối đất và báo cho mọi người biết 'đã cắt điện', sau đó làm gì?",
+    "answer": "Ra lệnh đấu dây lại để tiếp tục thử nghiệm hoặc tháo dỡ các rào chắn và kết thúc công việc"
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) phải thực hiện thủ tục an toàn nào?",
+    "answer": "Phải có đầy đủ BPAT trong phương án treo, tháo, lắp đặt công tơ được Phòng kinh doanh cấp Điện lực phê duyệt."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi treo tháo công tơ, trường hợp nào sau đây không phải cắt điện?",
+    "answer": "Tại vị trí làm việc có nhiều chướng ngại vật; Không gian nhỏ, khó thực hiện: Vị trí làm việc có khả năng ngã đổ hoặc công trình khác xung quanh không ổn định."
+  },
+  {
+    "question": "Theo Quy trình An toàn, khi trèo lên cột điện để ghi chỉ số công tơ phải thực hiện những BPAT nào?",
+    "answer": "Dùng bút thử điện hạ áp để kiểm tra các cấu kiện bằng kim loại, tránh va chạm vào những dây điện, các đầu hở của dây thông tin xung quanh."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về an toàn điện khi vào trạm ghi chỉ số công tơ tổng như thế nào?",
+    "answer": "Chỉ ghi chỉ số bằng mắt. Trường hợp đặc biệt có thể mở nắp hộp công tơ để kiểm tra mạch đấu."
+  },
+  {
+    "question": "Để kịp tiến độ thay thế định kỳ công tơ hạ thế, lãnh đạo Đội QLĐLKV B đã điều động một nhân viên A thuộc tổ ghi thu ngân sang tăng cường tạm thời cho đội công tác thay thế công tơ, nhân viên này chưa được huấn luyện về nghiệp vụ và quy trình an toàn liên quan đến công tác treo tháo công tơ. Nhân viên A xử lý như thế nào cho đúng trong tình huống trên?",
+    "answer": "Ý 1 - Báo cáo với lãnh đạo về việc chưa được huấn luyện về quy trình treo tháo công tơ, đề nghị không thực hiện công việc này. Nếu lãnh đạo Đội QLĐLKV B không đồng ý, nhân viên A có quyền kiến nghị lên cấp trên."
+  },
+  {
+    "question": "Khi đấu nối công tơ lên đường dây hạ áp đang mang điện, phải thực hiện quy định nào sau đây?",
+    "answer": "Ý 2 - Phải dùng dụng cụ cách điện có tay cầm chắc chắn và đảm bảo an toàn."
+  },
+  {
+    "question": "Anh A là công nhân có bậc 1 an toàn điện, khi tham gia nhóm công tác thay công tơ định kỳ, anh A được làm công việc nào sau đây?",
+    "answer": "Lên cột cùng phụ với đồng nghiệp."
+  },
+  {
+    "question": "Anh A là công nhân có bậc 1 an toàn điện, khi tham gia nhóm công tác lắp đặt công tơ phát triển khách hàng, anh A được làm công việc nào sau đây?",
+    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+  },
+  {
+    "question": "Anh A là công nhân có bậc 1 an toàn điện, anh A được làm những công việc nào sau đây?",
+    "answer": "Trực tiếp lắp công tơ, đấu nối trên cột trên cột."
+  },
+  {
+    "question": "Biện pháp an toàn khi trèo lên cột điện để ghi chỉ số công tơ?",
+    "answer": "Ý 2 - Cắt các cầu dao điện của những hòm công tơ trên cột mà không thể tránh được va chạm."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định về an toàn điện khi vào trạm ghi chỉ số công tơ tổng như thế nào?",
+    "answer": "Không được tiếp xúc hoặc đến gần điểm mang điện mà có thể vi phạm khoảng cách an toàn theo quy định. Có thể mở nắp bóp công tơ để kiểm tra mạch đấu."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định khi kiểm tra các mạch đo lường, điều khiển, bảo vệ thì quy định an toàn để cho phép 01 nhân viên vào làm việc tại buồng có điện cao áp như thế nào ?",
+    "answer": "Không có phép 01 người vào làm việc, tối thiểu phải có 02 người và phải thực hiện theo đúng các quy định về an toàn khi công tác ở thiết bị điện cao áp không cắt điện."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định các trường hợp phải cắt điện khi thực hiện lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) như thế nào ?",
+    "answer": "Tất cả các đáp án trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định biện pháp an toàn nào dưới đây là đúng khi làm việc ở những mạch đo lường, điều khiển, bảo vệ đang có điện ?",
+    "answer": "Tại hiện trường nếu phát hiện vị trí làm việc có khả năng ngã đổ hoặc phát hiện công trình khác xung quanh không ổn định có khả năng ngã đổ ảnh hưởng đến vị trí làm việc."
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định biện pháp an toàn nào dưới đây là đúng khi làm việc ở những mạch đo lường, điều khiển, bảo vệ đang có điện ?",
+    "answer": "Tùy từng trường hợp thực tế có thể có phương án hoặc không cần phương án treo, tháo, lắp đặt công tơ theo quy định"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định các trường hợp nào dưới đây phải cắt điện khi thực hiện lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) ?",
+    "answer": "Tất cả các đáp án trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định các trường hợp nào dưới đây phải cắt điện khi thực hiện lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) ?",
+    "answer": "Tất cả các cuộn dây thứ cấp của máy biến dòng điện và máy biến điện áp phải có dây nối đất cố định"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định các trường hợp nào dưới đây phải cắt điện khi thực hiện lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) ?",
+    "answer": "Tất cả các đáp án trên (dưới)"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định các trường hợp nào dưới đây phải cắt điện khi thực hiện lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) ?",
+    "answer": "Tất cả các cuộn dây thứ cấp của máy biến dòng điện và máy biến điện áp phải có dây nối đất cố định"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định các trường hợp nào dưới đây phải cắt điện khi thực hiện lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) ?",
+    "answer": "Cấm để hở mạch cuộn thứ cấp của máy biến dòng điện và để ngắn mạch cuộn thứ cấp của máy biến điện áp"
+  },
+  {
+    "question": "Theo Quy trình An toàn quy định các trường hợp nào dưới đây phải cắt điện khi thực hiện lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) ?",
+    "answer": "Tại hiện trường nếu phát hiện vị trí làm việc có khả năng ngã đổ hoặc phát hiện công trình khác xung quanh không ổn định có khả năng ngã đổ ảnh hưởng đến vị trí làm việc."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi tiến hành ghi chỉ số công tơ điện bằng mắt tại trạm, nhân viên được phép thực hiện hành động nào?",
+    "answer": "Dùng dụng cụ đo chuyên dụng để kiểm tra điện áp trước khi tiếp xúc"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi trèo lên cột điện hoặc trạm trên cột để ghi chỉ số công tơ, nhân viên cần sử dụng thiết bị an toàn cá nhân nào để kiểm tra các cấu kiện kim loại?",
+    "answer": "Đồng hồ vạn năng."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi ghi chỉ số công tơ trên cột điện, nhân viên cần đặc biệt tránh va chạm vào bộ phận nào của lưới điện?",
+    "answer": "Chân sứ cách điện"
+  },
+  {
+    "question": "Theo quy trình an toàn, trong quá trình ghi chỉ số công tơ trên cột, việc kiểm tra các cấu kiện bằng kim loại bằng bút thử điện hạ áp nhằm mục đích gì?",
+    "answer": "Kiểm tra độ ổn định của cột."
+  },
+  {
+    "question": "Theo quy trình an toàn, đối với công việc ghi chỉ số công tơ trên trạm treo, quy định nhân viên phải làm gì để đảm bảo an toàn khi trèo lên?",
+    "answer": "Cắt điện toàn bộ trạm trước khi trèo."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi ghi chỉ số công tơ tại trạm, nhân viên được phép tiếp xúc với phần mang điện nếu:",
+    "answer": "Tuyệt đối cấm tiếp xúc"
+  },
+  {
+    "question": "Theo quy trình an toàn, trong trường hợp trèo lên cột điện để ghi chỉ số công tơ, ngoài bút thử điện hạ áp, nhân viên cần phải sử dụng phương tiện bảo vệ cá nhân nào khác?",
+    "answer": "Thảm cách điện."
+  },
+  {
+    "question": "Theo quy trình an toàn, mục đích chính của việc chỉ ghi chỉ số công tơ bằng mắt (không tiếp xúc) khi vào trạm là gì?",
+    "answer": "Để đảm bảo tính bí mật của chỉ số."
+  },
+  {
+    "question": "Theo quy trình an toàn, quy định việc ghi chỉ số công tơ điện tại trạm không được làm gì đối với các điểm mang điện?",
+    "answer": "Đứng xa hơn khoảng cách an toàn."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V, công việc bắt buộc phải cắt điện trong trường hợp nào sau đây?",
+    "answer": "Không thể che chắn, chống chạm chập cho các phần mang điện hở"
+  },
+  {
+    "question": "Theo quy trình an toàn, một trong những trường hợp bắt buộc phải cắt điện khi lắp đặt mới hoặc thay thế công tơ là khi hiện trường có điều kiện nào?",
+    "answer": "Tại các vị trí không đảm bảo khô ráo cho người công nhân đứng làm việc như các cột trên ruộng nước, vùng ngập úng, bùn lây."
+  },
+  {
+    "question": "Theo quy trình an toàn, việc lắp đặt hoặc thay thế công tơ tại cấp điện áp 220/380 V phải cắt điện nếu:",
+    "answer": "Người công nhân đã được trang bị đầy đủ PTBVCN."
+  },
+  {
+    "question": "Theo quy trình an toàn, Yếu tố nào sau đây là điều kiện bắt buộc phải cắt điện khi thay thế công tơ 220/380 V liên quan đến các vật thể xung quanh?",
+    "answer": "Trụ sở đơn vị quản lý vận hành ở quá xa."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi lắp đặt hoặc thay thế công tơ tại cấp điện áp hạ áp, trường hợp nào sau đây bắt buộc phải cắt điện?",
+    "answer": "Người công nhân không đủ bậc an toàn điện."
+  },
+  {
+    "question": "Theo quy trình an toàn, một trong những yêu cầu an toàn khi lắp đặt mới hoặc thay thế công tơ là phải cắt điện nếu:",
+    "answer": "Công việc kéo dài hơn 08 giờ."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi phát triển mới công tơ (lắp đặt) ở cấp điện áp hạ áp, nếu khu vực làm việc có độ ẩm cao, để đảm bảo an toàn, đơn vị công tác nên ưu tiên giải pháp nào?",
+    "answer": "Cắt điện hoàn toàn."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay định kỳ công tơ 220/380V, nếu vị trí công tác là cột điện nằm trên ruộng nước, việc không cắt điện được phép thực hiện khi:",
+    "answer": "Chỉ cần đứng trên thảm cách điện."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp điện áp 220/380V, nếu đã cắt điện, điều kiện an toàn nào dưới đây phải được đảm bảo?",
+    "answer": "Mọi dụng cụ đã được vệ sinh."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ 220/380V, nếu không thể đảm bảo an toàn, việc cắt điện phải được thực hiện khi:",
+    "answer": "Không thể che chắn, chống chạm chập cho các phần mang điện hở."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi kiểm tra các mạch đo lường, điều khiển, bảo vệ đang có điện tại buồng điện áp cao, biện pháp an toàn bắt buộc nào phải được áp dụng liên quan đến cuộn thứ cấp của máy biến dòng điện và máy biến điện áp?",
+    "answer": "Tháo dây nối đất cố định để kiểm tra."
+  },
+  {
+    "question": "Theo quy trình an toàn, Khi kiểm tra các mạch đo lường đang có điện, Quy trình An toàn nghiêm cấm hành động nào đối với cuộn thứ cấp của máy biến dòng điện (BI)?",
+    "answer": "Ghi lại thông số đo đếm."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi kiểm tra các mạch đo lường đang có điện, Quy trình An toàn nghiêm cấm hành động nào đối với cuộn thứ cấp của máy biến điện áp (BU)?",
+    "answer": "Để ngắn mạch cuộn thứ cấp."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi kiểm tra các mạch đo lường, điều khiển, bảo vệ tại buồng có điện áp cao, Quy trình An toàn cho phép tối đa bao nhiêu nhân viên của Đơn vị công tác được ở lại buồng?",
+    "answer": "02 nhân viên"
+  },
+  {
+    "question": "Theo quy trình an toàn, trong công tác kiểm tra đo đếm (mạch thứ cấp), nếu phải làm việc ở mạch đang có điện, việc nối đất cố định cuộn thứ cấp của BI và BU nhằm mục đích gì?",
+    "answer": "Giảm tổn thất điện năng."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thực hiện công tác kiểm tra các mạch đo lường, điều khiển, bảo vệ đang có điện, nhân viên phải áp dụng biện pháp an toàn nào đối với máy biến áp đo lường (BI/BU)?",
+    "answer": "Thao tác ở cả hai phía sơ cấp và thứ cấp đồng thời."
+  },
+  {
+    "question": "Theo quy trình an toàn, việc thay thế thiết bị đo đếm (máy biến dòng điện) khi đang có điện, Quy trình An toàn nghiêm cấm hành động nào đối với mạch thứ cấp của thiết bị mới?",
+    "answer": "Kiểm tra thông mạch."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi kiểm tra mạch đo lường đang có điện, nhân viên cần phải đặc biệt lưu ý và không làm ảnh hưởng đến bộ phận nào của máy biến dòng điện, máy biến điện áp?",
+    "answer": "Bộ phận bảo vệ quá tải."
+  },
+  {
+    "question": "Theo quy trình an toàn, yêu cầu nào sau đây không phải là biện pháp an toàn khi làm việc ở các mạch đo lường, điều khiển, bảo vệ đang có điện?",
+    "answer": "Cấm để ngắn mạch cuộn thứ cấp của BU."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thao tác với thiết bị đo lường (máy biến dòng điện) đang có điện, nhân viên cần đảm bảo:",
+    "answer": "Kiểm tra dòng điện phía sơ cấp."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi sửa chữa các mạch thuộc hệ thống đo đếm (mạch thứ cấp), nếu không thể cắt điện, nhân viên phải làm gì đối với các kết cấu kim loại tại nơi làm việc?",
+    "answer": "Bọc thêm lớp bảo vệ bằng nhựa."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi treo tháo công tơ (thực hiện công việc có điện), nhân viên phải sử dụng loại trang thiết bị, dụng cụ, phương tiện nào?",
+    "answer": "Chỉ cần dây đeo an toàn và mũ bảo hộ."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế thiết bị đo đếm (tụ điện) sau khi đã cắt điện, để đảm bảo an toàn, nhân viên phải thực hiện thao tác nào trước khi làm việc?",
+    "answer": "Lắp đặt nối đất ngắn mạch."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp điện áp hạ áp, nếu không thực hiện được việc nối đất, công tác này được xem là loại công tác nào?",
+    "answer": "Công tác sửa chữa có điện (hotline) theo quy trình được phê duyệt."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ/hộp công tơ tại cấp điện áp 220/380V, nếu đã cắt điện, điều kiện nào sau đây không bắt buộc phải thỏa mãn để cho phép không cần nối đất di động?",
+    "answer": "Thiết bị điện có cấu trúc gọn, quan sát toàn bộ dễ dàng."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi kiểm tra đo đếm (lấy mẫu dầu máy biến áp) khi máy biến áp đang vận hành, điều kiện an toàn đầu tiên cần chú ý là gì?",
+    "answer": "Kiểm tra nối đất vỏ máy trước."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ 220/380V, nếu vị trí không đảm bảo khô ráo, nhân viên cần thực hiện biện pháp an toàn nào?",
+    "answer": "Sử dụng phương tiện bay để tiếp cận."
+  },
+  {
+    "question": "Theo quy trình an toàn, yêu cầu nào sau đây là bắt buộc khi thực hiện công việc có điện tại vị trí làm việc liên quan đến hệ thống đo đếm điện áp cao?",
+    "answer": "Nhân viên phải mang theo dây đeo an toàn bằng kim loại."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi kiểm tra công tơ điện khi trèo lên trạm trên cột, nhân viên phải dùng bút thử điện hạ áp để kiểm tra bộ phận nào?",
+    "answer": "Dây dẫn của công tơ."
+  },
+  {
+    "question": "Theo quy trình an toàn, trong công tác kiểm tra đo đếm khi thiết bị vẫn có điện, công việc nào sau đây được phép thực hiện khi đảm bảo khoảng cách an toàn?",
+    "answer": "Thay máy biến dòng điện."
+  },
+  {
+    "question": "Theo quy trình an toàn, trong trường hợp xảy ra sự cố cháy hỏng công tơ (cấp hạ áp), hành động ưu tiên ngay lập tức của người làm công tác điện (sau khi báo cáo và đảm bảo an toàn cho bản thân) là gì?",
+    "answer": "Tháo công tơ bị cháy ra khỏi lưới điện"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi xử lý sự cố cháy hỏng hộp công tơ ở cấp hạ áp, sau khi cắt điện, để đảm bảo không có điện ngược từ phía khách hàng, cần thực hiện biện pháp nào?",
+    "answer": "Cắm biển báo nguy hiểm."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ do bị hư hỏng, nếu công tơ nằm trên đường dây hạ áp đi chung cột với đường dây cao áp, để đảm bảo an toàn, cần phải kiểm tra điều kiện gì trước khi làm việc?",
+    "answer": "Chỉ cần kiểm tra công tơ mới."
+  },
+  {
+    "question": "Theo quy trình an toàn, đối với công việc thay định kỳ công tơ tại cấp hạ áp (đang có điện), nhân viên cần phải có trang bị nào để tiếp xúc trực tiếp với dây dẫn, thiết bị mang điện?",
+    "answer": "Quần áo bảo hộ chống hồ quang"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp hạ áp đi chung cột với ĐD cao áp, nếu không có biện pháp đảm bảo khoảng cách an toàn, giải pháp bắt buộc là gì?",
+    "answer": "Dùng sào cách điện để làm việc"
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thao tác trên các thiết bị đo lường (BI/BU) có nguy cơ rò rỉ điện hoặc hỏng hóc, hành động nào sau đây là cần thiết để bảo vệ an toàn cho người thao tác?",
+    "answer": "Rút phích cắm khỏi ổ điện."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ có kèm theo việc thay chì trên cột, công việc chỉ được phép tiến hành khi trời có điều kiện nào?",
+    "answer": "Trời tối."
+  },
+  {
+    "question": "Theo quy trình an toàn, nếu đo dòng điện bằng ampe kìm ở thiết bị điện hạ áp trên cột, nhân viên có bắt buộc phải mang găng tay cách điện, ủng cách điện không?",
+    "answer": "Bắt buộc."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp hạ áp đi vào các hộ phụ tải (nhánh rẽ) và không cần cắt điện đường dây chính hạ áp, cần phải thực hiện thao tác nào để đảm bảo an toàn?",
+    "answer": "Đóng tất cả cầu dao phụ tải."
+  },
+  {
+    "question": "Theo quy trình an toàn, khi thay định kỳ công tơ có kèm theo thay chì trên cột trong điều kiện mưa nhỏ hạt, việc đảm bảo an toàn cần thiết nào sau đây là quan trọng nhất?",
+    "answer": "Cắt điện toàn bộ."
   }
   
 ]

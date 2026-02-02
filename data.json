@@ -1120,8 +1120,12 @@
     "answer": "Sau mỗi ngày làm việc, ĐVCT phải thu dọn nơi làm việc, các BPAT phải được giữ nguyên. Người CHTT phải giao lại (ký) PCT giấy hoặc xác nhận điện tử và những việc liên quan cho người cho phép."
   },
   {
-    "question": "Theo Quy trình An toàn (phần A quy trình an toàn điện), việc thay đổi người (kể cả người CHTT) hoặc số lượng nhân viên ĐVCT được quy định như thế nào?",
+    "question": "Theo Quy trình An toàn, việc thay đổi người (kể cả người CHTT) hoặc số lượng nhân viên ĐVCT được quy định như thế nào?",
     "answer": "Do những người có trách nhiệm của ĐVCT quyết định và đồng thời phải được người CHTT, người cho phép đồng ý."
+  },
+  {
+    "question": "Theo Quy trình an toàn, việc thay đổi Người CHTT của đơn vị công tác để đảm bảo an toàn trong thời gian thực hiện công tác?",
+    "answer": "Do người có trách nhiệm của đơn vị công tác quyết định."
   },
   {
     "question": "Theo Quy trình An toàn, khi làm xong công việc, điều nào không đúng khi người CHTT thực hiện những công việc sau?",
@@ -1229,7 +1233,7 @@
   },
   {
     "question": "Theo Quy trình An toàn thì khoảng cách an toàn phóng điện theo cấp điện áp đối với thiết bị, dụng cụ, phương tiện (trừ xe chuyên dùng cho công tác sửa chữa điện) là ?",
-    "answer": "Từ trên 1-35kV là 2,0 mét; Từ trên 35kV-110kV là 3,0 mét"
+    "answer": "Từ trên 1-35kV là 2,0 mét; 110kV là 3,0 mét"
   },
   {
     "question": "Theo Quy trình An toàn, trong những quy định điều kiện khi làm việc có điện thì nội dung nào không đúng (không phù hợp)?",
@@ -2433,11 +2437,11 @@
   },
   {
     "question": "Theo Quy trình An toàn, khi lắp đặt mới hoặc thay thế công tơ, hộp công tơ ở cấp điện áp 220/380 V (công tơ bán lẻ) phải thực hiện thủ tục an toàn nào?",
-    "answer": "Phải có đầy đủ BPAT trong phương án treo, tháo, lắp đặt công tơ được Phòng kinh doanh cấp Điện lực phê duyệt."
+    "answer": "Không phải khảo sát, lập phương án tổ chức thi công và BPAT riêng, tuy nhiên phải sử dụng đầy đủ các trang bị an toàn, đối với các trường hợp phải cắt điện thì tuân thủ đúng quy trình."
   },
   {
     "question": "Theo Quy trình An toàn, khi treo tháo công tơ, trường hợp nào sau đây không phải cắt điện?",
-    "answer": "Tại vị trí làm việc có nhiều chướng ngại vật; Không gian nhỏ, khó thực hiện: Vị trí làm việc có khả năng ngã đổ hoặc công trình khác xung quanh không ổn định."
+    "answer": "Vị trí làm việc thuận lợi về cơ học và điện"
   },
   {
     "question": "Theo Quy trình An toàn, khi trèo lên cột điện để ghi chỉ số công tơ phải thực hiện những BPAT nào?",
@@ -2457,19 +2461,19 @@
   },
   {
     "question": "Anh A là công nhân có bậc 1 an toàn điện, khi tham gia nhóm công tác thay công tơ định kỳ, anh A được làm công việc nào sau đây?",
-    "answer": "Lên cột cùng phụ với đồng nghiệp."
+    "answer": "Đứng dưới phụ đưa vật tư, vật dụng."
   },
   {
     "question": "Anh A là công nhân có bậc 1 an toàn điện, khi tham gia nhóm công tác lắp đặt công tơ phát triển khách hàng, anh A được làm công việc nào sau đây?",
-    "answer": "Tất cả các đáp án trên (dưới) đều đúng."
+    "answer": "Lắp hoàn thiện hộp công tơ dưới đất."
   },
   {
     "question": "Anh A là công nhân có bậc 1 an toàn điện, anh A được làm những công việc nào sau đây?",
-    "answer": "Trực tiếp lắp công tơ, đấu nối trên cột trên cột."
+    "answer": "Tất cả các đáp án trên (dưới) đều sai."
   },
   {
     "question": "Biện pháp an toàn khi trèo lên cột điện để ghi chỉ số công tơ?",
-    "answer": "Ý 2 - Cắt các cầu dao điện của những hòm công tơ trên cột mà không thể tránh được va chạm."
+    "answer": "Cả Ý 1 và Ý 3 đều đúng."
   },
   {
     "question": "Theo Quy trình An toàn quy định về an toàn điện khi vào trạm ghi chỉ số công tơ tổng như thế nào?",
@@ -2485,7 +2489,7 @@
   },
   {
     "question": "Theo Quy trình An toàn quy định biện pháp an toàn nào dưới đây là đúng khi làm việc ở những mạch đo lường, điều khiển, bảo vệ đang có điện ?",
-    "answer": "Tại hiện trường nếu phát hiện vị trí làm việc có khả năng ngã đổ hoặc phát hiện công trình khác xung quanh không ổn định có khả năng ngã đổ ảnh hưởng đến vị trí làm việc."
+    "answer": "Cấm để hở mạch cuộn thứ cấp của máy biến dòng điện và để ngắn mạch cuộn thứ cấp của máy biến điện áp"
   },
   {
     "question": "Theo Quy trình An toàn quy định biện pháp an toàn nào dưới đây là đúng khi làm việc ở những mạch đo lường, điều khiển, bảo vệ đang có điện ?",
@@ -2517,11 +2521,11 @@
   },
   {
     "question": "Theo quy trình an toàn, khi tiến hành ghi chỉ số công tơ điện bằng mắt tại trạm, nhân viên được phép thực hiện hành động nào?",
-    "answer": "Dùng dụng cụ đo chuyên dụng để kiểm tra điện áp trước khi tiếp xúc"
+    "answer": "Chỉ ghi chỉ số bằng mắt và không tiếp xúc với phần mang điện"
   },
   {
     "question": "Theo quy trình an toàn, khi trèo lên cột điện hoặc trạm trên cột để ghi chỉ số công tơ, nhân viên cần sử dụng thiết bị an toàn cá nhân nào để kiểm tra các cấu kiện kim loại?",
-    "answer": "Đồng hồ vạn năng."
+    "answer": "Bút thử điện hạ áp"
   },
   {
     "question": "Theo quy trình an toàn, khi ghi chỉ số công tơ trên cột điện, nhân viên cần đặc biệt tránh va chạm vào bộ phận nào của lưới điện?",
@@ -2541,7 +2545,7 @@
   },
   {
     "question": "Theo quy trình an toàn, trong trường hợp trèo lên cột điện để ghi chỉ số công tơ, ngoài bút thử điện hạ áp, nhân viên cần phải sử dụng phương tiện bảo vệ cá nhân nào khác?",
-    "answer": "Thảm cách điện."
+    "answer": "Dây đeo an toàn (hoặc dây da)."
   },
   {
     "question": "Theo quy trình an toàn, mục đích chính của việc chỉ ghi chỉ số công tơ bằng mắt (không tiếp xúc) khi vào trạm là gì?",
@@ -2565,7 +2569,7 @@
   },
   {
     "question": "Theo quy trình an toàn, Yếu tố nào sau đây là điều kiện bắt buộc phải cắt điện khi thay thế công tơ 220/380 V liên quan đến các vật thể xung quanh?",
-    "answer": "Trụ sở đơn vị quản lý vận hành ở quá xa."
+    "answer": "Tại hiện trường nếu phát hiện vị trí làm việc có khả năng ngã đổ hoặc phát hiện công trình khác xung quanh không ổn định có khả năng ngã đổ ảnh hưởng đến vị trí làm việc."
   },
   {
     "question": "Theo quy trình an toàn, khi lắp đặt hoặc thay thế công tơ tại cấp điện áp hạ áp, trường hợp nào sau đây bắt buộc phải cắt điện?",
@@ -2573,7 +2577,7 @@
   },
   {
     "question": "Theo quy trình an toàn, một trong những yêu cầu an toàn khi lắp đặt mới hoặc thay thế công tơ là phải cắt điện nếu:",
-    "answer": "Công việc kéo dài hơn 08 giờ."
+    "answer": "Hiện trường không thể thực hiện đủ, đúng các biện pháp an toàn đã được duyệt."
   },
   {
     "question": "Theo quy trình an toàn, khi phát triển mới công tơ (lắp đặt) ở cấp điện áp hạ áp, nếu khu vực làm việc có độ ẩm cao, để đảm bảo an toàn, đơn vị công tác nên ưu tiên giải pháp nào?",
@@ -2585,7 +2589,7 @@
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp điện áp 220/380V, nếu đã cắt điện, điều kiện an toàn nào dưới đây phải được đảm bảo?",
-    "answer": "Mọi dụng cụ đã được vệ sinh."
+    "answer": "Đảm bảo không thể có điện trở lại từ nguồn khác"
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế công tơ 220/380V, nếu không thể đảm bảo an toàn, việc cắt điện phải được thực hiện khi:",
@@ -2593,11 +2597,11 @@
   },
   {
     "question": "Theo quy trình an toàn, khi kiểm tra các mạch đo lường, điều khiển, bảo vệ đang có điện tại buồng điện áp cao, biện pháp an toàn bắt buộc nào phải được áp dụng liên quan đến cuộn thứ cấp của máy biến dòng điện và máy biến điện áp?",
-    "answer": "Tháo dây nối đất cố định để kiểm tra."
+    "answer": "Tất cả các cuộn dây thứ cấp của máy biến dòng điện và máy biến điện áp phải có dây nối đất cố định."
   },
   {
     "question": "Theo quy trình an toàn, Khi kiểm tra các mạch đo lường đang có điện, Quy trình An toàn nghiêm cấm hành động nào đối với cuộn thứ cấp của máy biến dòng điện (BI)?",
-    "answer": "Ghi lại thông số đo đếm."
+    "answer": "Để hở mạch cuộn thứ cấp."
   },
   {
     "question": "Theo quy trình an toàn, khi kiểm tra các mạch đo lường đang có điện, Quy trình An toàn nghiêm cấm hành động nào đối với cuộn thứ cấp của máy biến điện áp (BU)?",
@@ -2621,7 +2625,7 @@
   },
   {
     "question": "Theo quy trình an toàn, khi kiểm tra mạch đo lường đang có điện, nhân viên cần phải đặc biệt lưu ý và không làm ảnh hưởng đến bộ phận nào của máy biến dòng điện, máy biến điện áp?",
-    "answer": "Bộ phận bảo vệ quá tải."
+    "answer": "Bộ phận nối đất phía thứ cấp"
   },
   {
     "question": "Theo quy trình an toàn, yêu cầu nào sau đây không phải là biện pháp an toàn khi làm việc ở các mạch đo lường, điều khiển, bảo vệ đang có điện?",
@@ -2633,7 +2637,7 @@
   },
   {
     "question": "Theo quy trình an toàn, khi sửa chữa các mạch thuộc hệ thống đo đếm (mạch thứ cấp), nếu không thể cắt điện, nhân viên phải làm gì đối với các kết cấu kim loại tại nơi làm việc?",
-    "answer": "Bọc thêm lớp bảo vệ bằng nhựa."
+    "answer": "Kiểm tra các kết cấu kim loại tại nơi làm việc có khả năng tiếp xúc phải đảm bảo không có điện."
   },
   {
     "question": "Theo quy trình an toàn, khi treo tháo công tơ (thực hiện công việc có điện), nhân viên phải sử dụng loại trang thiết bị, dụng cụ, phương tiện nào?",
@@ -2641,7 +2645,7 @@
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế thiết bị đo đếm (tụ điện) sau khi đã cắt điện, để đảm bảo an toàn, nhân viên phải thực hiện thao tác nào trước khi làm việc?",
-    "answer": "Lắp đặt nối đất ngắn mạch."
+    "answer": "Phóng điện (xả điện tích) các tụ điện theo quy định."
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp điện áp hạ áp, nếu không thực hiện được việc nối đất, công tác này được xem là loại công tác nào?",
@@ -2649,7 +2653,7 @@
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế công tơ/hộp công tơ tại cấp điện áp 220/380V, nếu đã cắt điện, điều kiện nào sau đây không bắt buộc phải thỏa mãn để cho phép không cần nối đất di động?",
-    "answer": "Thiết bị điện có cấu trúc gọn, quan sát toàn bộ dễ dàng."
+    "answer": "Thiết bị có điện áp danh định dưới 10 kV"
   },
   {
     "question": "Theo quy trình an toàn, khi kiểm tra đo đếm (lấy mẫu dầu máy biến áp) khi máy biến áp đang vận hành, điều kiện an toàn đầu tiên cần chú ý là gì?",
@@ -2669,7 +2673,7 @@
   },
   {
     "question": "Theo quy trình an toàn, trong công tác kiểm tra đo đếm khi thiết bị vẫn có điện, công việc nào sau đây được phép thực hiện khi đảm bảo khoảng cách an toàn?",
-    "answer": "Thay máy biến dòng điện."
+    "answer": "Đo dòng điện bằng ampe kìm."
   },
   {
     "question": "Theo quy trình an toàn, trong trường hợp xảy ra sự cố cháy hỏng công tơ (cấp hạ áp), hành động ưu tiên ngay lập tức của người làm công tác điện (sau khi báo cáo và đảm bảo an toàn cho bản thân) là gì?",
@@ -2685,11 +2689,11 @@
   },
   {
     "question": "Theo quy trình an toàn, đối với công việc thay định kỳ công tơ tại cấp hạ áp (đang có điện), nhân viên cần phải có trang bị nào để tiếp xúc trực tiếp với dây dẫn, thiết bị mang điện?",
-    "answer": "Quần áo bảo hộ chống hồ quang"
+    "answer": "Dụng cụ cách điện có tay cầm chắc chắn và găng tay cách điện hạ áp."
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp hạ áp đi chung cột với ĐD cao áp, nếu không có biện pháp đảm bảo khoảng cách an toàn, giải pháp bắt buộc là gì?",
-    "answer": "Dùng sào cách điện để làm việc"
+    "answer": "Phải cắt điện cả 02 ĐDK cao áp và hạ áp."
   },
   {
     "question": "Theo quy trình an toàn, khi thao tác trên các thiết bị đo lường (BI/BU) có nguy cơ rò rỉ điện hoặc hỏng hóc, hành động nào sau đây là cần thiết để bảo vệ an toàn cho người thao tác?",
@@ -2697,15 +2701,19 @@
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế công tơ có kèm theo việc thay chì trên cột, công việc chỉ được phép tiến hành khi trời có điều kiện nào?",
-    "answer": "Trời tối."
+    "answer": "Trời khô ráo, không có giông, gió to, sấm sét."
   },
   {
     "question": "Theo quy trình an toàn, nếu đo dòng điện bằng ampe kìm ở thiết bị điện hạ áp trên cột, nhân viên có bắt buộc phải mang găng tay cách điện, ủng cách điện không?",
-    "answer": "Bắt buộc."
+    "answer": "Không bắt buộc, nếu ampe mét đọc riêng (nhưng phải tuân theo quy định an toàn khi làm việc trên cao)"
   },
   {
     "question": "Theo quy trình an toàn, khi thay thế công tơ tại cấp hạ áp đi vào các hộ phụ tải (nhánh rẽ) và không cần cắt điện đường dây chính hạ áp, cần phải thực hiện thao tác nào để đảm bảo an toàn?",
-    "answer": "Đóng tất cả cầu dao phụ tải."
+    "answer": "Cắt toàn bộ các aptomat trong nhà khách hàng."
+  },
+  {
+    "question": "Theo Quy trình an toàn(phần A quy trình an toàn điện), việc thay đổi nhân viên công tác của ĐVCT để đảm bảo an toàn trong thời gian thực hiện công tác phải thực hiện như thế nào?",
+    "answer": "Do người có trách nhiệm của Đơn vị công tác quyết định và Người chỉ huy trực tiếp phải thông báo tới Người cho phép."
   },
   {
     "question": "Theo quy trình an toàn, khi thay định kỳ công tơ có kèm theo thay chì trên cột trong điều kiện mưa nhỏ hạt, việc đảm bảo an toàn cần thiết nào sau đây là quan trọng nhất?",

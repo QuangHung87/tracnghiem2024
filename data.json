@@ -577,7 +577,7 @@
   },
   {
     "question": "Để giảm nguy cơ bị Stress khi làm việc tại văn phòng?",
-    "answer": "Bố trí sắp sếp hài hòa giữa gia đình và công việc"
+    "answer": "Bố trí sắp xếp công việc khoa học hợp lý."
   },
   {
     "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút thứ 3 thì khả năng cứu sống đạt bao nhiêu %?",
@@ -3590,6 +3590,10 @@
   {
     "question": "Anh A là công nhân có bậc 1 an toàn điện, khi tham gia nhóm công tác thay công tơ định kỳ, anh A được làm công việc nào sau đây?",
     "answer": "Lên cột cùng phụ với đồng nghiệp."
+  },
+    {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp đến 110 kV trong trường hợp có rào chắn quy định là bao nhiêu?",
+    "answer": "1,5m"
   },
   {
     "question": "Anh A là công nhân có bậc 1 an toàn điện, khi tham gia nhóm công tác lắp đặt công tơ phát triển khách hàng, anh A được làm công việc nào sau đây?",

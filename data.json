@@ -296,7 +296,7 @@
     "answer": "Biểu tình, đình công; tham gia các tổ chức chính trị xã hội do người nước ngoài thành lập;"
   },
   {
-    "question": "Theo Bộ Luật lao động thì người lao động không phải thực hiện nghĩa vụ sau đây?",
+    "question": "Theo Bộ Luật lao động thì người lao động không phải thực hiện nghĩa vụ sau đây?",
     "answer": "Phải báo cáo kịp thời, đầy đủ về thu nhập cho NSDLĐ và đóng bảo hiểm xã hội."
   },
   {
@@ -384,10 +384,6 @@
     "answer": "Tất cả các câu đều đúng."
   },
   {
-    "question": "Các biện pháp để ngăn ngừa, hạn chế tai nạn điện là?",
-    "answer": "Tất cả các đáp án đều đúng"
-  },
-  {
     "question": "Quy trình cấp cứu hồi sinh tổng hợp có bao nhiêu bước?",
     "answer": "5."
   },
@@ -453,7 +449,7 @@
   },
   {
     "question": "Nạn nhân bị điện giật được cứu chữa ngay trong phút thứ 2 thì khả năng cứu sống đạt bao nhiêu %?",
-    "answer": "90%"
+    "answer": "90"
   },
   {
     "question": "Người điều khiển xe không được vượt xe khác ở những nơi nào sau đây?",
@@ -577,7 +573,7 @@
   },
   {
     "question": "Nguyên nhân bị Stress khi làm việc tại văn phòng?",
-    "answer": "Do áp lực công việc quá cao."
+    "answer": "Do bất đồng quan điểm đồng nghiệp, lãnh đạo ."
   },
   {
     "question": "Để giảm nguy cơ bị Stress khi làm việc tại văn phòng?",
@@ -638,6 +634,10 @@
   {
     "question": "Dấu hiệu của sự cháy bao gồm những dấu hiệu nào?",
     "answer": "Cả ba đáp án trên (dưới)"
+  },
+    {
+    "question": "Theo Quy trình An toàn điện, phân loại theo mức độ rủi ro (theo Quy định công tác an toàn trong Tập đoàn Điện lực Quốc gia Việt Nam), rủi ro cấp 3 là?",
+    "answer": "Là rủi ro có mức độ rủi ro cao."
   },
   {
     "question": "Những yếu tố cần thiết cho sự cháy bao gồm những yếu tố nào?",
@@ -2966,6 +2966,14 @@
   {
     "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 5 là bước gì?",
     "answer": "Hô hấp nhân tạo"
+  },
+    {
+    "question": "Theo Quy trình An toàn điện, phân loại theo mức độ rủi ro (theo Quy định công tác an toàn trong Tập đoàn Điện lực Quốc gia Việt Nam), rủi ro cấp 2 là?",
+    "answer": "Là rủi ro có mức độ rủi ro trung bình."
+  },
+    {
+    "question": "Theo Quy trình An toàn điện, phân loại theo mức độ rủi ro (theo Quy định công tác an toàn trong Tập đoàn Điện lực Quốc gia Việt Nam), rủi ro cấp 1 là?",
+    "answer": "Là rủi ro có mức độ rủi ro thấp."
   },
   {
     "question": "Phương pháp cấp cứu hồi sinh tổng hợp bước 3 thực hiện như thế nào?",

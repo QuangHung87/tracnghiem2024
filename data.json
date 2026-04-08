@@ -429,7 +429,7 @@
   },
   {
     "question": "Tác hại của tiếng ồn cao với người lao động như thế nào?",
-    "answer": "Gây ra những rối loạn cơ thể, gồm: giảm thính lực từ có hồi phục đến không hồi phục (điếc nghề nghiệp), cao huyết áp, tim mạch, các bệnh đường tiêu hóa, nhược dương, rối loạn giấc ngủ, giảm, ham muốn tình dục, thay đổi chức năng miễn dịch, dị dạng thai nhi…"
+    "answer": "Gây bệnh điếc nghề nghiệp, rối loạn giấc ngủ, bệnh suy nhược thần kinh, tâm thần, bệnh tiêu hóa."
   },
   {
     "question": "Ảnh hưởng của điều hòa nhiệt độ tới nhân viên văn phòng như thế nào?",
@@ -569,7 +569,7 @@
   },
   {
     "question": "Nguy cơ về các bệnh hô hấp khi làm việc tại văn phòng?",
-    "answer": "Do công tác vệ sinh văn phòng kém, môi trường làm việc bẩn ."
+    "answer": "Do độ ẩm cao, nấm mốc phát triển."
   },
   {
     "question": "Để giảm nguy cơ các bệnh hô hấp khi làm việc tại văn phòng?",
@@ -722,6 +722,10 @@
   {
     "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp đến 6 kV trong trường hợp có rào chắn theo quy định là bao nhiêu?",
     "answer": "0,35m"
+  },
+    {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp đến 6 kV trong trường hợp không có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,7m"
   },
   {
     "question": "Số 5 trong ký hiệu bình MT-5 thể hiện gì ?",
@@ -3023,6 +3027,14 @@
     "question": "Trong chữa cháy người ta quy ước chữ cái A là thể hiện cho chất cháy loại gì ?",
     "answer": "Chất cháy rắn"
   },
+    {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp đến 10 kV trong trường hợp có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,35m"
+  },
+    {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp 22kV trong trường hợp không có rào chắn theo quy định là bao nhiêu?",
+    "answer": "1m"
+  },
   {
     "question": "Trong chữa cháy người ta quy ước chữ cái B là thể hiện cho chất cháy loại gì ?",
     "answer": "Chất cháy lỏng"
@@ -3822,6 +3834,10 @@
   {
     "question": "Theo quy trình an toàn, khi thay định kỳ công tơ có kèm theo thay chì trên cột trong điều kiện mưa nhỏ hạt, việc đảm bảo an toàn cần thiết nào sau đây là quan trọng nhất?",
     "answer": "Cắt điện toàn bộ."
+  },
+    {
+    "question": "Khoảng cách an toàn điện tối thiểu đối với cấp điện áp đến 1000V trong trường hợp có rào chắn theo quy định là bao nhiêu?",
+    "answer": "0,35m"
   }
   
 ]
